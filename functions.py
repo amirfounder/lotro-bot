@@ -48,7 +48,7 @@ def generate_coords(left, top, width, height):
 def find_image(file_name, confidence=0.8):
     try:
         return pyautogui.locateOnScreen(
-            f'{LOCAL_PROJECT_PATH}{file_name}.png',
+            f'{LOCAL_PROJECT_PATH}images\\{file_name}.png',
             confidence=confidence)
     except pyautogui.ImageNotFoundException:
         return None
