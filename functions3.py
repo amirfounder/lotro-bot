@@ -2,14 +2,14 @@ import math
 
 import pydirectinput as pdi
 
-from functions import generate_delay as delay
+from global_helpers import generate_delay as delay
 from functions2 import click_button, \
     harvest_field
 
 
-def plant_and_harvest_crops():
+def plant_and_harvest_crops(count):
 
-    for i in range(45):
+    for i in range(count):
         click_button('make')
         delay(250)
         pdi.press('t')
