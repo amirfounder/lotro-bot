@@ -3,6 +3,8 @@ from random import randint
 
 import pyautogui
 
+from config import LOCAL_PROJECT_PATH
+
 
 def countdown():
     for i in range(5):
@@ -46,7 +48,7 @@ def generate_coords(left, top, width, height):
 def find_image(file_name, confidence=0.8):
     try:
         return pyautogui.locateOnScreen(
-            f'C:\\Users\\Amir Sharapov\\Code\\bots\\lotro-bot\\images\\{file_name}.png',
+            f'{LOCAL_PROJECT_PATH}{file_name}.png',
             confidence=confidence)
     except pyautogui.ImageNotFoundException:
         return None
