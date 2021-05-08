@@ -1,7 +1,8 @@
 from random import randint
 import pydirectinput as pdi
 
-from functions import find_image, generate_delay as delay
+from config import LOCAL_PROJECT_PATH
+from functions import find_image, generate_delay as delay, generate_delay, generate_haystack_image
 from functions import generate_coords as gc
 
 
@@ -80,9 +81,15 @@ def click_button(button):
 
 
 def harvest_field(crop):
-    c = find_image(f'fields\\{crop}_field')
+    generate_haystack_image()
+    delay(1000)
+    c = find_image(
+        f'fields\\{crop}_field',
+        confidence=0.3
+        # haystackImage=f'{LOCAL_PROJECT_PATH}haystack.png'
+    )
     if c is None:
-        print('IMAGE CAPTURE FAILED')
+        print(f'IMAGE CAPTURE FAILED: {crop}')
         return
     else:
         for i in range(randint(1,2)):
@@ -103,10 +110,10 @@ def interact_with_npc(nameplate):
         print('interacted with npc')
 
 
-def navigate_to_recipe(tab, tier, category, recipe):
+def navigate_to_recipe(trade, tier, category, recipe):
     toggle_crafting_panel()
     delay(200)
-    toggle_tab(tab)
+    toggle_tab(trade)
     delay(200)
     toggle_tier(tier)
     delay(200)

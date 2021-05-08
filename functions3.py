@@ -11,10 +11,14 @@ def plant_and_harvest_crops():
 
     for i in range(45):
         click_button('make')
-        delay(4250, 500)
+        delay(250)
+        pdi.press('t')
+        delay(4000, 500)
 
         harvest_field('spring_barley')
         delay(7000, 500)
+        pdi.press('t')
+        delay(250)
 
 
 def make_bulk_recipe(total, batch_count):

@@ -12,7 +12,7 @@ def countdown():
         time.sleep(1)
 
 
-def reset_camera():
+def reset_camera(actual=False):
     pyautogui.mouseDown()
     generate_delay(200)
     pyautogui.move(0, 500)
@@ -30,6 +30,10 @@ def reset_camera():
     for i in range(21):
         pyautogui.scroll(-1)
     generate_delay(500)
+    if actual:
+        for i in range(9):
+            pyautogui.scroll(1)
+    generate_delay(500)
 
 
 def generate_delay(delay_ms=1000, delay_range=100):
@@ -45,10 +49,32 @@ def generate_coords(left, top, width, height):
     return coords
 
 
-def find_image(file_name, confidence=0.8):
-    try:
-        return pyautogui.locateOnScreen(
-            f'{LOCAL_PROJECT_PATH}images\\{file_name}.png',
-            confidence=confidence)
-    except pyautogui.ImageNotFoundException:
-        return None
+def find_image(file_name, confidence=0.8, grayscale=False, haystackImage=None):
+    if haystackImage is None:
+        try:
+            return pyautogui.locateOnScreen(
+                f'{LOCAL_PROJECT_PATH}images\\{file_name}.png',
+                confidence=confidence,
+                grayscale=grayscale)
+        except pyautogui.ImageNotFoundException:
+            return None
+    else:
+        try:
+            return pyautogui.locate(
+                needleImage=f'{LOCAL_PROJECT_PATH}images\\{file_name}.png',
+                haystackImage=haystackImage,
+                confidence=confidence,
+                grayscale=grayscale
+            )
+        except pyautogui.ImageNotFoundException:
+            return None
+
+
+def generate_haystack_image():
+    center_x = (1152 / 2)
+    center_y = (864 / 2)
+    left = center_x * .40
+    top = center_y * .40
+    width = 1152 * .60
+    height = 864 * .60
+    pyautogui.screenshot('haystack.png', region=(left, top, width, height))
