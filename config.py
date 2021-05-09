@@ -1,9 +1,8 @@
-LIVE = True
-FARMING_TOOL_SPEED_BOOST = 0
-LOCATION = 'Celondim'
-
-PROJECT_DIRECTORY = r'C:\Users\Amirf\code\lotro-bot'
-
-IMAGES_DIRECTORY_PATH = PROJECT_DIRECTORY + r'\reference_images'
-LOGS_DIRECTORY_PATH = PROJECT_DIRECTORY + r'\logs'
-ML_DATA_DIRECTORY_PATH = PROJECT_DIRECTORY + r'\ml_data'
+"""
+Process finished.
+The 'config.py' has undergone self-destruction.
+3...
+2...
+1...
+BOOM!
+"""

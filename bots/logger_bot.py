@@ -21,7 +21,7 @@ class LoggerBot:
         f = open(self.log_file, mode='a')
         f.write(f'{message}\n')
 
-    def log_message(self, l_level=r'N\A', l_type=r'N\A', l_message=r'N\A', persist=True, capitalize_message=True):
+    def log_message(self, l_level=r'N\A', l_type=r'N\A', l_message=r'N\A', persist=config.LIVE, capitalize_message=True):
         """
         General method to print a log message and save to file
         :param l_level: level of the logging message(generator_bot, image_bot, etc.)

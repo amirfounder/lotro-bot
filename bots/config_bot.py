@@ -1,0 +1,48 @@
+import os
+
+
+class ConfigBot:
+
+    def __init__(self):
+        print('config bot started')
+
+    @staticmethod
+    def new_line():
+        return '\n'
+
+    @staticmethod
+    def get_project_pathname():
+        cwd = os.getcwd()
+        index = cwd.index(r'lotro-bot')
+        cpd = ''
+        for i in range(len(cwd)):
+            if i < index + 9:
+                cpd += cwd[i]
+            else:
+                break
+        return cpd
+
+    def generate_is_live_env(self):
+        if self.get_project_pathname() == r'C:\Users\Amir Sharapov\Code\bots\lotro-bot':
+            return 'False'
+        return 'True'
+
+    def generate_config_py(self):
+        is_live_env = self.generate_is_live_env()
+        f = open(f'{self.get_project_pathname()}\\config.py', 'w')
+        nl = self.new_line()
+
+        f.write(f"PROJECT_DIRECTORY = r'{self.get_project_pathname()}'" + nl)
+        f.write(r"IMAGES_DIRECTORY_PATH = PROJECT_DIRECTORY + r'\reference_images'" + nl)
+        f.write(r"LOGS_DIRECTORY_PATH = PROJECT_DIRECTORY + r'\logs'" + nl)
+        f.write(r"ML_DATA_DIRECTORY_PATH = PROJECT_DIRECTORY + r'\ml_data'" + nl)
+        f.write(nl)
+        f.write(f"LIVE = {is_live_env}" + nl)
+        f.write(nl)
+        f.write(r"LOCATION = 'Celondim'" + nl)
+        f.close()
+
+    def destroy_config_py(self):
+        f = open(f'{self.get_project_pathname()}\\config.py', 'w')
+        f.write(f'"""\nProcess finished.\nThe \'config.py\' has undergone self-destruction.\n3...\n2...\n1...\nBOOM!\n"""')
+        f.close()
