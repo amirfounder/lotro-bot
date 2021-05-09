@@ -1,0 +1,1554 @@
+2021_05_08 19:31:07:027788     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:successfully reset project directory to 'C:\Users\Amir Sharapov\Code\bots\lotro-bot'
+2021_05_08 19:31:19:246134     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:successfully reset project directory to 'C:\Users\Amir Sharapov\Code\bots\lotro-bot'
+2021_05_08 19:31:30:504157     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Successfully reset project directory to 'C:\Users\Amir Sharapov\Code\bots\lotro-bot'
+2021_05_08 20:04:33:296210     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:initialized countdown...
+2021_05_08 20:04:42:552905     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:initialized countdown...
+2021_05_08 20:04:42:553891     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:success! Bots deployed!
+2021_05_08 20:04:42:553891     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Successfully reset project directory to 'C:\Users\Amir Sharapov\Code\bots\lotro-bot'
+2021_05_08 20:06:42:904672     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (367, 416)
+2021_05_08 20:06:42:905656     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:06:42:905656     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:counting down: 5
+2021_05_08 20:07:50:804632     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (317, 365)
+2021_05_08 20:07:50:804632     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:07:50:804632     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:counting down: 5
+2021_05_08 20:08:05:226066     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:08:05:227062     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:counting down: 5
+2021_05_08 20:08:14:020110     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:08:14:021086     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:counting down: 5
+2021_05_08 20:09:07:919122     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:09:07:919122     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:counting down: 5
+2021_05_08 20:09:08:921022     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 1000 ms (1.0) sec
+2021_05_08 20:09:08:922000     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:counting down: 4
+2021_05_08 20:09:09:922258     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 1000 ms (1.0) sec
+2021_05_08 20:09:09:922258     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:counting down: 3
+2021_05_08 20:09:10:924072     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 1000 ms (1.0) sec
+2021_05_08 20:09:10:924072     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:counting down: 2
+2021_05_08 20:09:11:926009     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 1000 ms (1.0) sec
+2021_05_08 20:09:11:926009     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:counting down: 1
+2021_05_08 20:09:12:926741     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 1000 ms (1.0) sec
+2021_05_08 20:09:12:926741     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:09:12:926741     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Successfully reset project directory to 'C:\Users\Amir Sharapov\Code\bots\lotro-bot'
+2021_05_08 20:09:47:407031     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:09:47:408009     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:counting down: 5
+2021_05_08 20:09:48:408488     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:counting down: 4
+2021_05_08 20:09:49:408574     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:counting down: 3
+2021_05_08 20:09:50:408650     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:counting down: 2
+2021_05_08 20:09:51:408946     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:counting down: 1
+2021_05_08 20:09:52:409141     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:09:52:409141     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Successfully reset project directory to 'C:\Users\Amir Sharapov\Code\bots\lotro-bot'
+2021_05_08 20:10:05:728713     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:10:05:728713     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:10:06:730652     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:10:07:730696     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:10:08:731420     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:10:09:731839     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:10:10:732159     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:10:10:732159     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Successfully reset project directory to 'C:\Users\Amir Sharapov\Code\bots\lotro-bot'
+2021_05_08 20:27:40:591155     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:27:40:592132     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:27:41:592979     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:27:42:593335     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:27:43:593478     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:27:44:594080     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:27:45:595070     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:27:53:024496     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:27:53:024496     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:27:54:026440     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:27:55:027798     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:27:56:028445     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:27:57:028629     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:27:58:030205     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:31:05:257927     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:31:05:257927     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:31:06:258640     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:31:07:259241     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:31:08:259824     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:31:09:260588     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:31:10:260822     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:33:13:934538     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:33:13:935514     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:33:14:936466     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:33:15:936921     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:33:16:937712     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:33:17:938444     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:33:18:938814     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:33:19:040601     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:33:47:813901     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:33:47:814879     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:33:48:814970     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:33:49:815502     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:33:50:816286     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:33:51:817044     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:33:52:818950     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:33:52:920573     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:34:21:022086     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:34:21:022086     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:34:22:023554     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:34:23:024166     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:34:24:026116     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:34:25:026957     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:34:26:027073     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:34:26:127504     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:34:28:303660     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse an x offset of 0 and y offset of 200 and duration of 2 seconds
+2021_05_08 20:34:28:409690     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:34:55:480710     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:34:55:481688     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:34:56:482628     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:34:57:484242     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:34:58:484634     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:34:59:485375     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:35:00:485532     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:35:00:592930     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:35:02:769392     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse an x offset of 0 and y offset of 200 and duration of 2 seconds
+2021_05_08 20:35:02:871017     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:35:10:566652     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:35:10:566652     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:35:11:567055     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:35:12:568556     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:35:13:569358     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:35:14:569952     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:35:15:570693     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:35:15:675771     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:35:17:852286     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse an x offset of 0 and y offset of 200 and duration of 2 seconds
+2021_05_08 20:35:17:953995     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:36:57:594885     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:36:57:594885     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:36:58:596428     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:36:59:596492     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:37:00:597689     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:37:01:598335     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:37:02:598646     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:37:14:989312     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:37:14:989312     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:37:15:989569     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:37:16:989902     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:37:17:990720     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:37:18:990786     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:37:19:991620     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:37:19:991620     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (996, 471)
+2021_05_08 20:37:20:098154     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:37:22:274441     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse an x offset of 0 and y offset of 200 and duration of 2 seconds
+2021_05_08 20:37:22:376129     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:37:52:009112     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:37:52:010089     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:37:53:010619     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:37:54:010787     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:37:55:011675     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:37:56:012405     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:37:57:012863     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:37:57:012863     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (943, 476)
+2021_05_08 20:37:57:121849     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:37:59:297951     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse an x offset of 0 and y offset of 200 and duration of 2 seconds
+2021_05_08 20:37:59:399183     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:40:52:429451     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:40:52:429451     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:40:53:431070     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:40:54:432836     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:40:55:432868     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:40:56:433521     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:40:57:434870     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:40:57:434870     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 20:40:57:435845     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1073, 544)
+2021_05_08 20:40:57:540929     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:40:59:718074     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse an x offset of 0 and y offset of 200 and duration of 2 seconds
+2021_05_08 20:40:59:819695     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:42:26:052244     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:42:26:052244     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:42:27:052539     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:42:28:053337     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:42:29:054901     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:42:30:055402     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:42:31:055835     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:42:31:055835     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 20:42:31:056810     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (810, 581)
+2021_05_08 20:42:41:913435     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:42:41:914415     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:42:42:916337     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:42:43:916756     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:42:44:917511     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:42:45:917627     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:42:46:918813     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:42:46:918813     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 20:42:46:919790     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (697, 597)
+2021_05_08 20:42:48:081578     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (697, 597) over a duration of 1 seconds
+2021_05_08 20:44:45:884715     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:44:45:885691     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:44:46:886421     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:44:47:886475     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:44:48:887117     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:44:49:888032     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:44:50:888983     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:44:50:888983     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 20:44:50:889958     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (983, 680)
+2021_05_08 20:44:52:053869     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (983, 680) over a duration of 1 seconds
+2021_05_08 20:44:52:160040     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:44:54:337003     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (983, 780) over a duration of 2 seconds
+2021_05_08 20:44:54:438425     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:45:07:296271     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:45:07:296271     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:45:08:297766     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:45:09:298722     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:45:10:298807     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:45:11:299621     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:45:12:299709     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:45:12:300683     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 20:45:12:301662     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1114, 491)
+2021_05_08 20:45:13:465105     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1114, 491) over a duration of 1 seconds
+2021_05_08 20:45:13:576551     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:45:29:030914     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:45:29:031893     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:45:30:032553     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:45:31:033871     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:45:32:035533     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:45:33:035682     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:45:34:035765     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:45:34:035765     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 20:45:34:036741     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (701, 520)
+2021_05_08 20:45:35:200094     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (701, 520) over a duration of 1 seconds
+2021_05_08 20:45:35:308556     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:45:35:409003     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (701, 620) over a duration of 0 seconds
+2021_05_08 20:45:35:510387     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:50:53:372034     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:50:53:372034     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:50:54:373357     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:50:55:373885     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:50:56:373913     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:50:57:375241     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:50:58:375641     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:50:58:375641     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 20:50:58:376614     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1226, 648)
+2021_05_08 20:50:58:376614     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.335 seconds
+2021_05_08 20:50:58:871466     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1226, 648) over a duration of 0.335 seconds
+2021_05_08 20:50:58:975057     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:50:59:076802     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1226, 748) over a duration of 0 seconds
+2021_05_08 20:50:59:178651     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:51:15:157515     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:51:15:157515     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:51:16:158901     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:51:17:158998     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:51:18:159515     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:51:19:160075     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:51:20:160591     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:51:20:160591     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 20:51:20:161569     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1000, 586)
+2021_05_08 20:51:20:161569     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.63 seconds
+2021_05_08 20:51:20:958894     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1000, 586) over a duration of 0.63 seconds
+2021_05_08 20:51:21:066909     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:51:21:167836     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1000, 686) over a duration of 0 seconds
+2021_05_08 20:51:21:268143     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:51:52:160728     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:51:52:160728     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:51:53:160814     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:51:54:160860     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:51:55:161052     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:51:56:161690     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:51:57:162054     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:51:57:163030     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 20:51:57:164007     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1092, 600)
+2021_05_08 20:51:57:164007     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.798 seconds
+2021_05_08 20:51:58:138490     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1092, 600) over a duration of 0.798 seconds
+2021_05_08 20:51:58:249081     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:51:58:351034     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1092, 1123) over a duration of 0 seconds
+2021_05_08 20:51:58:451848     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:52:10:756084     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:52:10:757061     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:52:11:757079     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:52:12:757652     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:52:13:758258     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:52:14:758757     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:52:15:759605     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:52:15:759605     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 20:52:15:760582     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (898, 498)
+2021_05_08 20:52:15:760582     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.069 seconds
+2021_05_08 20:52:15:861527     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (898, 498) over a duration of 0.069 seconds
+2021_05_08 20:52:15:972815     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:52:16:074562     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (898, 1204) over a duration of 0 seconds
+2021_05_08 20:52:16:176335     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:52:47:285190     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:52:47:286168     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:52:48:286190     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:52:49:286624     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:52:50:286983     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:52:51:288115     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:52:52:289112     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:52:52:289112     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 20:52:52:289112     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1119, 460)
+2021_05_08 20:52:52:290082     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.254 seconds
+2021_05_08 20:52:52:700004     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1119, 460) over a duration of 0.254 seconds
+2021_05_08 20:52:52:805547     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:52:52:907176     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1119, 1100) over a duration of 0 seconds
+2021_05_08 20:52:53:008508     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:53:10:675015     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:53:10:675991     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:53:11:676783     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:53:12:677725     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:53:13:677974     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:53:14:678405     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:53:15:678938     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:53:15:679909     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 20:53:15:679909     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (795, 529)
+2021_05_08 20:53:15:680890     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.76 seconds
+2021_05_08 20:53:16:608638     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (795, 529) over a duration of 0.76 seconds
+2021_05_08 20:53:16:714104     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:53:16:815968     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (795, 1089) over a duration of 0 seconds
+2021_05_08 20:53:16:917601     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:53:57:437336     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:53:57:437336     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:53:58:438835     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:53:59:439247     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:54:00:439472     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:54:01:439772     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:54:02:440444     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:54:02:440444     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 20:54:02:441420     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (871, 523)
+2021_05_08 20:54:02:441420     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.01 seconds
+2021_05_08 20:54:02:543368     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (871, 523) over a duration of 0.01 seconds
+2021_05_08 20:54:02:655053     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:54:02:755719     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (871, 1072) over a duration of 0 seconds
+2021_05_08 20:54:02:855899     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:54:08:984254     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:54:08:984254     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:54:09:984839     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:54:10:985329     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:54:11:986533     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:54:12:988183     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:54:13:988778     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:54:13:988778     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 20:54:13:988778     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1097, 436)
+2021_05_08 20:54:13:989756     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.465 seconds
+2021_05_08 20:54:14:616655     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1097, 436) over a duration of 0.465 seconds
+2021_05_08 20:54:14:729234     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:54:14:829898     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1097, 1170) over a duration of 0 seconds
+2021_05_08 20:54:14:930883     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:56:18:018766     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:56:18:020723     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:56:19:021895     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:56:20:022847     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:56:21:023818     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:56:22:024668     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:56:23:025543     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:56:23:025543     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 20:56:23:025543     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1008, 598)
+2021_05_08 20:56:23:026522     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.175 seconds
+2021_05_08 20:56:23:365017     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1008, 598) over a duration of 0.175 seconds
+2021_05_08 20:56:23:476535     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:56:23:576987     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1008, 1348) over a duration of 0 seconds
+2021_05_08 20:56:23:677942     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (992, 1808) over a duration of 0 seconds
+2021_05_08 20:56:23:779730     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:56:33:903608     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:56:33:903608     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:56:34:904397     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:56:35:905024     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:56:36:905391     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:56:37:905438     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:56:38:906139     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:56:38:907117     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 20:56:38:907117     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1001, 633)
+2021_05_08 20:56:38:908090     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.88 seconds
+2021_05_08 20:56:39:957100     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1001, 633) over a duration of 0.88 seconds
+2021_05_08 20:56:40:066073     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:56:40:166779     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1001, 1255) over a duration of 0 seconds
+2021_05_08 20:56:40:268362     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1039, 1619) over a duration of 0 seconds
+2021_05_08 20:56:40:370258     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:56:57:413757     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:56:57:414730     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:56:58:416328     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:56:59:417454     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:57:00:417506     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:57:01:417640     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:57:02:417936     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:57:02:417936     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 20:57:02:417936     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (776, 504)
+2021_05_08 20:57:02:418914     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.746 seconds
+2021_05_08 20:57:03:337572     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (776, 504) over a duration of 0.746 seconds
+2021_05_08 20:57:03:450871     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:57:03:551520     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (776, 1201) over a duration of 0 seconds
+2021_05_08 20:57:25:810173     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:57:25:810173     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:57:26:812054     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:57:27:812482     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:57:28:813941     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:57:29:815852     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:57:30:816803     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:57:30:816803     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 20:57:30:817781     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (987, 644)
+2021_05_08 20:57:30:817781     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.788 seconds
+2021_05_08 20:57:31:776834     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (987, 644) over a duration of 0.788 seconds
+2021_05_08 20:57:31:882373     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:57:31:984022     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (987, 1345) over a duration of 0 seconds
+2021_05_08 20:57:32:084413     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (979, 360) over a duration of 0 seconds
+2021_05_08 20:57:32:186031     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:58:58:284292     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:58:58:285270     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:58:59:285469     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:59:00:285870     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:59:01:286875     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:59:02:287466     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:59:03:289309     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:59:03:289309     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 20:59:03:289309     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1078, 536)
+2021_05_08 20:59:03:290285     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.445 seconds
+2021_05_08 20:59:03:899373     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1078, 536) over a duration of 0.445 seconds
+2021_05_08 20:59:04:004658     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:59:04:105311     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1078, 1330) over a duration of 0 seconds
+2021_05_08 20:59:04:205500     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:59:04:305852     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1072, 458) over a duration of 0 seconds
+2021_05_08 20:59:04:407770     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:59:04:508741     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1078, 1192) over a duration of 0 seconds
+2021_05_08 20:59:04:610660     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:59:24:822971     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 20:59:24:822971     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 20:59:25:823771     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 20:59:26:823966     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 20:59:27:824148     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 20:59:28:824778     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 20:59:29:824938     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 20:59:29:824938     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 20:59:29:824938     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (810, 468)
+2021_05_08 20:59:29:825915     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.487 seconds
+2021_05_08 20:59:30:482238     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (810, 468) over a duration of 0.487 seconds
+2021_05_08 20:59:30:588413     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:59:30:588413     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.426 seconds
+2021_05_08 20:59:31:181377     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (810, 1138) over a duration of 0.426 seconds
+2021_05_08 20:59:31:282486     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 20:59:31:282486     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.006 seconds
+2021_05_08 20:59:31:384188     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (786, 100) over a duration of 0.006 seconds
+2021_05_08 20:59:31:485398     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 20:59:31:485398     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.582 seconds
+2021_05_08 20:59:32:229982     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (810, 1191) over a duration of 0.582 seconds
+2021_05_08 20:59:32:331109     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:00:08:601912     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:00:08:601912     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:00:09:603684     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:00:10:604546     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:00:11:604638     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:00:12:605474     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:00:13:605889     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:00:13:605889     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 21:00:13:606867     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1015, 602)
+2021_05_08 21:00:13:606867     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.142 seconds
+2021_05_08 21:00:13:921720     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1015, 602) over a duration of 0.142 seconds
+2021_05_08 21:00:14:027781     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:00:14:129422     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1015, 1235) over a duration of 0 seconds
+2021_05_08 21:00:14:231061     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:00:14:231061     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.178 seconds
+2021_05_08 21:00:14:575222     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1017, 308) over a duration of 0.178 seconds
+2021_05_08 21:00:14:676850     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:00:14:778325     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1015, 1309) over a duration of 0 seconds
+2021_05_08 21:00:14:878543     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:00:34:393695     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:00:34:393695     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:00:35:394500     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:00:36:395174     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:00:37:395780     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:00:38:396359     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:00:39:397204     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:01:57:495123     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:01:57:496120     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:01:58:496631     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:01:59:496769     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:02:00:497257     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:02:01:497995     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:02:02:498719     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:02:40:782854     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:02:40:783826     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:02:41:783974     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:02:42:784691     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:02:43:784745     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:02:44:785297     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:02:45:785758     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:03:40:321194     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:03:40:321194     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:03:41:322957     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:03:42:323317     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:03:43:323768     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:03:44:324703     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:03:45:325239     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:06:57:358245     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:06:57:359224     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:06:58:359797     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:06:59:360720     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:07:00:361304     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:07:01:362324     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:07:02:362781     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:07:02:475958     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 21:07:02:475958     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 21:07:02:475958     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1147, 513)
+2021_05_08 21:07:02:476929     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.643 seconds
+2021_05_08 21:07:03:288173     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1147, 513) over a duration of 0.643 seconds
+2021_05_08 21:07:03:389820     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:07:03:491007     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1147, 1290) over a duration of 0 seconds
+2021_05_08 21:07:03:592643     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:07:03:592643     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.127 seconds
+2021_05_08 21:07:03:887395     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1180, 412) over a duration of 0.127 seconds
+2021_05_08 21:07:03:989023     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:07:04:089076     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1147, 1239) over a duration of 0 seconds
+2021_05_08 21:07:04:190391     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:07:54:516635     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:07:54:517611     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:07:55:517632     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:07:56:518091     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:07:57:518528     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:07:58:518700     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:07:59:519114     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:07:59:623911     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 21:07:59:623911     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 21:07:59:624888     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (861, 545)
+2021_05_08 21:07:59:624888     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.948 seconds
+2021_05_08 21:08:00:745243     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (861, 545) over a duration of 0.948 seconds
+2021_05_08 21:08:00:846234     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:08:00:947864     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (861, 1340) over a duration of 0 seconds
+2021_05_08 21:08:01:049056     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:08:01:050039     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.793 seconds
+2021_05_08 21:08:02:008328     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (836, 250) over a duration of 0.793 seconds
+2021_05_08 21:08:02:108520     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:08:02:209150     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (861, 1148) over a duration of 0 seconds
+2021_05_08 21:08:02:310520     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:08:56:281957     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:08:56:281957     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:08:57:283505     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:08:58:283601     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:08:59:283983     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:09:00:284647     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:09:01:285542     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:09:01:397536     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 21:09:01:397536     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 21:09:01:398507     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (837, 440)
+2021_05_08 21:09:01:398507     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.627 seconds
+2021_05_08 21:09:02:195330     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (837, 440) over a duration of 0.627 seconds
+2021_05_08 21:09:02:297204     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:09:02:397913     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (837, 440) over a duration of 0 seconds
+2021_05_08 21:09:02:499139     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:09:02:499139     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.64 seconds
+2021_05_08 21:09:03:309515     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (856, 141) over a duration of 0.64 seconds
+2021_05_08 21:09:03:410782     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:09:03:511443     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (837, 1235) over a duration of 0 seconds
+2021_05_08 21:09:03:612749     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:09:21:601903     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:09:21:602879     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:09:22:603823     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:09:23:604649     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:09:24:604839     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:09:25:605462     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:09:26:605877     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:09:26:712962     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 21:09:26:712962     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 21:09:26:712962     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1063, 436)
+2021_05_08 21:09:26:713927     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.769 seconds
+2021_05_08 21:09:27:657227     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1063, 436) over a duration of 0.769 seconds
+2021_05_08 21:09:27:758195     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:09:27:858843     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1063, 436) over a duration of 0 seconds
+2021_05_08 21:09:27:959815     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:09:27:959815     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.511 seconds
+2021_05_08 21:09:28:639728     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1031, 409) over a duration of 0.511 seconds
+2021_05_08 21:09:28:740411     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:09:28:841228     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1031, 1155) over a duration of 0 seconds
+2021_05_08 21:09:28:942424     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:09:38:654437     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:09:38:655413     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:09:39:656257     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:09:40:656282     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:09:41:656994     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:09:42:657402     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:09:43:657487     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:09:43:762931     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 21:09:43:762931     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 21:09:43:763901     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (915, 510)
+2021_05_08 21:09:43:763901     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.526 seconds
+2021_05_08 21:09:44:453567     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (915, 510) over a duration of 0.526 seconds
+2021_05_08 21:09:44:555079     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:09:44:656708     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (915, 1278) over a duration of 0 seconds
+2021_05_08 21:09:44:757914     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:09:44:757914     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.618 seconds
+2021_05_08 21:09:45:544541     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (910, 212) over a duration of 0.618 seconds
+2021_05_08 21:09:45:646165     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:09:45:747651     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (910, 949) over a duration of 0 seconds
+2021_05_08 21:09:45:848871     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:10:13:720833     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:10:13:720833     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:10:14:721939     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:10:15:721971     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:10:16:722227     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:10:17:722710     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:10:18:723525     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:10:18:827433     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 21:10:18:828397     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 21:10:18:828397     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (801, 553)
+2021_05_08 21:10:18:829382     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.553 seconds
+2021_05_08 21:10:19:547792     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (801, 553) over a duration of 0.553 seconds
+2021_05_08 21:10:19:649506     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:10:19:751303     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (801, 1293) over a duration of 0 seconds
+2021_05_08 21:10:19:852656     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:10:19:852656     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.819 seconds
+2021_05_08 21:10:20:845486     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (824, 112) over a duration of 0.819 seconds
+2021_05_08 21:10:20:947121     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:10:21:047989     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (824, 835) over a duration of 0 seconds
+2021_05_08 21:10:21:150129     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:16:37:528000     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:16:37:528985     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:16:38:529106     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:16:39:529720     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:16:40:530481     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:16:41:531398     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:16:42:532312     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:16:42:642829     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 21:16:42:642829     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 21:16:42:643807     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1057, 516)
+2021_05_08 21:16:42:643807     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.886 seconds
+2021_05_08 21:16:43:709271     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1057, 516) over a duration of 0.886 seconds
+2021_05_08 21:16:43:817451     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:16:43:918797     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1057, 1182) over a duration of 0 seconds
+2021_05_08 21:16:44:020502     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:16:44:020502     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.788 seconds
+2021_05_08 21:16:44:979130     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1067, 327) over a duration of 0.788 seconds
+2021_05_08 21:16:45:080780     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:16:45:182386     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1067, 1007) over a duration of 0 seconds
+2021_05_08 21:16:45:284773     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:16:59:939252     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:16:59:939252     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:17:00:940574     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:17:01:940593     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:17:02:940886     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:17:03:941135     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:17:04:942266     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:17:05:051507     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 21:17:05:051507     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 21:17:05:051507     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1036, 515)
+2021_05_08 21:17:05:052485     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.985 seconds
+2021_05_08 21:17:06:205500     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1036, 515) over a duration of 0.985 seconds
+2021_05_08 21:17:06:307117     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:17:06:408743     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1036, 1207) over a duration of 0 seconds
+2021_05_08 21:17:06:509961     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:17:06:509961     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.845 seconds
+2021_05_08 21:17:07:521577     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1081, 398) over a duration of 0.845 seconds
+2021_05_08 21:17:07:623168     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:17:07:724774     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1081, 1191) over a duration of 0 seconds
+2021_05_08 21:17:07:825923     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:20:05:057829     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:20:05:057829     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:20:06:058992     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:20:07:059033     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:20:08:059807     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:20:09:061758     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:20:10:061802     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:20:10:171254     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 21:20:10:171254     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 21:20:10:172233     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1014, 624)
+2021_05_08 21:20:10:172233     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.92 seconds
+2021_05_08 21:20:11:274180     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1014, 624) over a duration of 0.92 seconds
+2021_05_08 21:20:11:375903     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:20:11:477048     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1014, 1291) over a duration of 0 seconds
+2021_05_08 21:20:11:578665     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:20:11:578665     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.633 seconds
+2021_05_08 21:20:12:377867     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1059, 247) over a duration of 0.633 seconds
+2021_05_08 21:20:12:479451     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:20:12:581106     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1059, 891) over a duration of 0 seconds
+2021_05_08 21:20:12:683409     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:20:14:794170     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 21:20:15:800291     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 21:23:14:022783     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:23:14:022783     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:23:15:023352     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:23:16:024156     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:23:17:025077     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:23:18:025248     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:23:19:026056     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:23:19:132584     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 21:23:19:132584     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 21:23:19:132584     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (988, 622)
+2021_05_08 21:23:19:133562     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.958 seconds
+2021_05_08 21:23:20:266048     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (988, 622) over a duration of 0.958 seconds
+2021_05_08 21:23:20:367000     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:23:20:468099     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (988, 1370) over a duration of 0 seconds
+2021_05_08 21:23:20:569443     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:23:20:569443     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.65 seconds
+2021_05_08 21:23:21:379739     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (999, 307) over a duration of 0.65 seconds
+2021_05_08 21:23:21:482362     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:23:21:583029     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (999, 1063) over a duration of 0 seconds
+2021_05_08 21:23:21:684832     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:23:23:796144     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 21:23:24:802461     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 21:24:22:542873     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:24:22:543843     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:24:23:544581     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:24:24:544930     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:24:25:546687     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:24:26:547869     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:24:27:548982     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:24:27:655456     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 21:24:27:655456     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 21:24:27:656431     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (976, 549)
+2021_05_08 21:24:27:656431     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.864 seconds
+2021_05_08 21:24:28:687247     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (976, 549) over a duration of 0.864 seconds
+2021_05_08 21:24:28:788978     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:24:28:889668     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (976, 1335) over a duration of 0 seconds
+2021_05_08 21:24:28:990857     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:24:28:990857     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.948 seconds
+2021_05_08 21:24:30:111557     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (972, 181) over a duration of 0.948 seconds
+2021_05_08 21:24:30:213314     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:24:30:314490     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (972, 819) over a duration of 0 seconds
+2021_05_08 21:24:30:417243     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:24:32:529340     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 21:24:33:535686     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 21:27:47:103389     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:27:47:104363     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:27:48:105267     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:27:49:106001     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:27:50:106774     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:27:51:108046     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:27:52:108180     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:27:52:217724     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 21:27:52:217724     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 21:27:52:218701     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (997, 632)
+2021_05_08 21:27:52:219677     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.985 seconds
+2021_05_08 21:27:53:370572     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (997, 632) over a duration of 0.985 seconds
+2021_05_08 21:27:53:472053     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:27:53:572731     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (997, 1392) over a duration of 0 seconds
+2021_05_08 21:27:53:673938     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:27:53:673938     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.722 seconds
+2021_05_08 21:27:54:564564     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (964, 212) over a duration of 0.722 seconds
+2021_05_08 21:27:54:666167     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:27:54:767610     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (964, 813) over a duration of 0 seconds
+2021_05_08 21:27:54:868755     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:27:56:978139     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 21:27:57:986125     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 21:28:20:972622     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:28:20:972622     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:28:21:973315     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:28:22:974397     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:28:23:974804     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:28:24:975364     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:28:25:975413     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:28:26:083424     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 21:28:26:084402     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 21:28:26:084402     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (863, 551)
+2021_05_08 21:28:26:084402     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.945 seconds
+2021_05_08 21:28:27:204021     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (863, 551) over a duration of 0.945 seconds
+2021_05_08 21:28:27:306241     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:28:27:407463     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (863, 1248) over a duration of 0 seconds
+2021_05_08 21:28:27:508617     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:28:27:508617     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.811 seconds
+2021_05_08 21:28:28:486622     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (907, 119) over a duration of 0.811 seconds
+2021_05_08 21:28:28:587711     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:28:28:689597     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (907, 858) over a duration of 0 seconds
+2021_05_08 21:28:28:790781     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:28:30:903447     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 21:28:31:909214     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 21:28:32:163937     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 21:28:57:452323     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:28:57:453306     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:28:58:453650     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:28:59:454296     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:29:00:454543     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:29:01:454644     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:29:02:454980     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:29:02:564944     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 21:29:02:564944     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 21:29:02:565919     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1030, 518)
+2021_05_08 21:29:02:565919     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.811 seconds
+2021_05_08 21:29:03:545688     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1030, 518) over a duration of 0.811 seconds
+2021_05_08 21:29:03:647332     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:29:03:749060     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1030, 1237) over a duration of 0 seconds
+2021_05_08 21:29:03:851668     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:29:03:851668     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.51 seconds
+2021_05_08 21:29:04:520510     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1012, 357) over a duration of 0.51 seconds
+2021_05_08 21:29:04:623117     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:29:04:723366     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1012, 1036) over a duration of 0 seconds
+2021_05_08 21:29:04:824582     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:29:06:933629     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 21:29:07:939421     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 21:29:08:161540     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 21:29:08:464292     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 21:29:09:661081     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 1195 ms (1.195) sec
+2021_05_08 21:31:27:957345     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:31:27:957345     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:31:28:958433     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:31:29:958815     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:31:30:960569     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:31:31:962093     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:31:32:962943     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:31:33:069021     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 21:31:33:069995     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 21:31:33:069995     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (943, 559)
+2021_05_08 21:31:33:069995     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.955 seconds
+2021_05_08 21:31:34:203994     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (943, 559) over a duration of 0.955 seconds
+2021_05_08 21:31:34:305616     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:31:34:406041     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (943, 1276) over a duration of 0 seconds
+2021_05_08 21:31:34:507263     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:31:34:507263     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.758 seconds
+2021_05_08 21:31:35:433883     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (910, 144) over a duration of 0.758 seconds
+2021_05_08 21:31:35:535091     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:31:35:636363     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (910, 861) over a duration of 0 seconds
+2021_05_08 21:31:35:736556     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:31:37:847167     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 21:31:38:851960     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 21:31:39:080176     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 21:31:39:381718     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 21:31:40:243738     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 861 ms (0.861) sec
+2021_05_08 21:32:01:342711     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:32:01:343687     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:32:02:344222     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:32:03:344420     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:32:04:344804     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:32:05:345169     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:32:06:345775     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:32:06:451022     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 21:32:06:451022     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 21:32:06:451999     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (795, 608)
+2021_05_08 21:32:06:451999     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.76 seconds
+2021_05_08 21:32:07:378571     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (795, 608) over a duration of 0.76 seconds
+2021_05_08 21:32:07:478776     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:32:07:578971     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (795, 1212) over a duration of 0 seconds
+2021_05_08 21:32:07:679115     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:32:07:679115     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.722 seconds
+2021_05_08 21:32:08:569668     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (752, 104) over a duration of 0.722 seconds
+2021_05_08 21:32:08:672036     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:32:08:772225     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (752, 801) over a duration of 0 seconds
+2021_05_08 21:32:08:873358     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:32:10:983348     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 21:32:11:989171     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 21:32:12:212807     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 21:32:12:515252     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 21:32:13:464799     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 948 ms (0.948) sec
+2021_05_08 21:32:13:697646     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 21:32:30:761272     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:32:30:761272     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:32:31:763159     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:32:32:763249     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:32:33:763797     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:32:34:764295     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:32:35:765194     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:32:35:876026     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 21:32:35:876026     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 21:32:35:876026     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (992, 467)
+2021_05_08 21:32:35:877003     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.989 seconds
+2021_05_08 21:32:37:049456     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (992, 467) over a duration of 0.989 seconds
+2021_05_08 21:32:37:151267     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:32:37:252034     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (992, 1157) over a duration of 0 seconds
+2021_05_08 21:32:37:353175     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:32:37:353175     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.646 seconds
+2021_05_08 21:32:38:164151     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (946, 305) over a duration of 0.646 seconds
+2021_05_08 21:32:38:265513     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:32:38:367239     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (946, 986) over a duration of 0 seconds
+2021_05_08 21:32:38:468269     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:32:40:577481     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 21:32:41:584630     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 21:32:41:793702     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 21:32:42:095647     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 21:32:43:127408     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 1031 ms (1.031) sec
+2021_05_08 21:32:43:353722     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 21:32:43:353722     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled on the crafting panel on attempt: 1
+2021_05_08 21:32:43:567835     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 21:32:52:795900     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:32:52:795900     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:32:53:797269     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:32:54:797926     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:32:55:799575     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:32:56:800889     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:32:57:801713     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:32:57:908801     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 21:32:57:908801     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 21:32:57:909778     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1096, 457)
+2021_05_08 21:32:57:909778     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.712 seconds
+2021_05_08 21:32:58:784445     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1096, 457) over a duration of 0.712 seconds
+2021_05_08 21:32:58:885635     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:32:58:985847     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1096, 1135) over a duration of 0 seconds
+2021_05_08 21:32:59:087711     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:32:59:087711     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.593 seconds
+2021_05_08 21:32:59:844241     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1099, 485) over a duration of 0.593 seconds
+2021_05_08 21:32:59:945886     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:33:00:046673     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1099, 1234) over a duration of 0 seconds
+2021_05_08 21:33:00:148963     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:33:02:260159     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 21:33:03:267313     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 21:33:03:474596     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 21:33:03:475573     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Crafting panel already toggled
+2021_05_08 21:52:58:172505     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 21:52:58:173478     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 21:52:59:174543     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 21:53:00:175836     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 21:53:01:176256     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 21:53:02:176283     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 21:53:03:176433     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 21:53:03:284653     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 21:53:03:284653     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 21:53:03:284653     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1094, 635)
+2021_05_08 21:53:03:285631     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.508 seconds
+2021_05_08 21:53:03:952314     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1094, 635) over a duration of 0.508 seconds
+2021_05_08 21:53:04:053372     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:53:04:153539     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1094, 1342) over a duration of 0 seconds
+2021_05_08 21:53:04:254194     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:53:04:254194     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.837 seconds
+2021_05_08 21:53:05:265746     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1101, 420) over a duration of 0.837 seconds
+2021_05_08 21:53:05:367580     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 21:53:05:467987     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1101, 1034) over a duration of 0 seconds
+2021_05_08 21:53:05:569106     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 21:53:07:677548     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 21:53:08:682682     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 21:53:08:934453     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 21:53:09:236399     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 21:53:10:376465     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 1140 ms (1.14) sec
+2021_05_08 21:53:10:573088     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 21:53:10:573088     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled on the crafting panel on attempt: 1
+2021_05_08 21:53:10:781166     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:24:30:399340     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 22:24:30:400316     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 22:24:31:402018     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 22:24:32:402342     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 22:24:33:402442     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 22:24:34:403376     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 22:24:35:404168     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 22:24:35:507162     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 22:24:35:507162     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 22:24:35:508148     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1148, 548)
+2021_05_08 22:24:35:508148     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.783 seconds
+2021_05_08 22:24:36:467538     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1148, 548) over a duration of 0.783 seconds
+2021_05_08 22:24:36:567808     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 22:24:36:668643     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1148, 1264) over a duration of 0 seconds
+2021_05_08 22:24:36:770012     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 22:24:36:770012     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.565 seconds
+2021_05_08 22:24:37:502436     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1177, 513) over a duration of 0.565 seconds
+2021_05_08 22:24:37:604391     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 22:24:37:704871     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1177, 1128) over a duration of 0 seconds
+2021_05_08 22:24:37:806100     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 22:24:39:916480     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 22:24:40:922487     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 22:24:41:161990     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:24:41:464767     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 22:24:42:498066     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 1033 ms (1.033) sec
+2021_05_08 22:24:42:690307     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:24:42:691284     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled on the crafting panel on attempt: 1
+2021_05_08 22:24:42:892022     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:25:23:084346     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 22:25:23:084346     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 22:25:24:086185     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 22:25:25:086232     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 22:25:26:086295     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 22:25:27:086863     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 22:25:28:087690     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 22:25:28:190324     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 22:25:28:190324     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 22:25:28:190324     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (879, 438)
+2021_05_08 22:25:28:191301     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.848 seconds
+2021_05_08 22:25:29:201917     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (879, 438) over a duration of 0.848 seconds
+2021_05_08 22:25:29:302907     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 22:25:29:403365     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (879, 1198) over a duration of 0 seconds
+2021_05_08 22:25:29:504523     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 22:25:29:504523     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.71 seconds
+2021_05_08 22:25:30:380968     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (875, 180) over a duration of 0.71 seconds
+2021_05_08 22:25:30:482275     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 22:25:30:582301     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (875, 800) over a duration of 0 seconds
+2021_05_08 22:25:30:683929     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 22:25:32:795264     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 22:25:33:801065     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 22:25:33:995096     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:25:34:297723     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 22:25:35:102877     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 804 ms (0.804) sec
+2021_05_08 22:25:35:291998     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:25:35:291998     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled on the crafting panel on attempt: 1
+2021_05_08 22:25:35:494212     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:25:35:712963     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 22:25:35:713940     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_08 22:25:52:357372     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 22:25:52:358348     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 22:25:53:359025     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 22:25:54:359319     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 22:25:55:359988     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 22:25:56:360551     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 22:25:57:360903     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 22:25:57:463627     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 22:25:57:463627     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 22:25:57:464602     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (899, 642)
+2021_05_08 22:25:57:464602     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.632 seconds
+2021_05_08 22:25:58:262498     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (899, 642) over a duration of 0.632 seconds
+2021_05_08 22:25:58:363827     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 22:25:58:464475     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (899, 1367) over a duration of 0 seconds
+2021_05_08 22:25:58:565001     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 22:25:58:565001     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.683 seconds
+2021_05_08 22:25:59:414468     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (854, 141) over a duration of 0.683 seconds
+2021_05_08 22:25:59:515841     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 22:25:59:617463     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (854, 782) over a duration of 0 seconds
+2021_05_08 22:25:59:719270     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 22:26:01:829238     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 22:26:02:832901     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 22:26:03:027209     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:26:03:329263     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 22:26:04:416431     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 1087 ms (1.087) sec
+2021_05_08 22:26:04:604362     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:26:04:605340     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled on the crafting panel on attempt: 1
+2021_05_08 22:26:04:797930     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:26:04:997093     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 22:26:05:198929     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming.png on screen
+2021_05_08 22:26:05:199908     LEVEL:CRAFTER_BOT       TYPE:WARNING      MESSAGE:Unable to find farming trade. will attempt 2 more times
+2021_05_08 22:26:05:490813     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 290 ms (0.29) sec
+2021_05_08 22:26:05:680930     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming.png on screen
+2021_05_08 22:26:05:681908     LEVEL:CRAFTER_BOT       TYPE:WARNING      MESSAGE:Unable to find farming trade. will attempt 1 more times
+2021_05_08 22:26:05:841069     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 159 ms (0.159) sec
+2021_05_08 22:26:06:047509     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming.png on screen
+2021_05_08 22:26:06:047509     LEVEL:CRAFTER_BOT       TYPE:WARNING      MESSAGE:Unable to find farming trade. will attempt 0 more times
+2021_05_08 22:26:06:216163     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 167 ms (0.167) sec
+2021_05_08 22:26:06:216163     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find farming trade
+2021_05_08 22:26:50:585103     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 22:26:50:585103     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 22:26:51:586362     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 22:26:52:588207     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 22:26:53:588295     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 22:26:54:588709     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 22:26:55:588970     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 22:26:55:696328     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 22:26:55:696328     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 22:26:55:697302     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (806, 561)
+2021_05_08 22:26:55:697302     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.603 seconds
+2021_05_08 22:26:56:469861     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (806, 561) over a duration of 0.603 seconds
+2021_05_08 22:26:56:570937     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 22:26:56:671638     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (806, 1279) over a duration of 0 seconds
+2021_05_08 22:26:56:771942     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 22:26:56:772852     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.812 seconds
+2021_05_08 22:26:57:751033     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (773, 45) over a duration of 0.812 seconds
+2021_05_08 22:26:57:852137     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 22:26:57:952340     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (773, 720) over a duration of 0 seconds
+2021_05_08 22:26:58:054201     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 22:27:00:164290     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 22:27:01:168705     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 22:27:01:372647     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:27:01:675242     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 22:27:02:755254     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 1080 ms (1.08) sec
+2021_05_08 22:27:02:944295     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:27:02:944295     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled on the crafting panel on attempt: 1
+2021_05_08 22:27:03:141829     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:27:03:337614     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 22:27:03:529803     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming.png on screen
+2021_05_08 22:27:03:529803     LEVEL:CRAFTER_BOT       TYPE:WARNING      MESSAGE:Unable to find farming trade. will attempt 2 more times
+2021_05_08 22:27:04:753349     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 1222 ms (1.222) sec
+2021_05_08 22:27:04:936552     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming.png on screen
+2021_05_08 22:27:04:937528     LEVEL:CRAFTER_BOT       TYPE:WARNING      MESSAGE:Unable to find farming trade. will attempt 1 more times
+2021_05_08 22:27:05:750845     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 813 ms (0.813) sec
+2021_05_08 22:27:05:937465     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming.png on screen
+2021_05_08 22:27:05:937465     LEVEL:CRAFTER_BOT       TYPE:WARNING      MESSAGE:Unable to find farming trade. will attempt 0 more times
+2021_05_08 22:27:07:044334     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 1105 ms (1.105) sec
+2021_05_08 22:27:07:044334     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find farming trade
+2021_05_08 22:29:22:390250     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 22:29:22:390250     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 22:29:23:391542     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 22:29:24:392385     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 22:29:25:392806     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 22:29:26:393686     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 22:29:27:393742     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 22:29:27:499779     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 22:29:27:499779     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 22:29:27:500770     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (829, 465)
+2021_05_08 22:29:27:500770     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.861 seconds
+2021_05_08 22:29:28:533160     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (829, 465) over a duration of 0.861 seconds
+2021_05_08 22:29:28:634784     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 22:29:28:735841     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (829, 1169) over a duration of 0 seconds
+2021_05_08 22:29:28:837506     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 22:29:28:837506     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.986 seconds
+2021_05_08 22:29:29:992541     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (814, 39) over a duration of 0.986 seconds
+2021_05_08 22:29:30:094147     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 22:29:30:195385     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (814, 756) over a duration of 0 seconds
+2021_05_08 22:29:30:297154     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 22:29:32:409201     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 22:29:33:414801     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 22:29:33:612745     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:29:33:914848     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 22:29:35:020523     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 1105 ms (1.105) sec
+2021_05_08 22:29:35:211208     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:29:35:211208     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled on the crafting panel on attempt: 1
+2021_05_08 22:29:35:417388     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:29:35:608575     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 22:29:35:788678     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming.png on screen
+2021_05_08 22:29:35:788678     LEVEL:CRAFTER_BOT       TYPE:WARNING      MESSAGE:Unable to find farming trade. will attempt 2 more times
+2021_05_08 22:29:36:744081     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 955 ms (0.955) sec
+2021_05_08 22:29:36:744081     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.776 seconds
+2021_05_08 22:29:37:687973     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (57, 60) over a duration of 0.776 seconds
+2021_05_08 22:29:37:791557     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 22:30:57:858170     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 22:30:57:860128     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 22:30:58:860533     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 22:30:59:860968     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 22:31:00:860968     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 22:31:01:861604     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 22:31:02:862401     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 22:31:02:972685     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 22:31:02:972685     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 22:31:02:973663     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1001, 527)
+2021_05_08 22:31:02:973663     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.575 seconds
+2021_05_08 22:31:03:717345     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1001, 527) over a duration of 0.575 seconds
+2021_05_08 22:31:03:822460     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 22:31:03:923614     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1001, 1315) over a duration of 0 seconds
+2021_05_08 22:31:04:024763     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 22:31:04:025741     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.685 seconds
+2021_05_08 22:31:04:874331     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (992, 211) over a duration of 0.685 seconds
+2021_05_08 22:31:04:975339     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 22:31:05:075478     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (992, 816) over a duration of 0 seconds
+2021_05_08 22:31:05:177095     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 22:31:07:287218     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 22:31:08:293076     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 22:31:08:511936     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:31:08:512910     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Crafting panel already toggled
+2021_05_08 22:31:08:707941     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 22:31:08:708847     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_08 22:31:24:783696     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 22:31:24:784676     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 22:31:25:785367     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 22:31:26:786334     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 22:31:27:787128     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 22:31:28:788347     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 22:31:29:789229     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 22:31:29:897677     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 22:31:29:897677     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 22:31:29:897677     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1121, 583)
+2021_05_08 22:31:29:898657     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.987 seconds
+2021_05_08 22:31:31:052697     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1121, 583) over a duration of 0.987 seconds
+2021_05_08 22:31:31:153745     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 22:31:31:255380     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1121, 1378) over a duration of 0 seconds
+2021_05_08 22:31:31:357034     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 22:31:31:357034     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.594 seconds
+2021_05_08 22:31:32:114822     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1121, 419) over a duration of 0.594 seconds
+2021_05_08 22:31:32:215991     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 22:31:32:317739     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1121, 1022) over a duration of 0 seconds
+2021_05_08 22:31:32:419385     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 22:31:34:530423     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 22:31:35:534262     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 22:31:35:744541     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:31:35:744541     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Crafting panel already toggled
+2021_05_08 22:31:35:965978     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 22:31:44:654830     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming.png on screen
+2021_05_08 22:33:30:823614     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 22:33:30:823614     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 22:33:31:824105     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 22:33:32:824590     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 22:33:33:824600     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 22:33:34:825424     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 22:33:35:826512     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 22:33:35:935937     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 22:33:35:935937     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 22:33:35:936906     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1149, 590)
+2021_05_08 22:33:35:937884     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.792 seconds
+2021_05_08 22:33:36:895412     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1149, 590) over a duration of 0.792 seconds
+2021_05_08 22:33:36:996803     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 22:33:37:097769     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1149, 1313) over a duration of 0 seconds
+2021_05_08 22:33:37:199579     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 22:33:37:199579     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.881 seconds
+2021_05_08 22:33:38:248150     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1149, 422) over a duration of 0.881 seconds
+2021_05_08 22:33:38:349762     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 22:33:38:451555     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1149, 1205) over a duration of 0 seconds
+2021_05_08 22:33:38:553022     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 22:33:40:666476     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 22:33:41:671212     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 22:33:41:861718     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:33:42:164735     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 22:33:43:073470     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 908 ms (0.908) sec
+2021_05_08 22:33:43:262857     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:33:43:263834     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled on the crafting panel on attempt: 1
+2021_05_08 22:33:43:465090     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:33:43:665354     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 22:33:43:850409     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming.png on screen
+2021_05_08 22:33:43:850409     LEVEL:CRAFTER_BOT       TYPE:WARNING      MESSAGE:Unable to find farming trade. will attempt 2 more times
+2021_05_08 22:33:44:604711     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 754 ms (0.754) sec
+2021_05_08 22:33:44:604711     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (151, 78)
+2021_05_08 22:33:44:605697     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.756 seconds
+2021_05_08 22:33:45:532135     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (151, 78) over a duration of 0.756 seconds
+2021_05_08 22:33:45:635373     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 22:34:24:777367     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 22:34:24:777367     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 22:34:25:777605     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 22:34:26:778163     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 22:34:27:778219     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 22:34:28:778520     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 22:34:29:779111     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 22:34:29:883969     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 22:34:29:883969     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 22:34:29:883969     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1047, 648)
+2021_05_08 22:34:29:884946     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.689 seconds
+2021_05_08 22:34:30:735678     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1047, 648) over a duration of 0.689 seconds
+2021_05_08 22:34:30:837309     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 22:34:30:938880     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1047, 1393) over a duration of 0 seconds
+2021_05_08 22:34:31:040512     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 22:34:31:040512     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.85 seconds
+2021_05_08 22:34:32:053806     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1087, 306) over a duration of 0.85 seconds
+2021_05_08 22:34:32:155441     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 22:34:32:257114     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1087, 955) over a duration of 0 seconds
+2021_05_08 22:34:32:358397     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 22:34:34:469077     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 22:34:35:473276     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 22:34:35:677092     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:34:35:980457     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 22:34:36:820029     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 839 ms (0.839) sec
+2021_05_08 22:34:37:002315     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:34:37:002315     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled on the crafting panel on attempt: 1
+2021_05_08 22:34:37:193814     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 22:34:37:388060     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 22:34:37:388060     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_08 23:15:01:744922     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 23:15:01:744922     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 23:15:02:746450     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 23:15:03:747172     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 23:15:04:748089     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 23:15:05:748391     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 23:15:06:748655     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 23:15:06:853309     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 23:15:06:853309     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 23:15:06:854290     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (865, 445)
+2021_05_08 23:15:06:854290     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.972 seconds
+2021_05_08 23:15:08:007590     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (865, 445) over a duration of 0.972 seconds
+2021_05_08 23:15:08:108890     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:15:08:210078     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (865, 1224) over a duration of 0 seconds
+2021_05_08 23:15:08:311758     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:15:08:311758     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.519 seconds
+2021_05_08 23:15:08:990453     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (840, 190) over a duration of 0.519 seconds
+2021_05_08 23:15:09:094267     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:15:09:195960     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (840, 920) over a duration of 0 seconds
+2021_05_08 23:15:09:297607     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:15:11:408512     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 23:15:12:414359     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 23:15:12:691701     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:15:12:993459     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 23:15:13:199475     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:15:13:200455     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unsuccessfully toggled the crafting panel after 0 attempts
+2021_05_08 23:15:13:412296     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 23:15:13:412296     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_08 23:16:03:527373     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 23:16:03:528356     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 23:16:04:528840     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 23:16:05:528992     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 23:16:06:529213     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 23:16:07:529750     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 23:16:08:530569     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 23:16:08:634788     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 23:16:08:635771     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 23:16:08:636746     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (791, 593)
+2021_05_08 23:16:08:637728     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.976 seconds
+2021_05_08 23:16:09:790901     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (791, 593) over a duration of 0.976 seconds
+2021_05_08 23:16:09:892093     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:16:09:993666     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (791, 1338) over a duration of 0 seconds
+2021_05_08 23:16:10:095298     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:16:10:095298     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.889 seconds
+2021_05_08 23:16:11:162415     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (783, 19) over a duration of 0.889 seconds
+2021_05_08 23:16:11:263581     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:16:11:364409     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (783, 683) over a duration of 0 seconds
+2021_05_08 23:16:11:465623     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:16:13:575710     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 23:16:14:582455     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 23:16:14:791521     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:16:15:094761     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 23:16:15:300956     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:16:15:301933     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled on the crafting panel on attempt: 1
+2021_05_08 23:16:15:523404     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 23:16:15:523404     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_08 23:31:57:676807     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 23:31:57:676807     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 23:31:58:678143     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 23:31:59:678797     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 23:32:00:679816     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 23:32:01:680861     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 23:32:02:681568     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 23:32:02:784181     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 23:32:02:784181     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 23:32:02:785166     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1144, 548)
+2021_05_08 23:32:02:785166     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.928 seconds
+2021_05_08 23:32:03:883548     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1144, 548) over a duration of 0.928 seconds
+2021_05_08 23:32:03:984853     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:32:04:086547     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1144, 1244) over a duration of 0 seconds
+2021_05_08 23:32:04:188245     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:32:04:188245     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.938 seconds
+2021_05_08 23:32:05:307353     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1164, 504) over a duration of 0.938 seconds
+2021_05_08 23:32:05:408646     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:32:05:509927     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1164, 1185) over a duration of 0 seconds
+2021_05_08 23:32:05:611430     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:32:07:720904     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 23:32:08:726859     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 23:32:08:946564     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:32:09:249387     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 23:32:09:457916     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:32:09:458896     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled the crafting panel
+2021_05_08 23:32:09:658075     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 23:32:09:659055     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_08 23:36:29:543246     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 23:36:29:544218     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 23:36:30:544589     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 23:36:31:544634     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 23:36:32:545153     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 23:36:33:545608     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 23:36:34:546485     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 23:36:34:651052     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 23:36:34:652030     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 23:36:34:652030     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1062, 504)
+2021_05_08 23:36:34:653000     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.664 seconds
+2021_05_08 23:36:35:490458     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1062, 504) over a duration of 0.664 seconds
+2021_05_08 23:36:35:592209     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:36:35:693171     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1062, 1276) over a duration of 0 seconds
+2021_05_08 23:36:35:795089     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:36:35:796068     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.593 seconds
+2021_05_08 23:36:36:553306     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1045, 368) over a duration of 0.593 seconds
+2021_05_08 23:36:36:660299     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:36:36:761406     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1045, 1037) over a duration of 0 seconds
+2021_05_08 23:36:36:862556     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:36:38:973831     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 23:36:39:982512     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 23:36:40:210195     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:40:11:581686     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 23:40:11:581686     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 23:40:12:581888     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 23:40:13:582434     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 23:40:14:582588     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 23:40:15:582608     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 23:40:16:582686     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 23:40:16:687941     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 23:40:16:687941     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 23:40:16:688917     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (865, 620)
+2021_05_08 23:40:16:688917     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.557 seconds
+2021_05_08 23:40:17:409013     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (865, 620) over a duration of 0.557 seconds
+2021_05_08 23:40:17:510191     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:40:17:611824     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (865, 1278) over a duration of 0 seconds
+2021_05_08 23:40:17:712983     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:40:17:713961     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.729 seconds
+2021_05_08 23:40:18:619921     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (886, 90) over a duration of 0.729 seconds
+2021_05_08 23:40:18:721076     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:40:18:821620     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (886, 703) over a duration of 0 seconds
+2021_05_08 23:40:18:923185     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:40:21:033578     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 23:40:22:040131     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 23:40:22:258713     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:40:22:562401     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 23:40:22:772370     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:40:22:772370     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled the crafting panel
+2021_05_08 23:40:22:975072     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 23:40:22:976051     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_08 23:43:06:646857     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 23:43:06:646857     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 23:43:07:647541     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 23:43:08:647756     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 23:43:09:647917     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 23:43:10:648755     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 23:43:11:649659     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 23:43:11:758889     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 23:43:11:758889     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 23:43:11:759859     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1142, 498)
+2021_05_08 23:43:11:759859     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.917 seconds
+2021_05_08 23:43:12:841854     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1142, 498) over a duration of 0.917 seconds
+2021_05_08 23:43:12:942392     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:43:13:043049     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1142, 1235) over a duration of 0 seconds
+2021_05_08 23:43:13:144241     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:43:13:144241     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.926 seconds
+2021_05_08 23:43:14:244873     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1157, 475) over a duration of 0.926 seconds
+2021_05_08 23:43:14:346238     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:43:14:446891     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1157, 1270) over a duration of 0 seconds
+2021_05_08 23:43:14:548082     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:43:16:658675     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 23:43:17:664648     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 23:43:17:902256     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:43:18:204656     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 23:43:18:409922     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:43:18:410898     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled the crafting panel
+2021_05_08 23:43:18:622292     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 23:43:18:622292     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_08 23:47:05:749980     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 23:47:05:750965     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 23:47:06:751416     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 23:47:07:752008     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 23:47:08:753388     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 23:47:09:754095     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 23:47:10:754958     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 23:47:10:861251     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 23:47:10:861251     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 23:47:10:862224     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (820, 474)
+2021_05_08 23:47:10:862224     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.592 seconds
+2021_05_08 23:47:11:618126     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (820, 474) over a duration of 0.592 seconds
+2021_05_08 23:47:11:719420     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:47:11:819620     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (820, 1201) over a duration of 0 seconds
+2021_05_08 23:47:11:920928     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:47:11:920928     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.905 seconds
+2021_05_08 23:47:13:003417     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (819, 217) over a duration of 0.905 seconds
+2021_05_08 23:47:13:104228     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:47:13:205905     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (819, 948) over a duration of 0 seconds
+2021_05_08 23:47:13:307065     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:47:15:415705     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 23:47:16:422493     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 23:47:16:641953     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:47:16:642922     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Crafting panel already toggled
+2021_05_08 23:47:16:841718     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 23:47:16:841718     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_08 23:47:28:411246     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 23:47:28:412220     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 23:47:29:412986     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 23:47:30:413033     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 23:47:31:413962     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 23:47:32:414820     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 23:47:33:415083     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 23:47:33:519129     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 23:47:33:519129     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 23:47:33:519129     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (807, 576)
+2021_05_08 23:47:33:520106     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.75 seconds
+2021_05_08 23:47:34:430814     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (807, 576) over a duration of 0.75 seconds
+2021_05_08 23:47:34:532406     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:47:34:634225     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (807, 1202) over a duration of 0 seconds
+2021_05_08 23:47:34:737071     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:47:34:737071     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.588 seconds
+2021_05_08 23:47:35:492799     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (839, 151) over a duration of 0.588 seconds
+2021_05_08 23:47:35:594098     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:47:35:694890     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (839, 781) over a duration of 0 seconds
+2021_05_08 23:47:35:796524     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:47:37:908758     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 23:47:38:913633     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 23:47:39:128789     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:47:39:129766     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Crafting panel already toggled
+2021_05_08 23:47:39:347823     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 23:47:39:561171     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming.png on screen
+2021_05_08 23:47:39:562147     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully located farming trade
+2021_05_08 23:47:39:563129     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (129, 64)
+2021_05_08 23:47:39:564093     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.64 seconds
+2021_05_08 23:47:40:375744     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (129, 64) over a duration of 0.64 seconds
+2021_05_08 23:47:40:487141     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_08 23:47:50:276704     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 23:47:50:277690     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 23:47:51:278154     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 23:47:52:279060     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 23:47:53:279135     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 23:47:54:279839     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 23:47:55:280793     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 23:47:55:386487     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 23:47:55:386487     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 23:47:55:386487     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (990, 432)
+2021_05_08 23:47:55:387465     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.553 seconds
+2021_05_08 23:47:56:107342     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (990, 432) over a duration of 0.553 seconds
+2021_05_08 23:47:56:208502     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:47:56:309191     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (990, 1216) over a duration of 0 seconds
+2021_05_08 23:47:56:410882     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:47:56:410882     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.856 seconds
+2021_05_08 23:47:57:442152     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1002, 329) over a duration of 0.856 seconds
+2021_05_08 23:47:57:543554     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:47:57:643736     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1002, 1039) over a duration of 0 seconds
+2021_05_08 23:47:57:745445     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:47:59:856075     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 23:48:00:861551     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 23:48:01:091168     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:48:01:394839     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 23:48:01:623516     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:48:01:624449     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled the crafting panel
+2021_05_08 23:48:01:832209     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 23:48:01:832209     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_08 23:48:28:198108     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 23:48:28:199086     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 23:48:29:199754     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 23:48:30:199895     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 23:48:31:200587     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 23:48:32:200801     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 23:48:33:200946     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 23:48:33:307972     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 23:48:33:307972     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 23:48:33:307972     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1101, 456)
+2021_05_08 23:48:33:308951     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.683 seconds
+2021_05_08 23:48:34:160404     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1101, 456) over a duration of 0.683 seconds
+2021_05_08 23:48:34:262022     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:48:34:362669     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1101, 1225) over a duration of 0 seconds
+2021_05_08 23:48:34:464302     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:48:34:464302     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.981 seconds
+2021_05_08 23:48:35:615622     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1124, 453) over a duration of 0.981 seconds
+2021_05_08 23:48:35:716860     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:48:35:818502     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1124, 1082) over a duration of 0 seconds
+2021_05_08 23:48:35:919838     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:48:38:031895     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 23:48:39:038023     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 23:48:39:246348     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:48:39:549166     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 23:48:39:765663     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:48:39:766641     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled the crafting panel
+2021_05_08 23:48:39:971888     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 23:48:39:972872     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_08 23:49:19:975580     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 23:49:19:976552     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 23:49:20:976666     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 23:49:21:977579     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 23:49:22:978151     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 23:49:23:978968     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 23:49:24:980270     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 23:49:25:091744     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 23:49:25:091744     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 23:49:25:091744     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (770, 552)
+2021_05_08 23:49:25:092724     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.681 seconds
+2021_05_08 23:49:25:945170     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (770, 552) over a duration of 0.681 seconds
+2021_05_08 23:49:26:046802     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:49:26:148459     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (770, 1176) over a duration of 0 seconds
+2021_05_08 23:49:26:249654     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:49:26:249654     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.57 seconds
+2021_05_08 23:49:26:983010     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (794, 108) over a duration of 0.57 seconds
+2021_05_08 23:49:27:084185     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:49:27:184473     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (794, 836) over a duration of 0 seconds
+2021_05_08 23:49:27:285810     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:49:29:395830     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 23:49:30:400993     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 23:49:30:613182     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:49:30:916199     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 23:49:31:114732     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:49:31:114732     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled the crafting panel
+2021_05_08 23:49:31:317007     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 23:49:31:317007     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_08 23:52:54:959268     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 23:52:54:960242     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 23:52:55:960964     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 23:52:56:961637     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 23:52:57:962061     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 23:52:58:962264     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 23:52:59:962371     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 23:53:00:066556     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 23:53:00:066556     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 23:53:00:067527     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1079, 454)
+2021_05_08 23:53:00:067527     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.873 seconds
+2021_05_08 23:53:01:115875     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1079, 454) over a duration of 0.873 seconds
+2021_05_08 23:53:01:217559     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:53:01:318227     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1079, 1131) over a duration of 0 seconds
+2021_05_08 23:53:01:419852     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:53:01:419852     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.853 seconds
+2021_05_08 23:53:02:451047     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1121, 362) over a duration of 0.853 seconds
+2021_05_08 23:53:02:552960     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:53:02:654078     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1121, 981) over a duration of 0 seconds
+2021_05_08 23:53:02:755370     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:53:04:864535     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 23:53:05:867816     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 23:53:06:078506     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:53:06:079485     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Crafting panel already toggled
+2021_05_08 23:53:06:297862     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 23:53:06:298840     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_08 23:53:23:702427     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 23:53:23:703405     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 23:53:24:704183     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 23:53:25:704467     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 23:53:26:705311     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 23:53:27:705492     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 23:53:28:705783     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 23:53:28:817501     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_08 23:53:28:817501     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1920, 1080)
+2021_05_08 23:53:28:817501     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (841, 500)
+2021_05_08 23:53:28:818477     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.734 seconds
+2021_05_08 23:53:29:721568     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (841, 500) over a duration of 0.734 seconds
+2021_05_08 23:53:29:822758     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:53:29:922984     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (841, 1109) over a duration of 0 seconds
+2021_05_08 23:53:30:024623     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:53:30:024623     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.831 seconds
+2021_05_08 23:53:31:021752     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (835, 220) over a duration of 0.831 seconds
+2021_05_08 23:53:31:123244     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_08 23:53:31:224398     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (835, 992) over a duration of 0 seconds
+2021_05_08 23:53:31:326025     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_08 23:53:33:436031     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_08 23:53:34:441028     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 10 scroll-clicks
+2021_05_08 23:53:34:651834     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:53:34:954300     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 23:53:35:162154     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:53:35:162154     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled the crafting panel
+2021_05_08 23:53:35:364979     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 23:53:35:364979     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_08 23:54:56:452879     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 23:54:56:452879     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_08 23:54:57:454142     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_08 23:54:58:454846     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 23:55:08:189853     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_08 23:55:08:189853     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_08 23:55:09:190444     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_08 23:55:10:195152     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_08 23:55:11:196039     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_08 23:55:11:498216     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_08 23:55:11:704427     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_08 23:55:11:705961     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled the crafting panel
+2021_05_08 23:55:11:909124     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_08 23:55:11:909124     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
