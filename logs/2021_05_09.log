@@ -16735,3 +16735,106 @@
 2021_05_09 13:37:21:698976     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the recipe, bundle_of_spring_barley
 2021_05_09 13:37:21:946121     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'make_all.png' on screen
 2021_05_09 13:37:21:947096     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the button, make_all
+2021_05_09 07:43:11:275552     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 07:43:11:276541     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 07:43:12:286704     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 07:43:13:308886     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 07:43:14:326342     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 07:43:14:328300     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1152, 864)
+2021_05_09 07:43:14:329175     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (465, 443)
+2021_05_09 07:43:14:329315     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.809 seconds
+2021_05_09 07:43:15:541939     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (465, 443) over a duration of 0.809 seconds
+2021_05_09 07:43:15:689424     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:43:16:677628     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 965 ms (0.965) sec
+2021_05_09 07:43:16:805615     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_09 07:43:16:932710     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (465, 1147) over a duration of 0 seconds
+2021_05_09 07:43:17:041298     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_09 07:43:17:041298     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.816 seconds
+2021_05_09 07:43:18:303209     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (453, -268) over a duration of 0.816 seconds
+2021_05_09 07:43:18:425905     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_09 07:43:18:548601     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (453, 393) over a duration of 0 seconds
+2021_05_09 07:43:18:655366     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_09 07:43:21:118154     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_09 07:43:21:691400     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 5 scroll-clicks
+2021_05_09 07:43:21:957142     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_09 07:43:21:958451     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Crafting panel already toggled
+2021_05_09 07:43:22:153636     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_09 07:43:22:155458     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_09 07:43:22:352801     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice_toggled.png on screen
+2021_05_09 07:43:22:352801     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Apprentice tier already toggled
+2021_05_09 07:43:22:489376     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image grains_toggled.png on screen
+2021_05_09 07:43:22:489376     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Grains tier already toggled
+2021_05_09 07:43:22:712714     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'spring_barley_field.png' on screen
+2021_05_09 07:43:22:712714     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the recipe, spring_barley_field
+2021_05_09 07:43:22:920377     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'make.png' on screen
+2021_05_09 07:43:22:921345     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the button, make
+2021_05_09 07:43:23:094892     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 159 ms (0.159) sec
+2021_05_09 07:43:23:465188     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:43:23:627595     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 151 ms (0.151) sec
+2021_05_09 07:43:26:806226     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3175 ms (3.175) sec
+2021_05_09 07:43:27:037859     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:43:27:286648     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:43:27:461369     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:43:27:634017     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:43:27:809410     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_4.png' on screen
+2021_05_09 07:45:26:263100     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 07:45:26:263562     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 07:45:27:283797     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 07:45:28:305805     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 07:45:29:309604     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 07:45:29:310724     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1152, 864)
+2021_05_09 07:45:29:311407     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (598, 402)
+2021_05_09 07:45:29:311568     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.758 seconds
+2021_05_09 07:45:38:511514     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 07:45:38:517032     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 07:45:39:557746     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 07:45:40:568737     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 07:45:41:579612     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 07:45:41:788381     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_09 07:45:41:788381     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Crafting panel already toggled
+2021_05_09 07:45:42:071226     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_09 07:45:42:072139     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_09 07:45:42:399013     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice_toggled.png on screen
+2021_05_09 07:45:42:402910     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Apprentice tier already toggled
+2021_05_09 07:45:42:627180     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image grains_toggled.png on screen
+2021_05_09 07:45:42:645057     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Grains tier already toggled
+2021_05_09 07:45:42:911742     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'bundle_of_spring_barley.png' on screen
+2021_05_09 07:45:42:912720     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the recipe, bundle_of_spring_barley
+2021_05_09 07:45:43:251187     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:45:43:251187     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:45:43:252143     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (669, 675)
+2021_05_09 07:45:43:252143     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.975 seconds
+2021_05_09 07:45:44:842003     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (669, 675) over a duration of 0.975 seconds
+2021_05_09 07:45:44:992101     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:45:45:179667     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 176 ms (0.176) sec
+2021_05_09 07:45:45:574692     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:45:45:898790     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 289 ms (0.289) sec
+2021_05_09 07:45:48:731878     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2819 ms (2.819) sec
+2021_05_09 07:45:49:014888     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:45:49:224417     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:45:49:465960     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:45:49:691093     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:45:49:970984     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_4.png' on screen
+2021_05_09 07:46:37:544835     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 07:46:37:545339     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 07:46:38:570490     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 07:46:39:588730     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 07:46:40:601682     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 07:46:40:855711     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_09 07:46:40:862495     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Crafting panel already toggled
+2021_05_09 07:46:41:190438     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_09 07:46:41:210764     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_09 07:46:41:562195     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice_toggled.png on screen
+2021_05_09 07:46:41:562821     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Apprentice tier already toggled
+2021_05_09 07:46:41:879940     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image grains_toggled.png on screen
+2021_05_09 07:46:41:881879     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Grains tier already toggled
+2021_05_09 07:46:42:158810     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'bundle_of_spring_barley.png' on screen
+2021_05_09 07:46:42:161732     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the recipe, bundle_of_spring_barley
+2021_05_09 07:46:42:519189     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 07:46:42:519189     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 07:46:42:521135     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (723, 675)
+2021_05_09 07:46:42:521135     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.585 seconds
+2021_05_09 07:46:43:512289     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (723, 675) over a duration of 0.585 seconds
+2021_05_09 07:46:43:672918     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:47:11:604503     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 07:47:11:605432     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3

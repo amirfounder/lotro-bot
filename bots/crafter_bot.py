@@ -122,7 +122,7 @@ class CrafterBot:
         self.navigate_to_recipe(tier, category, recipe)
         for i in range(math.ceil(total / batch_count)):
             self.interact.click_button('make_all')
-            self.gen_bot.generate_delay(3000 * batch_count + 1000, 1500)
+            self.gen_bot.generate_delay(5000 * batch_count + 1000, 1500)
             self.int_bot.press('space')
             self.gen_bot.generate_delay()
             self.interact.click_button('repair_all')
