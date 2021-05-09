@@ -1,16 +1,9 @@
-LIVE = False
+LIVE = True
 FARMING_TOOL_SPEED_BOOST = 0
 LOCATION = 'Celondim'
 
-# GENERIC PATHS
+PROJECT_DIRECTORY = r'C:\Users\Amir Sharapov\Code\bots\lotro-bot'
 
-if LIVE:
-    LOCAL_PROJECT_PATH = f'C:\\Users\\Amirf\\code\\lotro-bot\\'
-else:
-    LOCAL_PROJECT_PATH = f'C:\\Users\\Amir Sharapov\\Code\\bots\\lotro-bot\\'
-
-# CUSTOM PATHS
-
-IMAGES_PATH = f'{LOCAL_PROJECT_PATH}images\\'
-LOGS_PATH = f'{LOCAL_PROJECT_PATH}logs\\'
-ML_DATA_PATH = f'{LOCAL_PROJECT_PATH}ml_data\\'
+IMAGES_DIRECTORY_PATH = PROJECT_DIRECTORY + r'\reference_images'
+LOGS_DIRECTORY_PATH = PROJECT_DIRECTORY + r'\logs'
+ML_DATA_DIRECTORY_PATH = PROJECT_DIRECTORY + r'\ml_data'

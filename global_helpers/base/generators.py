@@ -1,4 +1,5 @@
-from datetime import time
+import datetime
+import time
 from random import randint
 
 
@@ -13,3 +14,12 @@ def generate_coords(left, top, width, height):
     y = randint(top + 2, top + height - 2)
     coords = (x, y)
     return coords
+
+
+def generate_date_time(dt_format='date_time', ds='-', ts=':'):
+    if dt_format.lower() == 'date_time':
+        return datetime.datetime.now().strftime(f'%Y{ds}%m{ds}%d %H{ts}%M{ts}%S{ts}%f')
+    elif dt_format.lower() == 'date':
+        return datetime.datetime.now().strftime(f'%Y{ds}%m{ds}%d')
+    elif dt_format.lower() == 'time':
+        return datetime.datetime.now().strftime(f'%M{ts}%S{ts}%f')

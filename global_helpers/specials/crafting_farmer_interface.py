@@ -1,7 +1,8 @@
+import datetime
 from random import randint
 import pydirectinput as pdi
 
-from global_helpers.base.api_interface import find_image
+from global_helpers.base.api_interface import find_image, take_screenshot
 from global_helpers.base.generators import generate_coords as gc, generate_delay as delay
 from global_helpers.base.logger import log
 from global_helpers.gui.gui_clicks import click_button
@@ -22,6 +23,7 @@ def plant_field(tier, category, field):
     log('Farmer Interface', 'S', f'began planting \'{field}\'')
     delay(3750, 250)
     log('Farmer Interface', 'success', f'successfully planted \'{field}\'')
+    take_screenshot(f'{field}_planted_on_')
 
 
 def harvest_field(field):
@@ -47,16 +49,18 @@ def harvest_field(field):
     log('Farmer Interface', 'UNKNOWN', f'Right-clicked on the generated coordinates of the field \'{field}\'')
 
 
-def plant_and_harvest_field(tier, category, field):
+def plant_and_harvest_field(tier, category, field, count):
     """
     Interface to run plant and harvest field
     :param tier: recipe tier
     :param category: recipe category
     :param field: field file name
+    :param count: loop count
     :return: void
     """
-    plant_field(tier, category, field)
-    harvest_field(field)
+    for i in range(count):
+        plant_field(tier, category, field)
+        harvest_field(field)
 
 
 def work_all_crops(total_count, make_per_batch, tier, category, recipe):

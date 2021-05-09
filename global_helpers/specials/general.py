@@ -1,6 +1,5 @@
 import pydirectinput as pdi
 
-from config import FARMING_TOOL_SPEED_BOOST
 from global_helpers.base.api_interface import find_image
 from global_helpers.base.generators import generate_coords as gc, generate_delay as delay
 from global_helpers.gui.gui_clicks import click_recipe, click_button
