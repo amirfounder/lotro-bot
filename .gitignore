@@ -1,5 +1,5 @@
 # Machine learning things. Too heavy to push to git
-.ml_data/
+.ml_data/screenshots
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
