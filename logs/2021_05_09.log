@@ -2551,7 +2551,6 @@
 2021_05_09 02:09:19:446066     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amir sharapov\code\bots\lotro-bot\ml_data\screenshots\20210509_020918.png
 2021_05_09 02:09:19:711441     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 264 ms (0.264) sec
 2021_05_09 02:09:20:013946     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
-<<<<<<< HEAD
 2021_05_09 02:50:49:235649     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
 2021_05_09 02:50:49:237136     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
 2021_05_09 02:50:50:237347     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
@@ -15399,4 +15398,3 @@
 2021_05_09 07:08:14:104679     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
 2021_05_09 07:08:14:326823     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
 2021_05_09 07:08:14:556211     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_4.png' on screen
->>>>>>> e3ab4298df80f2dc644c036155b0d4e475639a9e
