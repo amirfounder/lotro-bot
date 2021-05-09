@@ -70,10 +70,10 @@ class CrafterBot:
         self.log_bot.log_crafter('success', f'clicked the {recipe} recipe')
         self.interact.move_click(box)
 
-    def navigate_to_recipe(self, tier, category, recipe):
+    def navigate_to_recipe(self, trade, tier, category, recipe):
         # TODO make a call to a database with just a recipe and it should return trade, tier, and category
         self.toggle_crafting_panel()
-        self.toggle_trade('farming')
+        self.toggle_trade(trade)
         self.toggle_tier(tier)
         self.toggle_category(category)
         self.click_recipe(recipe)
@@ -88,6 +88,7 @@ class CrafterBot:
             self.interact.move_click(box, button='right')
 
     def plant_and_harvest_fields(self, tier, category, recipe, count):
+        self.navigate_to_recipe('farming', tier, category, recipe)
         for i in range(count):
             self.interact.click_button('make')
             self.gen_bot.generate_delay()
@@ -104,7 +105,6 @@ class CrafterBot:
             self.gen_bot.generate_delay(7000, 1000)
 
     def plant_and_harvest_fields_bulk(self, tier, category, recipe, seed_count, batch_count=80):
-        self.navigate_to_recipe(tier, category, recipe)
         last_batch = seed_count % batch_count
         for i in range(math.floor(seed_count / batch_count)):
             self.plant_and_harvest_fields(tier, category, recipe, batch_count)
@@ -120,13 +120,19 @@ class CrafterBot:
 
         self.int_bot.press('t')
 
-    def process_crops(self, tier, category, recipe, total, batch_count):
-        self.navigate_to_recipe(tier, category, recipe)
+    def make_all(self, trade, tier, category, recipe, total, batch_count, induction_speed):
+        self.navigate_to_recipe(trade, tier, category, recipe)
         for i in range(math.ceil(total / batch_count)):
             self.interact.click_button('make_all')
-            self.gen_bot.generate_delay(5000 * batch_count + 1000, 1500)
+            self.gen_bot.generate_delay(induction_speed * batch_count + 1000, 1500)
             self.int_bot.press('space')
             self.gen_bot.generate_delay()
             self.npc.repair_all()
             self.gen_bot.generate_delay()
             self.log_bot.log_crafter('success', f'planted and harvest {i + 1} time(s)')
+
+    def process_crops(self, tier, category, recipe, total, batch_count):
+        self.make_all('farming', tier, category, recipe, total, batch_count, 5000)
+
+    def cook_food(self, tier, category, recipe, total, batch_count):
+        self.make_all('cooking', tier, category, recipe, total, batch_count, 3000)
