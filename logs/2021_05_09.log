@@ -17442,3 +17442,24 @@
 2021_05_09 15:19:41:023507     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
 2021_05_09 15:19:42:023614     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
 2021_05_09 15:19:42:243619     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'crafting_panel_header.png' on screen
+2021_05_09 10:44:17:837727     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 10:44:17:838009     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 10:44:18:856109     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 10:44:19:894425     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 10:44:20:907628     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 10:44:21:120266     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_09 10:44:21:130977     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Crafting panel already toggled
+2021_05_09 10:44:21:338816     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image cooking_toggled.png on screen
+2021_05_09 10:44:21:339651     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Cooking trade already toggled
+2021_05_09 10:44:21:650639     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice_toggled.png on screen
+2021_05_09 10:44:21:652601     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Apprentice tier already toggled
+2021_05_09 10:44:22:026927     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image ingredients_toggled.png on screen
+2021_05_09 10:44:22:026927     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Ingredients tier already toggled
+2021_05_09 10:44:22:374874     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'cup_of_spring_barley_flour.png' on screen
+2021_05_09 10:44:22:375366     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the recipe, cup_of_spring_barley_flour
+2021_05_09 10:44:22:553764     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 10:44:22:554742     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 10:44:22:554742     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (778, 528)
+2021_05_09 10:44:22:555724     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.946 seconds
+2021_05_09 10:44:24:151477     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (778, 528) over a duration of 0.946 seconds
+2021_05_09 10:44:24:277322     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
