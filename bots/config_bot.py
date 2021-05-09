@@ -7,10 +7,6 @@ class ConfigBot:
         print('config bot started')
 
     @staticmethod
-    def new_line():
-        return '\n'
-
-    @staticmethod
     def get_project_pathname():
         cwd = os.getcwd()
         index = cwd.index(r'lotro-bot')
@@ -30,7 +26,7 @@ class ConfigBot:
     def generate_config_py(self):
         is_live_env = self.generate_is_live_env()
         f = open(f'{self.get_project_pathname()}\\config.py', 'w')
-        nl = self.new_line()
+        nl = '\n'
 
         f.write(f"PROJECT_DIRECTORY = r'{self.get_project_pathname()}'" + nl)
         f.write(r"IMAGES_DIRECTORY_PATH = PROJECT_DIRECTORY + r'\reference_images'" + nl)

@@ -36,3 +36,19 @@ class InteractorBot():
             return
         self.log_bot.log_crafter('success', f'clicked the {button} button')
         self.move_click(box)
+
+    def toggle(self, path, target, t_type, image_confidence):
+        filename = f'{target}.png'
+        filename_toggled = f'{target}_toggled.png'
+
+        box = self.int_bot.find_image(path, filename_toggled, image_confidence)
+        if box is not None:
+            self.log_bot.log_crafter('info', f'{target} {t_type} already toggled')
+            return
+        box = self.int_bot.find_image(path, filename, image_confidence)
+        if box is None:
+            self.log_bot.log_crafter('error', f'unable to find {target} {t_type}')
+            return
+
+        self.log_bot.log_crafter('success', f'successfully located {target} {t_type}')
+        self.move_click(box)
