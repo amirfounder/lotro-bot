@@ -2,7 +2,7 @@ LIVE = True
 FARMING_TOOL_SPEED_BOOST = 0
 LOCATION = 'Celondim'
 
-PROJECT_DIRECTORY = r'C:\Users\Amir Sharapov\code\bots\lotro-bot'
+PROJECT_DIRECTORY = r'C:\Users\Amirf\code\lotro-bot'
 
 IMAGES_DIRECTORY_PATH = PROJECT_DIRECTORY + r'\reference_images'
 LOGS_DIRECTORY_PATH = PROJECT_DIRECTORY + r'\logs'

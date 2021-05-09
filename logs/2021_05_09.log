@@ -15398,6 +15398,1282 @@
 2021_05_09 07:08:14:104679     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
 2021_05_09 07:08:14:326823     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
 2021_05_09 07:08:14:556211     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_4.png' on screen
+2021_05_09 07:09:35:903711     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 07:09:35:903711     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 07:09:36:929883     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 07:09:37:943971     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 07:09:38:965310     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 07:09:38:966519     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1152, 864)
+2021_05_09 07:09:38:966519     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (535, 489)
+2021_05_09 07:09:38:967288     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.925 seconds
+2021_05_09 07:09:40:335146     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (535, 489) over a duration of 0.925 seconds
+2021_05_09 07:09:40:480000     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:09:41:531107     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 1034 ms (1.034) sec
+2021_05_09 07:09:41:648858     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_09 07:09:41:765310     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (535, 1137) over a duration of 0 seconds
+2021_05_09 07:09:41:873714     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_09 07:09:41:874777     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.637 seconds
+2021_05_09 07:09:42:890871     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (538, -105) over a duration of 0.637 seconds
+2021_05_09 07:09:42:996367     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_09 07:09:43:146426     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (538, 586) over a duration of 0 seconds
+2021_05_09 07:09:43:262646     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_09 07:09:45:711812     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_09 07:09:46:306119     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 5 scroll-clicks
+2021_05_09 07:09:46:570915     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'crafting_panel_header.png' on screen
+2021_05_09 07:09:46:927462     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:09:47:337626     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_09 07:09:47:337626     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled the crafting panel
+2021_05_09 07:09:47:698698     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_09 07:09:47:700668     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_09 07:09:48:070995     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice_toggled.png on screen
+2021_05_09 07:09:48:085893     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Apprentice tier already toggled
+2021_05_09 07:09:48:359248     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image grains_toggled.png on screen
+2021_05_09 07:09:48:379796     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Grains tier already toggled
+2021_05_09 07:09:48:732106     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image spring_barley_field.png on screen
+2021_05_09 07:09:48:732711     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the spring_barley_field recipe
+2021_05_09 07:09:48:733425     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (83, 299)
+2021_05_09 07:09:48:733656     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.9 seconds
+2021_05_09 07:09:50:105549     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (83, 299) over a duration of 0.9 seconds
+2021_05_09 07:09:50:247571     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:09:50:664677     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:09:50:667071     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:09:50:667742     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (704, 674)
+2021_05_09 07:09:50:667742     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.631 seconds
+2021_05_09 07:09:51:678149     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (704, 674) over a duration of 0.631 seconds
+2021_05_09 07:09:51:784640     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:09:52:026895     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 215 ms (0.215) sec
+2021_05_09 07:09:52:413786     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:09:52:586031     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 152 ms (0.152) sec
+2021_05_09 07:09:55:483644     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2865 ms (2.865) sec
+2021_05_09 07:09:55:794859     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:09:56:114544     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:09:56:340797     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:09:56:612040     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:09:56:962867     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:09:56:964255     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (616, 321)
+2021_05_09 07:09:56:964821     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.894 seconds
+2021_05_09 07:09:58:335700     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (616, 321) over a duration of 0.894 seconds
+2021_05_09 07:09:58:466404     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:09:58:811071     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 331 ms (0.331) sec
+2021_05_09 07:09:59:138159     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:10:06:512924     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7351 ms (7.351) sec
+2021_05_09 07:10:06:515569     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 1 time(s)
+2021_05_09 07:10:06:884127     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:10:06:884127     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:10:06:884127     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (665, 672)
+2021_05_09 07:10:06:884127     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.795 seconds
+2021_05_09 07:10:08:102515     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (665, 672) over a duration of 0.795 seconds
+2021_05_09 07:10:08:221872     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:10:08:459120     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 226 ms (0.226) sec
+2021_05_09 07:10:08:795749     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:10:08:955870     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 150 ms (0.15) sec
+2021_05_09 07:10:11:860687     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2859 ms (2.859) sec
+2021_05_09 07:10:12:233051     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:10:12:643370     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:10:12:997488     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:10:13:368924     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:10:13:615179     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:10:13:616148     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (602, 333)
+2021_05_09 07:10:13:616148     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.998 seconds
+2021_05_09 07:10:15:085318     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (602, 333) over a duration of 0.998 seconds
+2021_05_09 07:10:15:223651     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:10:15:502597     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 241 ms (0.241) sec
+2021_05_09 07:10:15:842630     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:10:22:783031     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6922 ms (6.922) sec
+2021_05_09 07:10:22:783031     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 2 time(s)
+2021_05_09 07:10:23:196163     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:10:23:203223     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:10:23:204224     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (653, 678)
+2021_05_09 07:10:23:204224     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.786 seconds
+2021_05_09 07:10:24:429652     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (653, 678) over a duration of 0.786 seconds
+2021_05_09 07:10:24:553780     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:10:24:776514     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 182 ms (0.182) sec
+2021_05_09 07:10:25:127467     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:10:25:462229     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 310 ms (0.31) sec
+2021_05_09 07:10:28:570067     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3079 ms (3.079) sec
+2021_05_09 07:10:28:838283     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:10:29:170060     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:10:29:359375     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:10:29:613389     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:10:29:836251     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:10:29:845120     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (508, 331)
+2021_05_09 07:10:29:846095     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.712 seconds
+2021_05_09 07:10:30:931573     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (508, 331) over a duration of 0.712 seconds
+2021_05_09 07:10:31:041490     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:10:31:046108     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (506, 332)
+2021_05_09 07:10:31:046108     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.726 seconds
+2021_05_09 07:10:32:172528     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (506, 332) over a duration of 0.726 seconds
+2021_05_09 07:10:32:280135     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:10:32:539182     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 232 ms (0.232) sec
+2021_05_09 07:10:32:885297     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:10:39:588329     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6691 ms (6.691) sec
+2021_05_09 07:10:39:608087     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 3 time(s)
+2021_05_09 07:10:39:908113     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:10:39:909096     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:10:39:909096     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (650, 671)
+2021_05_09 07:10:39:909096     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.584 seconds
+2021_05_09 07:10:40:873778     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (650, 671) over a duration of 0.584 seconds
+2021_05_09 07:10:40:994697     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:10:41:302444     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 298 ms (0.298) sec
+2021_05_09 07:10:41:646013     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:10:41:905428     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 241 ms (0.241) sec
+2021_05_09 07:10:44:746532     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2819 ms (2.819) sec
+2021_05_09 07:10:45:115541     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:10:45:473186     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:10:45:707679     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:10:46:043371     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:10:46:369880     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:10:46:370169     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (556, 326)
+2021_05_09 07:10:46:371236     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.552 seconds
+2021_05_09 07:10:47:271502     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (556, 326) over a duration of 0.552 seconds
+2021_05_09 07:10:47:387209     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:10:47:387530     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (519, 327)
+2021_05_09 07:10:47:387530     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.786 seconds
+2021_05_09 07:10:48:553568     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (519, 327) over a duration of 0.786 seconds
+2021_05_09 07:10:48:713382     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:10:48:927009     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 201 ms (0.201) sec
+2021_05_09 07:10:49:269945     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:10:55:866381     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6580 ms (6.58) sec
+2021_05_09 07:10:55:899201     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 4 time(s)
+2021_05_09 07:10:56:345713     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:10:56:346592     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:10:56:347410     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (668, 678)
+2021_05_09 07:10:56:347410     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.782 seconds
+2021_05_09 07:10:57:502676     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (668, 678) over a duration of 0.782 seconds
+2021_05_09 07:10:57:663643     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:10:58:013685     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 342 ms (0.342) sec
+2021_05_09 07:10:58:353545     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:10:58:713846     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 332 ms (0.332) sec
+2021_05_09 07:11:01:552294     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2820 ms (2.82) sec
+2021_05_09 07:11:02:099138     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:11:02:500137     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:11:02:733694     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:11:03:146770     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:11:03:500148     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:11:03:500148     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (615, 326)
+2021_05_09 07:11:03:500148     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.694 seconds
+2021_05_09 07:11:04:580485     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (615, 326) over a duration of 0.694 seconds
+2021_05_09 07:11:04:688834     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:11:04:900651     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 176 ms (0.176) sec
+2021_05_09 07:11:05:251176     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:11:12:515489     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7248 ms (7.248) sec
+2021_05_09 07:11:12:517450     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 5 time(s)
+2021_05_09 07:11:12:913095     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:11:12:919050     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:11:12:919050     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (655, 679)
+2021_05_09 07:11:12:919809     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.719 seconds
+2021_05_09 07:11:14:025268     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (655, 679) over a duration of 0.719 seconds
+2021_05_09 07:11:14:145276     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:11:14:411431     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 233 ms (0.233) sec
+2021_05_09 07:11:14:749924     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:11:15:020697     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 262 ms (0.262) sec
+2021_05_09 07:11:18:109796     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3077 ms (3.077) sec
+2021_05_09 07:11:18:369727     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:11:18:640404     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:11:18:895999     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:11:19:079719     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:11:19:325396     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:11:19:326368     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (630, 329)
+2021_05_09 07:11:19:327409     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.911 seconds
+2021_05_09 07:11:20:762002     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (630, 329) over a duration of 0.911 seconds
+2021_05_09 07:11:20:888367     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:11:20:888367     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (584, 333)
+2021_05_09 07:11:20:901080     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.733 seconds
+2021_05_09 07:11:22:004139     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (584, 333) over a duration of 0.733 seconds
+2021_05_09 07:11:22:107538     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:11:22:340903     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 228 ms (0.228) sec
+2021_05_09 07:11:22:696132     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:11:29:934014     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7210 ms (7.21) sec
+2021_05_09 07:11:29:934447     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 6 time(s)
+2021_05_09 07:11:30:241490     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:11:30:242037     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:11:30:243308     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (707, 670)
+2021_05_09 07:11:30:246705     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.544 seconds
+2021_05_09 07:11:31:122038     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (707, 670) over a duration of 0.544 seconds
+2021_05_09 07:11:31:228669     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:11:31:584130     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 338 ms (0.338) sec
+2021_05_09 07:11:31:908451     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:11:32:160346     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 239 ms (0.239) sec
+2021_05_09 07:11:35:034421     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2851 ms (2.851) sec
+2021_05_09 07:11:35:371978     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:11:35:839979     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:11:36:158500     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:11:36:400183     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:11:36:770436     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:11:36:771124     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (659, 319)
+2021_05_09 07:11:36:771124     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.685 seconds
+2021_05_09 07:11:37:822214     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (659, 319) over a duration of 0.685 seconds
+2021_05_09 07:11:37:934809     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:11:37:935174     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (558, 316)
+2021_05_09 07:11:37:935174     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.72 seconds
+2021_05_09 07:11:39:054460     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (558, 316) over a duration of 0.72 seconds
+2021_05_09 07:11:39:178516     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:11:39:530045     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 334 ms (0.334) sec
+2021_05_09 07:11:39:897326     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:11:47:160740     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7244 ms (7.244) sec
+2021_05_09 07:11:47:161885     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 7 time(s)
+2021_05_09 07:11:47:505446     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:11:47:505446     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:11:47:505446     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (686, 671)
+2021_05_09 07:11:47:507371     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.964 seconds
+2021_05_09 07:11:48:935375     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (686, 671) over a duration of 0.964 seconds
+2021_05_09 07:11:49:038009     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:11:49:340898     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 292 ms (0.292) sec
+2021_05_09 07:11:49:693834     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:11:49:889083     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 182 ms (0.182) sec
+2021_05_09 07:11:52:832307     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2935 ms (2.935) sec
+2021_05_09 07:11:53:187810     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:11:53:494841     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:11:53:814780     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:11:54:085561     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:11:54:364750     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:11:54:364750     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (532, 330)
+2021_05_09 07:11:54:364750     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.986 seconds
+2021_05_09 07:11:55:777154     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (532, 330) over a duration of 0.986 seconds
+2021_05_09 07:11:55:908189     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:11:55:908189     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (576, 324)
+2021_05_09 07:11:55:909206     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.804 seconds
+2021_05_09 07:11:57:123734     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (576, 324) over a duration of 0.804 seconds
+2021_05_09 07:11:57:238138     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:11:57:501756     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 253 ms (0.253) sec
+2021_05_09 07:11:57:832588     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:12:04:779381     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6930 ms (6.93) sec
+2021_05_09 07:12:04:779381     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 8 time(s)
+2021_05_09 07:12:05:091618     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:12:05:093573     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:12:05:094542     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (654, 671)
+2021_05_09 07:12:05:094542     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.53 seconds
+2021_05_09 07:12:06:038883     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (654, 671) over a duration of 0.53 seconds
+2021_05_09 07:12:06:150178     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:12:06:403075     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 234 ms (0.234) sec
+2021_05_09 07:12:06:770287     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:12:07:080071     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 298 ms (0.298) sec
+2021_05_09 07:12:09:866899     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2771 ms (2.771) sec
+2021_05_09 07:12:10:158040     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:12:10:489824     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:12:10:699190     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:12:10:937514     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:12:11:194584     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:12:11:195530     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (591, 329)
+2021_05_09 07:12:11:196514     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.863 seconds
+2021_05_09 07:12:12:482661     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (591, 329) over a duration of 0.863 seconds
+2021_05_09 07:12:12:588581     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:12:12:588581     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (650, 318)
+2021_05_09 07:12:12:589588     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.629 seconds
+2021_05_09 07:12:13:600148     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (650, 318) over a duration of 0.629 seconds
+2021_05_09 07:12:13:727235     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:12:13:929477     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 190 ms (0.19) sec
+2021_05_09 07:12:14:283604     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:12:21:147534     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6843 ms (6.843) sec
+2021_05_09 07:12:21:147534     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 9 time(s)
+2021_05_09 07:12:21:341881     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:12:21:343873     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:12:21:343873     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (699, 677)
+2021_05_09 07:12:21:343873     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.566 seconds
+2021_05_09 07:12:22:310513     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (699, 677) over a duration of 0.566 seconds
+2021_05_09 07:12:22:426352     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:12:22:785400     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 316 ms (0.316) sec
+2021_05_09 07:12:23:108739     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:12:23:325383     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 187 ms (0.187) sec
+2021_05_09 07:12:26:402317     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3064 ms (3.064) sec
+2021_05_09 07:12:26:713973     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:12:27:036995     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:12:27:246300     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:12:27:570374     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:12:27:848782     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:12:27:849802     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (594, 328)
+2021_05_09 07:12:27:849802     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.917 seconds
+2021_05_09 07:12:29:281839     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (594, 328) over a duration of 0.917 seconds
+2021_05_09 07:12:29:396348     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:12:29:628296     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 205 ms (0.205) sec
+2021_05_09 07:12:29:970860     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:12:37:417037     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7425 ms (7.425) sec
+2021_05_09 07:12:37:417717     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 10 time(s)
+2021_05_09 07:12:37:920359     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:12:37:939801     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:12:37:940816     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (689, 667)
+2021_05_09 07:12:37:940816     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.981 seconds
+2021_05_09 07:12:39:397564     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (689, 667) over a duration of 0.981 seconds
+2021_05_09 07:12:39:525651     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:12:39:817817     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 273 ms (0.273) sec
+2021_05_09 07:12:40:165216     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:12:40:492000     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 316 ms (0.316) sec
+2021_05_09 07:12:43:693503     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3192 ms (3.192) sec
+2021_05_09 07:12:43:965152     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:12:44:335365     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:12:44:589425     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:12:44:950008     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:12:45:314633     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:12:45:314633     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (596, 316)
+2021_05_09 07:12:45:316439     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.501 seconds
+2021_05_09 07:12:46:169782     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (596, 316) over a duration of 0.501 seconds
+2021_05_09 07:12:46:277355     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:12:46:456858     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 172 ms (0.172) sec
+2021_05_09 07:12:46:796037     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:12:53:978510     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7140 ms (7.14) sec
+2021_05_09 07:12:53:980044     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 11 time(s)
+2021_05_09 07:12:54:326832     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:12:54:332687     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:12:54:332687     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (682, 677)
+2021_05_09 07:12:54:332687     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.872 seconds
+2021_05_09 07:12:55:667977     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (682, 677) over a duration of 0.872 seconds
+2021_05_09 07:12:55:813914     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:12:56:049450     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 215 ms (0.215) sec
+2021_05_09 07:12:56:391429     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:12:56:690466     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 292 ms (0.292) sec
+2021_05_09 07:12:59:515728     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2819 ms (2.819) sec
+2021_05_09 07:12:59:874982     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:13:00:176471     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:13:00:455590     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:13:00:708770     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:13:01:107472     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:13:01:107472     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (598, 331)
+2021_05_09 07:13:01:107472     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.93 seconds
+2021_05_09 07:13:02:489655     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (598, 331) over a duration of 0.93 seconds
+2021_05_09 07:13:02:602126     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:13:02:934395     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 321 ms (0.321) sec
+2021_05_09 07:13:03:292940     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:13:10:241882     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6909 ms (6.909) sec
+2021_05_09 07:13:10:243000     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 12 time(s)
+2021_05_09 07:13:10:633052     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:13:10:633052     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:13:10:633052     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (687, 672)
+2021_05_09 07:13:10:633052     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.72 seconds
+2021_05_09 07:13:11:792958     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (687, 672) over a duration of 0.72 seconds
+2021_05_09 07:13:11:929123     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:13:12:125297     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 167 ms (0.167) sec
+2021_05_09 07:13:12:466574     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:13:12:672634     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 199 ms (0.199) sec
+2021_05_09 07:13:15:701718     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3012 ms (3.012) sec
+2021_05_09 07:13:15:959697     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:13:16:281702     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:13:16:530862     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:13:16:800509     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:13:17:145351     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:13:17:150822     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (559, 324)
+2021_05_09 07:13:17:150822     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.727 seconds
+2021_05_09 07:13:18:278963     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (559, 324) over a duration of 0.727 seconds
+2021_05_09 07:13:18:411109     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:13:18:598508     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 183 ms (0.183) sec
+2021_05_09 07:13:18:935758     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:13:25:471603     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6530 ms (6.53) sec
+2021_05_09 07:13:25:477096     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 13 time(s)
+2021_05_09 07:13:25:761429     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:13:25:762405     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:13:25:762405     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (673, 679)
+2021_05_09 07:13:25:762405     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.763 seconds
+2021_05_09 07:13:26:970664     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (673, 679) over a duration of 0.763 seconds
+2021_05_09 07:13:27:087982     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:13:27:243370     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 151 ms (0.151) sec
+2021_05_09 07:13:27:583580     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:13:27:890363     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 253 ms (0.253) sec
+2021_05_09 07:13:31:143603     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3233 ms (3.233) sec
+2021_05_09 07:13:31:469950     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:13:31:688908     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:13:31:850354     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:13:32:019521     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:13:32:258316     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:13:32:259332     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (645, 321)
+2021_05_09 07:13:32:259332     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.792 seconds
+2021_05_09 07:13:33:480809     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (645, 321) over a duration of 0.792 seconds
+2021_05_09 07:13:33:587298     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:13:33:885312     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 271 ms (0.271) sec
+2021_05_09 07:13:34:254320     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:13:41:632629     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7363 ms (7.363) sec
+2021_05_09 07:13:41:634596     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 14 time(s)
+2021_05_09 07:13:41:840783     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:13:41:840783     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:13:41:840783     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (689, 671)
+2021_05_09 07:13:41:840783     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.907 seconds
+2021_05_09 07:13:43:230795     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (689, 671) over a duration of 0.907 seconds
+2021_05_09 07:13:43:357304     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:13:43:667241     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 279 ms (0.279) sec
+2021_05_09 07:13:44:009192     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:13:44:324781     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 306 ms (0.306) sec
+2021_05_09 07:13:47:274418     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2935 ms (2.935) sec
+2021_05_09 07:13:47:594912     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:13:47:850930     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:13:48:090827     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:13:48:297197     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:13:48:557732     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:13:48:559083     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (631, 327)
+2021_05_09 07:13:48:559746     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.619 seconds
+2021_05_09 07:13:49:556235     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (631, 327) over a duration of 0.619 seconds
+2021_05_09 07:13:49:669542     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:13:49:669542     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (585, 333)
+2021_05_09 07:13:49:670502     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.7 seconds
+2021_05_09 07:13:50:740390     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (585, 333) over a duration of 0.7 seconds
+2021_05_09 07:13:50:856357     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:13:51:152887     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 290 ms (0.29) sec
+2021_05_09 07:13:51:492935     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:13:58:841705     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7331 ms (7.331) sec
+2021_05_09 07:13:58:842554     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 15 time(s)
+2021_05_09 07:13:59:338892     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:13:59:338892     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:13:59:338892     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (700, 677)
+2021_05_09 07:13:59:338892     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.755 seconds
+2021_05_09 07:14:00:557863     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (700, 677) over a duration of 0.755 seconds
+2021_05_09 07:14:00:666849     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:14:01:018594     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 328 ms (0.328) sec
+2021_05_09 07:14:01:338133     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:14:01:690102     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 331 ms (0.331) sec
+2021_05_09 07:14:04:686315     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2987 ms (2.987) sec
+2021_05_09 07:14:04:882744     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:14:05:206154     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:14:05:410865     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:14:05:601331     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:14:05:862181     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:14:05:881453     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (565, 316)
+2021_05_09 07:14:05:882477     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.626 seconds
+2021_05_09 07:14:06:887965     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (565, 316) over a duration of 0.626 seconds
+2021_05_09 07:14:07:022430     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:14:07:023360     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (594, 324)
+2021_05_09 07:14:07:024592     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.999 seconds
+2021_05_09 07:14:08:501342     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (594, 324) over a duration of 0.999 seconds
+2021_05_09 07:14:08:618208     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:14:08:925976     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 297 ms (0.297) sec
+2021_05_09 07:14:09:258851     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:14:16:307032     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7033 ms (7.033) sec
+2021_05_09 07:14:16:308073     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 16 time(s)
+2021_05_09 07:14:16:604378     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:14:16:606070     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:14:16:606070     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (678, 679)
+2021_05_09 07:14:16:607019     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.643 seconds
+2021_05_09 07:14:17:632703     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (678, 679) over a duration of 0.643 seconds
+2021_05_09 07:14:17:738259     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:14:18:044068     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 289 ms (0.289) sec
+2021_05_09 07:14:18:390676     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:14:18:693144     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 285 ms (0.285) sec
+2021_05_09 07:14:21:533173     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2821 ms (2.821) sec
+2021_05_09 07:14:21:827284     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:14:22:039855     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:14:22:343372     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:14:22:596394     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:14:22:851146     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:14:22:853118     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (556, 331)
+2021_05_09 07:14:22:853118     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.785 seconds
+2021_05_09 07:14:24:060349     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (556, 331) over a duration of 0.785 seconds
+2021_05_09 07:14:24:170781     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:14:24:178586     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (531, 319)
+2021_05_09 07:14:24:179161     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.907 seconds
+2021_05_09 07:14:25:541591     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (531, 319) over a duration of 0.907 seconds
+2021_05_09 07:14:25:645127     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:14:25:929552     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 272 ms (0.272) sec
+2021_05_09 07:14:26:281826     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:14:33:483629     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7186 ms (7.186) sec
+2021_05_09 07:14:33:484690     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 17 time(s)
+2021_05_09 07:14:33:809164     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:14:33:809893     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:14:33:810501     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (689, 668)
+2021_05_09 07:14:33:810501     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.834 seconds
+2021_05_09 07:14:35:116842     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (689, 668) over a duration of 0.834 seconds
+2021_05_09 07:14:35:232122     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:14:35:434418     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 184 ms (0.184) sec
+2021_05_09 07:14:35:762845     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:14:36:088508     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 310 ms (0.31) sec
+2021_05_09 07:14:38:900196     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2800 ms (2.8) sec
+2021_05_09 07:14:39:262600     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:14:39:468780     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:14:39:636804     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:14:39:793185     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:14:39:967679     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:14:39:968614     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (571, 331)
+2021_05_09 07:14:39:968614     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.611 seconds
+2021_05_09 07:14:40:969233     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (571, 331) over a duration of 0.611 seconds
+2021_05_09 07:14:41:083530     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:14:41:422355     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 309 ms (0.309) sec
+2021_05_09 07:14:41:773439     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:14:48:565194     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6756 ms (6.756) sec
+2021_05_09 07:14:48:565194     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 18 time(s)
+2021_05_09 07:14:49:038113     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:14:49:049125     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:14:49:049125     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (693, 667)
+2021_05_09 07:14:49:051107     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.713 seconds
+2021_05_09 07:14:50:202183     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (693, 667) over a duration of 0.713 seconds
+2021_05_09 07:14:50:307225     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:14:50:581423     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 253 ms (0.253) sec
+2021_05_09 07:14:50:902710     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:14:51:258024     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 346 ms (0.346) sec
+2021_05_09 07:14:54:200591     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2925 ms (2.925) sec
+2021_05_09 07:14:54:473214     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:14:54:716605     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:14:54:877885     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:14:55:070461     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:14:55:222929     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:14:55:224042     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (576, 324)
+2021_05_09 07:14:55:224042     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.779 seconds
+2021_05_09 07:14:56:373242     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (576, 324) over a duration of 0.779 seconds
+2021_05_09 07:14:56:494960     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:14:56:496403     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (612, 328)
+2021_05_09 07:14:56:497352     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.715 seconds
+2021_05_09 07:14:57:588544     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (612, 328) over a duration of 0.715 seconds
+2021_05_09 07:14:57:697233     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:14:57:894628     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 175 ms (0.175) sec
+2021_05_09 07:14:58:227922     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:15:05:654480     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7408 ms (7.408) sec
+2021_05_09 07:15:05:655171     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 19 time(s)
+2021_05_09 07:15:05:909504     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:15:05:909504     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:15:05:909504     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (708, 672)
+2021_05_09 07:15:05:909504     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.606 seconds
+2021_05_09 07:15:06:939507     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (708, 672) over a duration of 0.606 seconds
+2021_05_09 07:15:07:050442     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:15:07:249770     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 189 ms (0.189) sec
+2021_05_09 07:15:07:622595     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:15:07:912234     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 272 ms (0.272) sec
+2021_05_09 07:15:11:047578     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3118 ms (3.118) sec
+2021_05_09 07:15:11:339597     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:15:11:595776     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:15:11:815075     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:15:12:131383     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:15:12:424515     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:15:12:425462     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (632, 320)
+2021_05_09 07:15:12:426511     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.906 seconds
+2021_05_09 07:15:13:903035     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (632, 320) over a duration of 0.906 seconds
+2021_05_09 07:15:14:009221     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:15:14:391005     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 346 ms (0.346) sec
+2021_05_09 07:15:14:732072     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:15:21:555119     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6809 ms (6.809) sec
+2021_05_09 07:15:21:557068     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 20 time(s)
+2021_05_09 07:15:21:828818     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:15:21:833306     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:15:21:836204     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (666, 672)
+2021_05_09 07:15:21:836204     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.992 seconds
+2021_05_09 07:15:23:338941     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (666, 672) over a duration of 0.992 seconds
+2021_05_09 07:15:23:445153     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:15:23:682241     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 227 ms (0.227) sec
+2021_05_09 07:15:24:012261     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:15:24:218121     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 176 ms (0.176) sec
+2021_05_09 07:15:27:402565     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3164 ms (3.164) sec
+2021_05_09 07:15:27:591130     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:15:27:876429     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:15:28:353284     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:15:28:617728     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:15:29:156548     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:15:29:162411     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (503, 333)
+2021_05_09 07:15:29:170327     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.529 seconds
+2021_05_09 07:15:30:036943     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (503, 333) over a duration of 0.529 seconds
+2021_05_09 07:15:30:157162     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:15:30:177486     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (519, 325)
+2021_05_09 07:15:30:179609     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.537 seconds
+2021_05_09 07:15:31:010184     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (519, 325) over a duration of 0.537 seconds
+2021_05_09 07:15:31:130368     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:15:31:491089     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 342 ms (0.342) sec
+2021_05_09 07:15:31:851959     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:15:39:013334     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7145 ms (7.145) sec
+2021_05_09 07:15:39:014621     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 21 time(s)
+2021_05_09 07:15:39:372962     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:15:39:373846     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:15:39:374696     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (670, 670)
+2021_05_09 07:15:39:374696     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.915 seconds
+2021_05_09 07:15:40:791016     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (670, 670) over a duration of 0.915 seconds
+2021_05_09 07:15:40:903097     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:15:41:229908     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 315 ms (0.315) sec
+2021_05_09 07:15:41:566608     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:15:41:925760     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 349 ms (0.349) sec
+2021_05_09 07:15:44:880157     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2925 ms (2.925) sec
+2021_05_09 07:15:45:199676     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:15:45:540751     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:15:45:844610     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:15:46:189580     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:15:46:515667     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:15:46:516960     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (537, 328)
+2021_05_09 07:15:46:516960     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.979 seconds
+2021_05_09 07:15:47:981021     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (537, 328) over a duration of 0.979 seconds
+2021_05_09 07:15:48:091008     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:15:48:287029     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 184 ms (0.184) sec
+2021_05_09 07:15:48:633422     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:15:55:196642     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6551 ms (6.551) sec
+2021_05_09 07:15:55:197492     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 22 time(s)
+2021_05_09 07:15:55:432113     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:15:55:437966     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:15:55:438969     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (705, 675)
+2021_05_09 07:15:55:439666     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.871 seconds
+2021_05_09 07:15:56:790990     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (705, 675) over a duration of 0.871 seconds
+2021_05_09 07:15:56:907398     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:15:57:267956     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 344 ms (0.344) sec
+2021_05_09 07:15:57:612844     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:15:57:869785     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 227 ms (0.227) sec
+2021_05_09 07:16:00:697569     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2823 ms (2.823) sec
+2021_05_09 07:16:01:025198     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:16:01:306557     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:16:01:570446     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:16:01:787410     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:16:02:062914     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:16:02:063612     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (654, 318)
+2021_05_09 07:16:02:063612     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.881 seconds
+2021_05_09 07:16:03:373589     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (654, 318) over a duration of 0.881 seconds
+2021_05_09 07:16:03:507635     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:16:03:508414     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (642, 318)
+2021_05_09 07:16:03:508414     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.817 seconds
+2021_05_09 07:16:04:775095     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (642, 318) over a duration of 0.817 seconds
+2021_05_09 07:16:04:885032     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:16:05:062246     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 155 ms (0.155) sec
+2021_05_09 07:16:05:410144     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:16:12:654194     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7229 ms (7.229) sec
+2021_05_09 07:16:12:654950     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 23 time(s)
+2021_05_09 07:16:13:019625     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:16:13:019625     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:16:13:019625     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (707, 671)
+2021_05_09 07:16:13:020649     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.821 seconds
+2021_05_09 07:16:14:243488     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (707, 671) over a duration of 0.821 seconds
+2021_05_09 07:16:14:372468     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:16:14:573462     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 170 ms (0.17) sec
+2021_05_09 07:16:14:902037     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:16:15:079758     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 166 ms (0.166) sec
+2021_05_09 07:16:18:004550     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2886 ms (2.886) sec
+2021_05_09 07:16:18:238593     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:16:18:426792     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:16:18:788133     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:16:18:988362     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:16:19:323093     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:16:19:323093     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (536, 321)
+2021_05_09 07:16:19:324078     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.893 seconds
+2021_05_09 07:16:20:643391     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (536, 321) over a duration of 0.893 seconds
+2021_05_09 07:16:20:751447     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:16:21:037721     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 273 ms (0.273) sec
+2021_05_09 07:16:21:365480     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:16:28:092629     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6701 ms (6.701) sec
+2021_05_09 07:16:28:094433     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 24 time(s)
+2021_05_09 07:16:28:360657     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:16:28:361509     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:16:28:361509     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (704, 671)
+2021_05_09 07:16:28:362492     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.517 seconds
+2021_05_09 07:16:29:213922     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (704, 671) over a duration of 0.517 seconds
+2021_05_09 07:16:29:355607     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:16:29:588136     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 202 ms (0.202) sec
+2021_05_09 07:16:29:940849     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:16:30:309405     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 349 ms (0.349) sec
+2021_05_09 07:16:33:566118     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3221 ms (3.221) sec
+2021_05_09 07:16:33:796745     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:16:34:155431     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:16:34:317583     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:16:34:569729     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:16:34:844272     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:16:34:844272     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (584, 330)
+2021_05_09 07:16:34:845251     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.784 seconds
+2021_05_09 07:16:36:054366     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (584, 330) over a duration of 0.784 seconds
+2021_05_09 07:16:36:164980     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:16:36:395634     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 210 ms (0.21) sec
+2021_05_09 07:16:36:769826     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:16:43:478505     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6701 ms (6.701) sec
+2021_05_09 07:16:43:483315     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 25 time(s)
+2021_05_09 07:16:43:761308     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:16:43:761308     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:16:43:762298     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (669, 667)
+2021_05_09 07:16:43:762298     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.94 seconds
+2021_05_09 07:16:45:268699     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (669, 667) over a duration of 0.94 seconds
+2021_05_09 07:16:45:379738     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:16:45:726449     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 332 ms (0.332) sec
+2021_05_09 07:16:46:055685     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:16:46:369982     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 291 ms (0.291) sec
+2021_05_09 07:16:49:541135     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3157 ms (3.157) sec
+2021_05_09 07:16:50:029744     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:16:50:286070     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:16:50:598889     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:16:50:780665     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:16:51:208639     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:16:51:208639     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (632, 329)
+2021_05_09 07:16:51:208639     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.543 seconds
+2021_05_09 07:16:52:069519     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (632, 329) over a duration of 0.543 seconds
+2021_05_09 07:16:52:172930     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:16:52:405961     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 226 ms (0.226) sec
+2021_05_09 07:16:52:782473     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:16:59:474892     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6668 ms (6.668) sec
+2021_05_09 07:16:59:474892     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 26 time(s)
+2021_05_09 07:16:59:845752     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:16:59:846258     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:16:59:874119     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (697, 677)
+2021_05_09 07:16:59:874119     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.577 seconds
+2021_05_09 07:17:00:843600     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (697, 677) over a duration of 0.577 seconds
+2021_05_09 07:17:00:951967     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:17:01:143025     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 169 ms (0.169) sec
+2021_05_09 07:17:01:496810     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:17:01:847212     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 345 ms (0.345) sec
+2021_05_09 07:17:05:106221     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3241 ms (3.241) sec
+2021_05_09 07:17:05:450478     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:17:05:866760     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:17:06:094644     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:17:06:447544     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:17:06:835533     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:17:06:836591     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (518, 334)
+2021_05_09 07:17:06:863339     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.638 seconds
+2021_05_09 07:17:07:866184     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (518, 334) over a duration of 0.638 seconds
+2021_05_09 07:17:07:970496     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:17:07:974533     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (624, 330)
+2021_05_09 07:17:07:975504     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.535 seconds
+2021_05_09 07:17:08:816374     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (624, 330) over a duration of 0.535 seconds
+2021_05_09 07:17:08:929611     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:17:09:295688     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 334 ms (0.334) sec
+2021_05_09 07:17:09:640493     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:17:16:325497     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6667 ms (6.667) sec
+2021_05_09 07:17:16:325497     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 27 time(s)
+2021_05_09 07:17:16:637567     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:17:16:637567     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:17:16:637567     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (702, 669)
+2021_05_09 07:17:16:639437     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.945 seconds
+2021_05_09 07:17:18:055342     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (702, 669) over a duration of 0.945 seconds
+2021_05_09 07:17:18:177422     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:17:18:455946     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 260 ms (0.26) sec
+2021_05_09 07:17:18:778249     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:17:19:026374     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 234 ms (0.234) sec
+2021_05_09 07:17:22:198188     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3133 ms (3.133) sec
+2021_05_09 07:17:22:527443     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:17:22:928263     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:17:23:263882     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:17:23:543577     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:17:23:921308     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:17:23:922729     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (520, 320)
+2021_05_09 07:17:23:922729     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.608 seconds
+2021_05_09 07:17:24:861761     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (520, 320) over a duration of 0.608 seconds
+2021_05_09 07:17:25:008868     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:17:25:250417     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 230 ms (0.23) sec
+2021_05_09 07:17:25:623241     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:17:32:321155     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6681 ms (6.681) sec
+2021_05_09 07:17:32:322104     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 28 time(s)
+2021_05_09 07:17:32:576124     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:17:32:577107     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:17:32:577107     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (668, 672)
+2021_05_09 07:17:32:577994     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.566 seconds
+2021_05_09 07:17:33:551739     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (668, 672) over a duration of 0.566 seconds
+2021_05_09 07:17:33:695695     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:17:34:033375     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 321 ms (0.321) sec
+2021_05_09 07:17:34:385143     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:17:34:592063     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 192 ms (0.192) sec
+2021_05_09 07:17:37:553598     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2952 ms (2.952) sec
+2021_05_09 07:17:37:984642     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:17:38:316867     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:17:38:559241     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:17:38:760481     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:17:39:068452     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:17:39:069429     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (520, 332)
+2021_05_09 07:17:39:069429     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.909 seconds
+2021_05_09 07:17:40:479809     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (520, 332) over a duration of 0.909 seconds
+2021_05_09 07:17:40:594121     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:17:40:611679     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (602, 317)
+2021_05_09 07:17:40:611679     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.966 seconds
+2021_05_09 07:17:42:078022     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (602, 317) over a duration of 0.966 seconds
+2021_05_09 07:17:42:200232     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:17:42:520843     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 290 ms (0.29) sec
+2021_05_09 07:17:42:846055     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:17:49:387344     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6521 ms (6.521) sec
+2021_05_09 07:17:49:387344     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 29 time(s)
+2021_05_09 07:17:49:634631     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:17:49:634631     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:17:49:634631     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (662, 678)
+2021_05_09 07:17:49:635604     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.524 seconds
+2021_05_09 07:17:50:480371     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (662, 678) over a duration of 0.524 seconds
+2021_05_09 07:17:50:611328     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:17:50:814233     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 188 ms (0.188) sec
+2021_05_09 07:17:51:178630     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:17:51:377388     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 189 ms (0.189) sec
+2021_05_09 07:17:54:571639     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3172 ms (3.172) sec
+2021_05_09 07:17:54:905514     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:17:55:414564     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:17:55:738972     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:17:56:006891     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:17:56:349825     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:17:56:349825     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (526, 333)
+2021_05_09 07:17:56:350916     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.566 seconds
+2021_05_09 07:17:57:266540     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (526, 333) over a duration of 0.566 seconds
+2021_05_09 07:17:57:402800     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:17:57:402800     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (597, 318)
+2021_05_09 07:17:57:402800     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.657 seconds
+2021_05_09 07:17:58:401599     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (597, 318) over a duration of 0.657 seconds
+2021_05_09 07:17:58:510933     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:17:58:706542     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 167 ms (0.167) sec
+2021_05_09 07:17:59:057461     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:18:06:100168     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7034 ms (7.034) sec
+2021_05_09 07:18:06:105681     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 30 time(s)
+2021_05_09 07:18:06:352429     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:18:06:353386     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:18:06:353386     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (706, 676)
+2021_05_09 07:18:06:354407     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.772 seconds
+2021_05_09 07:18:07:509856     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (706, 676) over a duration of 0.772 seconds
+2021_05_09 07:18:07:644844     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:18:07:989759     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 323 ms (0.323) sec
+2021_05_09 07:18:08:357598     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:18:08:546319     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 174 ms (0.174) sec
+2021_05_09 07:18:11:739210     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3170 ms (3.17) sec
+2021_05_09 07:18:12:025388     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:18:12:284346     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:18:12:557053     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:18:12:833524     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:18:13:070051     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:18:13:070985     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (543, 330)
+2021_05_09 07:18:13:070985     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.535 seconds
+2021_05_09 07:18:13:977818     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (543, 330) over a duration of 0.535 seconds
+2021_05_09 07:18:14:087904     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:18:14:290863     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 185 ms (0.185) sec
+2021_05_09 07:18:14:631408     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:18:22:002274     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7345 ms (7.345) sec
+2021_05_09 07:18:22:003238     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 31 time(s)
+2021_05_09 07:18:22:173267     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:18:22:174232     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:18:22:174232     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (695, 678)
+2021_05_09 07:18:22:175209     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.528 seconds
+2021_05_09 07:18:23:079513     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (695, 678) over a duration of 0.528 seconds
+2021_05_09 07:18:23:210843     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:18:23:528916     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 296 ms (0.296) sec
+2021_05_09 07:18:23:872433     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:18:24:152985     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 270 ms (0.27) sec
+2021_05_09 07:18:27:012960     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2850 ms (2.85) sec
+2021_05_09 07:18:27:283565     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:18:27:571808     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:18:27:767114     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:18:27:981720     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:18:28:280112     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:18:28:280112     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (507, 331)
+2021_05_09 07:18:28:280112     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.585 seconds
+2021_05_09 07:18:29:167825     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (507, 331) over a duration of 0.585 seconds
+2021_05_09 07:18:29:310298     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:18:29:311433     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (552, 334)
+2021_05_09 07:18:29:338033     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.794 seconds
+2021_05_09 07:18:30:520249     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (552, 334) over a duration of 0.794 seconds
+2021_05_09 07:18:30:628515     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:18:30:980384     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 347 ms (0.347) sec
+2021_05_09 07:18:31:322527     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:18:38:485795     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7163 ms (7.163) sec
+2021_05_09 07:18:38:485795     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 32 time(s)
+2021_05_09 07:18:38:716395     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:18:38:720023     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:18:38:721284     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (664, 677)
+2021_05_09 07:18:38:721284     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.638 seconds
+2021_05_09 07:18:39:749350     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (664, 677) over a duration of 0.638 seconds
+2021_05_09 07:18:39:856958     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:18:40:189927     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 303 ms (0.303) sec
+2021_05_09 07:18:40:516946     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:18:40:769383     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 241 ms (0.241) sec
+2021_05_09 07:18:43:673394     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2899 ms (2.899) sec
+2021_05_09 07:18:44:099457     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:18:44:407711     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:18:44:621231     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:18:44:886495     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:18:45:212966     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:18:45:212966     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (552, 326)
+2021_05_09 07:18:45:212966     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.592 seconds
+2021_05_09 07:18:46:139507     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (552, 326) over a duration of 0.592 seconds
+2021_05_09 07:18:46:246826     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:18:46:534062     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 264 ms (0.264) sec
+2021_05_09 07:18:46:923823     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:18:54:326458     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7400 ms (7.4) sec
+2021_05_09 07:18:54:351410     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 33 time(s)
+2021_05_09 07:18:54:858877     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:18:54:858877     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:18:54:860851     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (669, 671)
+2021_05_09 07:18:54:860851     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.921 seconds
+2021_05_09 07:18:56:337103     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (669, 671) over a duration of 0.921 seconds
+2021_05_09 07:18:56:458553     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:18:56:706379     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 227 ms (0.227) sec
+2021_05_09 07:18:57:033078     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:18:57:338585     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 279 ms (0.279) sec
+2021_05_09 07:19:00:314920     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2940 ms (2.94) sec
+2021_05_09 07:19:00:631255     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:19:00:960583     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:19:01:274234     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:19:01:507722     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:19:01:839769     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:19:01:841628     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (547, 318)
+2021_05_09 07:19:01:841872     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.734 seconds
+2021_05_09 07:19:03:003151     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (547, 318) over a duration of 0.734 seconds
+2021_05_09 07:19:03:125396     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:19:03:337065     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 188 ms (0.188) sec
+2021_05_09 07:19:03:681574     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:19:10:576198     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6867 ms (6.867) sec
+2021_05_09 07:19:10:576198     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 34 time(s)
+2021_05_09 07:19:10:954393     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:19:10:955360     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:19:10:955360     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (660, 679)
+2021_05_09 07:19:10:956366     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.961 seconds
+2021_05_09 07:19:12:465509     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (660, 679) over a duration of 0.961 seconds
+2021_05_09 07:19:12:577906     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:19:12:843704     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 252 ms (0.252) sec
+2021_05_09 07:19:13:202448     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:19:13:464570     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 240 ms (0.24) sec
+2021_05_09 07:19:16:446281     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2971 ms (2.971) sec
+2021_05_09 07:19:16:829102     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:19:17:130609     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:19:17:332866     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:19:17:557602     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:19:17:787251     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:19:17:787251     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (522, 324)
+2021_05_09 07:19:17:787251     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.53 seconds
+2021_05_09 07:19:18:689380     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (522, 324) over a duration of 0.53 seconds
+2021_05_09 07:19:18:808330     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:19:19:099040     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 273 ms (0.273) sec
+2021_05_09 07:19:19:472209     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:19:26:544831     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7056 ms (7.056) sec
+2021_05_09 07:19:26:572713     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 35 time(s)
+2021_05_09 07:19:26:860769     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:19:26:863374     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:19:26:864490     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (651, 674)
+2021_05_09 07:19:26:865982     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.59 seconds
+2021_05_09 07:19:27:852757     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (651, 674) over a duration of 0.59 seconds
+2021_05_09 07:19:27:969024     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:19:28:209047     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 204 ms (0.204) sec
+2021_05_09 07:19:28:560694     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:19:28:808504     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 217 ms (0.217) sec
+2021_05_09 07:19:31:881377     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3061 ms (3.061) sec
+2021_05_09 07:19:32:335641     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:19:32:763234     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:19:32:954766     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:19:33:238062     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:19:33:514114     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:19:33:518006     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (523, 326)
+2021_05_09 07:19:33:518006     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.694 seconds
+2021_05_09 07:19:34:573083     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (523, 326) over a duration of 0.694 seconds
+2021_05_09 07:19:34:700762     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:19:34:889507     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 170 ms (0.17) sec
+2021_05_09 07:19:35:211030     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:19:42:292800     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7047 ms (7.047) sec
+2021_05_09 07:19:42:296770     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 36 time(s)
+2021_05_09 07:19:42:557526     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:19:42:558258     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:19:42:558258     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (671, 676)
+2021_05_09 07:19:42:559463     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.637 seconds
+2021_05_09 07:19:43:586029     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (671, 676) over a duration of 0.637 seconds
+2021_05_09 07:19:43:691532     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:19:44:005944     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 306 ms (0.306) sec
+2021_05_09 07:19:44:346954     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:19:44:709313     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 338 ms (0.338) sec
+2021_05_09 07:19:47:903916     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3188 ms (3.188) sec
+2021_05_09 07:19:48:274570     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:19:48:714912     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:19:48:976967     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:19:49:297667     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:19:49:527715     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:19:49:537597     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (506, 326)
+2021_05_09 07:19:49:537597     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.975 seconds
+2021_05_09 07:19:51:032761     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (506, 326) over a duration of 0.975 seconds
+2021_05_09 07:19:51:143044     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:19:51:472328     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 329 ms (0.329) sec
+2021_05_09 07:19:51:816607     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:19:59:204378     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7379 ms (7.379) sec
+2021_05_09 07:19:59:204994     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 37 time(s)
+2021_05_09 07:19:59:581644     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:19:59:584387     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:19:59:584849     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (687, 674)
+2021_05_09 07:19:59:585477     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.94 seconds
+2021_05_09 07:20:01:039707     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (687, 674) over a duration of 0.94 seconds
+2021_05_09 07:20:01:157457     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:20:01:442761     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 266 ms (0.266) sec
+2021_05_09 07:20:01:811208     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:20:02:098801     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 258 ms (0.258) sec
+2021_05_09 07:20:05:094710     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2958 ms (2.958) sec
+2021_05_09 07:20:05:550931     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:20:05:928066     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:20:06:191519     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:20:06:649796     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:20:06:978740     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:20:06:978740     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (545, 326)
+2021_05_09 07:20:06:978740     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.85 seconds
+2021_05_09 07:20:08:398014     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (545, 326) over a duration of 0.85 seconds
+2021_05_09 07:20:08:508480     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:20:08:508480     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (630, 317)
+2021_05_09 07:20:08:509511     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.518 seconds
+2021_05_09 07:20:09:380446     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (630, 317) over a duration of 0.518 seconds
+2021_05_09 07:20:09:488740     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:20:09:837172     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 342 ms (0.342) sec
+2021_05_09 07:20:10:179747     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:20:17:624442     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7427 ms (7.427) sec
+2021_05_09 07:20:17:646715     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 38 time(s)
+2021_05_09 07:20:17:990722     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:20:17:990722     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:20:17:992712     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (658, 675)
+2021_05_09 07:20:17:992712     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.916 seconds
+2021_05_09 07:20:19:454499     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (658, 675) over a duration of 0.916 seconds
+2021_05_09 07:20:19:595677     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:20:19:947288     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 336 ms (0.336) sec
+2021_05_09 07:20:20:271412     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:20:20:583121     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 300 ms (0.3) sec
+2021_05_09 07:20:23:778239     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3177 ms (3.177) sec
+2021_05_09 07:20:24:164752     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:20:24:587049     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:20:24:894503     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:20:25:210323     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:20:25:510460     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:20:25:510460     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (569, 334)
+2021_05_09 07:20:25:511436     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.615 seconds
+2021_05_09 07:20:26:514584     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (569, 334) over a duration of 0.615 seconds
+2021_05_09 07:20:26:664386     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:20:26:664386     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (596, 329)
+2021_05_09 07:20:26:667238     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.755 seconds
+2021_05_09 07:20:27:826339     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (596, 329) over a duration of 0.755 seconds
+2021_05_09 07:20:27:964266     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:20:28:271503     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 297 ms (0.297) sec
+2021_05_09 07:20:28:633851     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:20:35:609679     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6962 ms (6.962) sec
+2021_05_09 07:20:35:619241     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 39 time(s)
+2021_05_09 07:20:36:073837     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:20:36:074858     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:20:36:074858     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (689, 679)
+2021_05_09 07:20:36:075769     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.514 seconds
+2021_05_09 07:20:36:972686     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (689, 679) over a duration of 0.514 seconds
+2021_05_09 07:20:37:110300     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:20:37:421798     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 299 ms (0.299) sec
+2021_05_09 07:20:37:782690     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:20:38:090414     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 280 ms (0.28) sec
+2021_05_09 07:20:41:055646     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2963 ms (2.963) sec
+2021_05_09 07:20:41:380340     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:20:41:750143     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:20:42:063337     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:20:42:352567     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:20:42:620799     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:20:42:622280     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (531, 325)
+2021_05_09 07:20:42:622280     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.734 seconds
+2021_05_09 07:20:43:733367     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (531, 325) over a duration of 0.734 seconds
+2021_05_09 07:20:43:839589     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:20:43:842570     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (504, 330)
+2021_05_09 07:20:43:843538     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.581 seconds
+2021_05_09 07:20:44:881045     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (504, 330) over a duration of 0.581 seconds
+2021_05_09 07:20:44:985069     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:20:45:221627     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 222 ms (0.222) sec
+2021_05_09 07:20:45:545151     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:20:52:724381     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7160 ms (7.16) sec
+2021_05_09 07:20:52:725480     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 40 time(s)
+2021_05_09 07:20:52:925833     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:20:52:925833     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:20:52:925833     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (706, 667)
+2021_05_09 07:20:52:925833     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.75 seconds
+2021_05_09 07:20:54:140753     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (706, 667) over a duration of 0.75 seconds
+2021_05_09 07:20:54:255339     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:20:54:500425     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 240 ms (0.24) sec
+2021_05_09 07:20:54:863128     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:20:55:162845     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 299 ms (0.299) sec
+2021_05_09 07:20:58:287344     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3114 ms (3.114) sec
+2021_05_09 07:20:58:722386     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:20:59:118379     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:20:59:434095     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:20:59:727723     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:21:00:079396     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:21:00:080291     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (508, 325)
+2021_05_09 07:21:00:081207     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.53 seconds
+2021_05_09 07:21:00:975329     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (508, 325) over a duration of 0.53 seconds
+2021_05_09 07:21:01:100093     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:21:01:353452     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 240 ms (0.24) sec
+2021_05_09 07:21:01:684812     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:21:08:333391     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6633 ms (6.633) sec
+2021_05_09 07:21:08:335239     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 41 time(s)
+2021_05_09 07:21:08:733932     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:21:08:734918     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:21:08:734918     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (709, 671)
+2021_05_09 07:21:08:734918     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.589 seconds
+2021_05_09 07:21:09:697007     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (709, 671) over a duration of 0.589 seconds
+2021_05_09 07:21:09:833945     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:21:10:088440     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 252 ms (0.252) sec
+2021_05_09 07:21:10:446824     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:21:10:816166     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 338 ms (0.338) sec
+2021_05_09 07:21:13:909143     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3062 ms (3.062) sec
+2021_05_09 07:21:14:244875     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:21:14:574693     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:21:14:761663     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:21:14:934619     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:21:15:207366     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:21:15:208342     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (570, 327)
+2021_05_09 07:21:15:208929     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.772 seconds
+2021_05_09 07:21:16:414512     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (570, 327) over a duration of 0.772 seconds
+2021_05_09 07:21:16:548663     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:21:16:734842     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 174 ms (0.174) sec
+2021_05_09 07:21:17:098893     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:21:24:004124     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6892 ms (6.892) sec
+2021_05_09 07:21:24:010185     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 42 time(s)
+2021_05_09 07:21:24:278876     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:21:24:278876     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:21:24:279853     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (664, 677)
+2021_05_09 07:21:24:279853     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.99 seconds
+2021_05_09 07:21:25:800065     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (664, 677) over a duration of 0.99 seconds
+2021_05_09 07:21:25:911407     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:21:26:117661     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 189 ms (0.189) sec
+2021_05_09 07:21:26:488301     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:21:26:742649     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 233 ms (0.233) sec
+2021_05_09 07:21:29:898262     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3139 ms (3.139) sec
+2021_05_09 07:21:30:330382     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:21:30:619767     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:21:30:783257     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:21:31:010766     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:21:31:242504     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:21:31:244501     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (649, 316)
+2021_05_09 07:21:31:245539     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.758 seconds
+2021_05_09 07:21:32:426459     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (649, 316) over a duration of 0.758 seconds
+2021_05_09 07:21:32:534354     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:21:32:828404     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 282 ms (0.282) sec
+2021_05_09 07:21:33:178693     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:21:40:518779     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7303 ms (7.303) sec
+2021_05_09 07:21:40:521476     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 43 time(s)
+2021_05_09 07:21:40:841972     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:21:40:841972     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:21:40:841972     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (654, 674)
+2021_05_09 07:21:40:844703     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.664 seconds
+2021_05_09 07:21:41:955362     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (654, 674) over a duration of 0.664 seconds
+2021_05_09 07:21:42:074218     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:21:42:422317     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 334 ms (0.334) sec
+2021_05_09 07:21:42:777480     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:21:42:987289     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 205 ms (0.205) sec
+2021_05_09 07:21:46:192115     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3197 ms (3.197) sec
+2021_05_09 07:21:46:449352     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:21:46:645035     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:21:46:857017     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:21:47:052664     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:21:47:245551     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:21:47:246853     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (592, 321)
+2021_05_09 07:21:47:246853     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.881 seconds
+2021_05_09 07:21:48:562530     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (592, 321) over a duration of 0.881 seconds
+2021_05_09 07:21:48:704006     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:21:48:938256     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 221 ms (0.221) sec
+2021_05_09 07:21:49:288721     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:21:56:800379     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7486 ms (7.486) sec
+2021_05_09 07:21:56:801179     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 44 time(s)
+2021_05_09 07:21:57:108516     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:21:57:108516     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:21:57:108516     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (692, 671)
+2021_05_09 07:21:57:109988     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.722 seconds
+2021_05_09 07:21:58:272856     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (692, 671) over a duration of 0.722 seconds
+2021_05_09 07:21:58:377927     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:21:58:732179     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 350 ms (0.35) sec
+2021_05_09 07:21:59:083379     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:21:59:327460     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 229 ms (0.229) sec
+2021_05_09 07:22:02:106728     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2768 ms (2.768) sec
+2021_05_09 07:22:02:321798     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:22:02:729302     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:22:02:970990     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:22:03:231565     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:22:03:501483     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:22:03:503484     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (609, 323)
+2021_05_09 07:22:03:503484     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.597 seconds
+2021_05_09 07:22:04:429798     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (609, 323) over a duration of 0.597 seconds
+2021_05_09 07:22:04:537724     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:22:04:804958     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 256 ms (0.256) sec
+2021_05_09 07:22:05:144773     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:22:12:413408     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7229 ms (7.229) sec
+2021_05_09 07:22:12:416433     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 45 time(s)
+2021_05_09 07:22:12:787683     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:22:12:789507     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:22:12:789507     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (683, 675)
+2021_05_09 07:22:12:790624     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.881 seconds
+2021_05_09 07:22:14:155285     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (683, 675) over a duration of 0.881 seconds
+2021_05_09 07:22:14:278718     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:22:14:550718     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 263 ms (0.263) sec
+2021_05_09 07:22:14:874122     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:22:15:154026     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 257 ms (0.257) sec
+2021_05_09 07:22:18:394985     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3227 ms (3.227) sec
+2021_05_09 07:22:18:620687     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:22:18:884613     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:22:19:106352     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:22:19:243098     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:22:19:575094     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:22:19:585939     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (654, 319)
+2021_05_09 07:22:19:588865     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.711 seconds
+2021_05_09 07:22:20:733325     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (654, 319) over a duration of 0.711 seconds
+2021_05_09 07:22:20:849281     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:22:21:097693     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 199 ms (0.199) sec
+2021_05_09 07:22:21:457307     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:22:28:764641     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7269 ms (7.269) sec
+2021_05_09 07:22:28:768255     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 46 time(s)
+2021_05_09 07:22:29:025797     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:22:29:025994     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:22:29:025994     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (694, 671)
+2021_05_09 07:22:29:027232     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.973 seconds
+2021_05_09 07:22:30:524841     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (694, 671) over a duration of 0.973 seconds
+2021_05_09 07:22:30:633889     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:22:31:027778     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 350 ms (0.35) sec
+2021_05_09 07:22:31:363660     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:22:31:629462     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 250 ms (0.25) sec
+2021_05_09 07:22:34:850605     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3170 ms (3.17) sec
+2021_05_09 07:22:35:214442     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:22:35:526542     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:22:35:770803     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:22:35:920493     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:22:36:146489     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:22:36:146489     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (634, 334)
+2021_05_09 07:22:36:147466     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.879 seconds
+2021_05_09 07:22:37:524707     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (634, 334) over a duration of 0.879 seconds
+2021_05_09 07:22:37:634125     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:22:37:634125     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (603, 320)
+2021_05_09 07:22:37:635088     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.736 seconds
+2021_05_09 07:22:38:776100     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (603, 320) over a duration of 0.736 seconds
+2021_05_09 07:22:38:891383     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:22:39:196304     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 273 ms (0.273) sec
+2021_05_09 07:22:39:549346     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:22:46:534700     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6981 ms (6.981) sec
+2021_05_09 07:22:46:547216     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 47 time(s)
+2021_05_09 07:22:46:938169     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:22:46:938699     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:22:46:938699     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (679, 672)
+2021_05_09 07:22:46:939649     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.991 seconds
+2021_05_09 07:22:48:496491     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (679, 672) over a duration of 0.991 seconds
+2021_05_09 07:22:48:605595     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:22:48:901291     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 268 ms (0.268) sec
+2021_05_09 07:22:49:240360     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:22:49:594589     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 309 ms (0.309) sec
+2021_05_09 07:22:52:543883     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2911 ms (2.911) sec
+2021_05_09 07:22:53:021079     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:22:53:298321     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:22:53:470192     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:22:53:770721     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:22:54:103492     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:22:54:109961     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (589, 316)
+2021_05_09 07:22:54:109961     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.754 seconds
+2021_05_09 07:22:55:331666     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (589, 316) over a duration of 0.754 seconds
+2021_05_09 07:22:55:445585     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:22:55:446399     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (651, 331)
+2021_05_09 07:22:55:447074     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.564 seconds
+2021_05_09 07:22:56:426366     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (651, 331) over a duration of 0.564 seconds
+2021_05_09 07:22:56:545318     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:22:56:844435     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 277 ms (0.277) sec
+2021_05_09 07:22:57:197114     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:23:04:431043     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7226 ms (7.226) sec
+2021_05_09 07:23:04:431227     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 48 time(s)
+2021_05_09 07:23:04:739691     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:23:04:740478     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:23:04:740909     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (650, 678)
+2021_05_09 07:23:04:741882     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.82 seconds
+2021_05_09 07:23:06:132073     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (650, 678) over a duration of 0.82 seconds
+2021_05_09 07:23:06:249712     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:23:06:500249     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 236 ms (0.236) sec
+2021_05_09 07:23:06:838644     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:23:07:174446     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 326 ms (0.326) sec
+2021_05_09 07:23:10:003747     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2809 ms (2.809) sec
+2021_05_09 07:23:10:213383     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:23:10:623453     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:23:10:864844     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:23:11:190231     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:23:11:452174     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:23:11:453140     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (515, 321)
+2021_05_09 07:23:11:460913     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.944 seconds
+2021_05_09 07:23:12:986688     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (515, 321) over a duration of 0.944 seconds
+2021_05_09 07:23:13:106966     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:23:13:417487     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 295 ms (0.295) sec
+2021_05_09 07:23:13:760663     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:23:20:735144     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6948 ms (6.948) sec
+2021_05_09 07:23:20:737082     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 49 time(s)
+2021_05_09 07:23:21:263711     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:23:21:264917     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:23:21:265113     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (703, 670)
+2021_05_09 07:23:21:265653     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.794 seconds
+2021_05_09 07:23:22:487342     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (703, 670) over a duration of 0.794 seconds
+2021_05_09 07:23:22:629455     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:23:22:871763     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 231 ms (0.231) sec
+2021_05_09 07:23:23:222124     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:23:23:557258     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 309 ms (0.309) sec
+2021_05_09 07:23:26:693033     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3117 ms (3.117) sec
+2021_05_09 07:23:27:071745     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:23:27:396831     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:23:27:681230     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:23:27:880892     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:23:28:098104     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 07:23:28:104357     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (546, 321)
+2021_05_09 07:23:28:105338     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.578 seconds
+2021_05_09 07:23:29:044069     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (546, 321) over a duration of 0.578 seconds
+2021_05_09 07:23:29:186620     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:23:29:187261     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (519, 318)
+2021_05_09 07:23:29:187859     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.827 seconds
+2021_05_09 07:23:30:423335     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (519, 318) over a duration of 0.827 seconds
+2021_05_09 07:23:30:546925     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:23:30:793655     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 219 ms (0.219) sec
+2021_05_09 07:23:31:143396     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:23:38:199945     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7053 ms (7.053) sec
+2021_05_09 07:23:38:203187     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 50 time(s)
+=======
 2021_05_09 13:36:32:952129     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
 2021_05_09 13:36:32:953108     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
 2021_05_09 13:36:33:954391     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
@@ -15459,6 +16735,7 @@
 2021_05_09 13:37:21:698976     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the recipe, bundle_of_spring_barley
 2021_05_09 13:37:21:946121     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'make_all.png' on screen
 2021_05_09 13:37:21:947096     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the button, make_all
+<<<<<<< HEAD
 2021_05_09 13:42:23:005322     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 301058 ms (301.058) sec
 2021_05_09 13:42:23:308745     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
 2021_05_09 13:42:23:616144     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 307 ms (0.307) sec
@@ -15576,3 +16853,107 @@
 2021_05_09 14:42:50:560248     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 13 time(s)
 2021_05_09 14:42:50:767401     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'make_all.png' on screen
 2021_05_09 14:42:50:767401     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the button, make_all
+=======
+2021_05_09 07:43:11:275552     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 07:43:11:276541     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 07:43:12:286704     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 07:43:13:308886     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 07:43:14:326342     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 07:43:14:328300     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1152, 864)
+2021_05_09 07:43:14:329175     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (465, 443)
+2021_05_09 07:43:14:329315     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.809 seconds
+2021_05_09 07:43:15:541939     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (465, 443) over a duration of 0.809 seconds
+2021_05_09 07:43:15:689424     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 07:43:16:677628     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 965 ms (0.965) sec
+2021_05_09 07:43:16:805615     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_09 07:43:16:932710     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (465, 1147) over a duration of 0 seconds
+2021_05_09 07:43:17:041298     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_09 07:43:17:041298     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.816 seconds
+2021_05_09 07:43:18:303209     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (453, -268) over a duration of 0.816 seconds
+2021_05_09 07:43:18:425905     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_09 07:43:18:548601     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (453, 393) over a duration of 0 seconds
+2021_05_09 07:43:18:655366     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_09 07:43:21:118154     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_09 07:43:21:691400     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 5 scroll-clicks
+2021_05_09 07:43:21:957142     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_09 07:43:21:958451     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Crafting panel already toggled
+2021_05_09 07:43:22:153636     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_09 07:43:22:155458     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_09 07:43:22:352801     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice_toggled.png on screen
+2021_05_09 07:43:22:352801     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Apprentice tier already toggled
+2021_05_09 07:43:22:489376     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image grains_toggled.png on screen
+2021_05_09 07:43:22:489376     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Grains tier already toggled
+2021_05_09 07:43:22:712714     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'spring_barley_field.png' on screen
+2021_05_09 07:43:22:712714     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the recipe, spring_barley_field
+2021_05_09 07:43:22:920377     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'make.png' on screen
+2021_05_09 07:43:22:921345     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the button, make
+2021_05_09 07:43:23:094892     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 159 ms (0.159) sec
+2021_05_09 07:43:23:465188     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:43:23:627595     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 151 ms (0.151) sec
+2021_05_09 07:43:26:806226     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3175 ms (3.175) sec
+2021_05_09 07:43:27:037859     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:43:27:286648     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:43:27:461369     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:43:27:634017     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:43:27:809410     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_4.png' on screen
+2021_05_09 07:45:26:263100     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 07:45:26:263562     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 07:45:27:283797     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 07:45:28:305805     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 07:45:29:309604     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 07:45:29:310724     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1152, 864)
+2021_05_09 07:45:29:311407     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (598, 402)
+2021_05_09 07:45:29:311568     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.758 seconds
+2021_05_09 07:45:38:511514     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 07:45:38:517032     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 07:45:39:557746     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 07:45:40:568737     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 07:45:41:579612     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 07:45:41:788381     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_09 07:45:41:788381     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Crafting panel already toggled
+2021_05_09 07:45:42:071226     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_09 07:45:42:072139     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_09 07:45:42:399013     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice_toggled.png on screen
+2021_05_09 07:45:42:402910     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Apprentice tier already toggled
+2021_05_09 07:45:42:627180     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image grains_toggled.png on screen
+2021_05_09 07:45:42:645057     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Grains tier already toggled
+2021_05_09 07:45:42:911742     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'bundle_of_spring_barley.png' on screen
+2021_05_09 07:45:42:912720     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the recipe, bundle_of_spring_barley
+2021_05_09 07:45:43:251187     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 07:45:43:251187     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 07:45:43:252143     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (669, 675)
+2021_05_09 07:45:43:252143     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.975 seconds
+2021_05_09 07:45:44:842003     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (669, 675) over a duration of 0.975 seconds
+2021_05_09 07:45:44:992101     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:45:45:179667     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 176 ms (0.176) sec
+2021_05_09 07:45:45:574692     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:45:45:898790     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 289 ms (0.289) sec
+2021_05_09 07:45:48:731878     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2819 ms (2.819) sec
+2021_05_09 07:45:49:014888     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 07:45:49:224417     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 07:45:49:465960     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 07:45:49:691093     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 07:45:49:970984     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_4.png' on screen
+2021_05_09 07:46:37:544835     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 07:46:37:545339     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 07:46:38:570490     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 07:46:39:588730     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 07:46:40:601682     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 07:46:40:855711     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_09 07:46:40:862495     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Crafting panel already toggled
+2021_05_09 07:46:41:190438     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_09 07:46:41:210764     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_09 07:46:41:562195     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice_toggled.png on screen
+2021_05_09 07:46:41:562821     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Apprentice tier already toggled
+2021_05_09 07:46:41:879940     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image grains_toggled.png on screen
+2021_05_09 07:46:41:881879     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Grains tier already toggled
+2021_05_09 07:46:42:158810     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'bundle_of_spring_barley.png' on screen
+2021_05_09 07:46:42:161732     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the recipe, bundle_of_spring_barley
+2021_05_09 07:46:42:519189     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 07:46:42:519189     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 07:46:42:521135     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (723, 675)
+2021_05_09 07:46:42:521135     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.585 seconds
+2021_05_09 07:46:43:512289     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (723, 675) over a duration of 0.585 seconds
+2021_05_09 07:46:43:672918     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:47:11:604503     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 07:47:11:605432     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
