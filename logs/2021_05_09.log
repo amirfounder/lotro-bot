@@ -16838,3 +16838,482 @@
 2021_05_09 07:46:43:672918     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
 2021_05_09 07:47:11:604503     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
 2021_05_09 07:47:11:605432     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 07:47:35:528742     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 07:47:35:528742     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 07:47:36:564351     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 07:47:37:571665     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 07:47:38:609667     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 07:47:38:777147     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'crafting_panel_header.png' on screen
+2021_05_09 07:47:39:141434     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 07:47:39:327577     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'crafting_panel_header.png' on screen
+2021_05_09 07:47:39:328334     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:There was a problem opening the crafting panel
+2021_05_09 07:47:39:328334     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled the crafting panel
+2021_05_09 07:47:39:617646     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'farming_toggled.png' on screen
+2021_05_09 07:47:39:830196     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'farming.png' on screen
+2021_05_09 07:47:39:831221     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find farming trade
+2021_05_09 07:47:40:040510     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice_toggled.png on screen
+2021_05_09 07:47:40:041379     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Apprentice tier already toggled
+2021_05_09 07:47:40:189060     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image grains_toggled.png on screen
+2021_05_09 07:47:40:189301     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Grains tier already toggled
+2021_05_09 07:47:40:398971     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'bundle_of_spring_barley.png' on screen
+2021_05_09 07:47:40:400053     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the recipe, bundle_of_spring_barley
+2021_05_09 07:47:40:570072     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'make_all.png' on screen
+2021_05_09 07:47:40:570072     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the button, make_all
+2021_05_09 07:47:54:216725     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 07:47:54:218592     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 07:47:55:233016     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 07:47:56:243015     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 07:47:57:259118     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 07:47:57:447436     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_09 07:47:57:448389     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Crafting panel already toggled
+2021_05_09 07:47:57:628178     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_09 07:47:57:628178     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_09 07:47:57:794487     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice_toggled.png on screen
+2021_05_09 07:47:57:795528     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Apprentice tier already toggled
+2021_05_09 07:47:57:959338     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image grains_toggled.png on screen
+2021_05_09 07:47:57:959338     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Grains tier already toggled
+2021_05_09 07:47:58:182527     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'bundle_of_spring_barley.png' on screen
+2021_05_09 07:47:58:182527     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the recipe, bundle_of_spring_barley
+2021_05_09 07:47:58:374762     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 07:47:58:376090     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 07:47:58:376628     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (751, 676)
+2021_05_09 07:47:58:378062     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.518 seconds
+2021_05_09 07:47:59:208546     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (751, 676) over a duration of 0.518 seconds
+2021_05_09 07:47:59:345321     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:56:19:812288     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 500457 ms (500.457) sec
+2021_05_09 07:56:20:210431     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
+2021_05_09 07:56:20:495666     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 262 ms (0.262) sec
+2021_05_09 07:56:20:874445     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image repair_all.png on screen
+2021_05_09 07:56:20:876378     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the repair_all button
+2021_05_09 07:56:20:877192     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (988, 462)
+2021_05_09 07:56:20:877407     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.821 seconds
+2021_05_09 07:56:22:218055     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (988, 462) over a duration of 0.821 seconds
+2021_05_09 07:56:22:378421     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 07:56:22:736287     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 335 ms (0.335) sec
+2021_05_09 07:56:22:775352     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 1 time(s)
+2021_05_09 07:56:22:950564     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 07:56:22:988636     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 07:56:22:989637     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (754, 677)
+2021_05_09 07:56:22:990610     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.669 seconds
+2021_05_09 07:56:24:174903     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (754, 677) over a duration of 0.669 seconds
+2021_05_09 07:56:24:289004     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 08:04:45:543089     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 501240 ms (501.24) sec
+2021_05_09 08:04:45:881895     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
+2021_05_09 08:04:46:224724     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 268 ms (0.268) sec
+2021_05_09 08:04:46:498738     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image repair_all.png on screen
+2021_05_09 08:04:46:508509     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the repair_all button
+2021_05_09 08:04:46:508509     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (985, 455)
+2021_05_09 08:04:46:508509     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.743 seconds
+2021_05_09 08:04:47:726991     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (985, 455) over a duration of 0.743 seconds
+2021_05_09 08:04:47:875701     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 08:04:48:160333     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 255 ms (0.255) sec
+2021_05_09 08:04:48:162345     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 2 time(s)
+2021_05_09 08:04:48:360275     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 08:04:48:360786     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 08:04:48:384436     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (750, 677)
+2021_05_09 08:04:48:385020     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.948 seconds
+2021_05_09 08:04:49:767399     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (750, 677) over a duration of 0.948 seconds
+2021_05_09 08:04:49:888346     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 08:13:11:428146     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 501521 ms (501.521) sec
+2021_05_09 08:13:11:784864     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
+2021_05_09 08:13:11:986858     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 183 ms (0.183) sec
+2021_05_09 08:13:12:248532     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image repair_all.png on screen
+2021_05_09 08:13:12:248532     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the repair_all button
+2021_05_09 08:13:12:250505     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (983, 465)
+2021_05_09 08:13:12:251136     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.78 seconds
+2021_05_09 08:13:13:502776     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (983, 465) over a duration of 0.78 seconds
+2021_05_09 08:13:13:644291     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 08:13:13:887573     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 226 ms (0.226) sec
+2021_05_09 08:13:13:889586     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 3 time(s)
+2021_05_09 08:13:14:151087     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 08:13:14:152214     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 08:13:14:152214     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (754, 673)
+2021_05_09 08:13:14:152214     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.823 seconds
+2021_05_09 08:13:15:378851     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (754, 673) over a duration of 0.823 seconds
+2021_05_09 08:13:15:499800     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 08:21:36:455752     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 500935 ms (500.935) sec
+2021_05_09 08:21:36:790474     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
+2021_05_09 08:21:37:052480     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 230 ms (0.23) sec
+2021_05_09 08:21:37:268512     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image repair_all.png on screen
+2021_05_09 08:21:37:270525     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the repair_all button
+2021_05_09 08:21:37:271219     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (993, 456)
+2021_05_09 08:21:37:272110     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.862 seconds
+2021_05_09 08:21:38:653666     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (993, 456) over a duration of 0.862 seconds
+2021_05_09 08:21:38:772861     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 08:21:38:953137     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 154 ms (0.154) sec
+2021_05_09 08:21:38:953137     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 4 time(s)
+2021_05_09 08:21:39:301201     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 08:21:39:302168     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 08:21:39:302887     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (758, 677)
+2021_05_09 08:21:39:302887     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.724 seconds
+2021_05_09 08:21:40:553686     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (758, 677) over a duration of 0.724 seconds
+2021_05_09 08:21:40:672008     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 08:30:01:069376     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 500374 ms (500.374) sec
+2021_05_09 08:30:01:389028     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
+2021_05_09 08:30:01:575048     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 171 ms (0.171) sec
+2021_05_09 08:30:01:877559     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image repair_all.png on screen
+2021_05_09 08:30:01:878584     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the repair_all button
+2021_05_09 08:30:01:879728     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (994, 454)
+2021_05_09 08:30:01:879728     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.848 seconds
+2021_05_09 08:30:03:301308     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (994, 454) over a duration of 0.848 seconds
+2021_05_09 08:30:03:420001     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 08:30:03:665454     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 202 ms (0.202) sec
+2021_05_09 08:30:03:675518     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 5 time(s)
+2021_05_09 08:30:03:898471     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 08:30:03:903751     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 08:30:03:903751     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (745, 678)
+2021_05_09 08:30:03:903751     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.875 seconds
+2021_05_09 08:30:05:258097     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (745, 678) over a duration of 0.875 seconds
+2021_05_09 08:30:05:373130     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 08:38:26:478244     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 501080 ms (501.08) sec
+2021_05_09 08:38:26:810071     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
+2021_05_09 08:38:27:088782     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 271 ms (0.271) sec
+2021_05_09 08:38:27:355268     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image repair_all.png on screen
+2021_05_09 08:38:27:359169     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the repair_all button
+2021_05_09 08:38:27:359169     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1028, 456)
+2021_05_09 08:38:27:359169     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.738 seconds
+2021_05_09 08:38:28:491858     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1028, 456) over a duration of 0.738 seconds
+2021_05_09 08:38:28:599243     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 08:38:28:915947     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 279 ms (0.279) sec
+2021_05_09 08:38:28:916819     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 6 time(s)
+2021_05_09 08:38:29:139604     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 08:38:29:145638     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 08:38:29:146486     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (758, 670)
+2021_05_09 08:38:29:146486     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.851 seconds
+2021_05_09 08:38:30:429485     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (758, 670) over a duration of 0.851 seconds
+2021_05_09 08:38:30:544340     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 08:46:50:996647     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 500420 ms (500.42) sec
+2021_05_09 08:46:51:318262     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
+2021_05_09 08:46:51:661931     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 321 ms (0.321) sec
+2021_05_09 08:46:51:980691     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image repair_all.png on screen
+2021_05_09 08:46:51:985457     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the repair_all button
+2021_05_09 08:46:51:986488     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1034, 455)
+2021_05_09 08:46:51:987485     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.873 seconds
+2021_05_09 08:46:53:443124     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1034, 455) over a duration of 0.873 seconds
+2021_05_09 08:46:53:560399     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 08:46:53:899490     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 312 ms (0.312) sec
+2021_05_09 08:46:53:900388     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 7 time(s)
+2021_05_09 08:46:54:092664     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 08:46:54:094304     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 08:46:54:094304     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (751, 673)
+2021_05_09 08:46:54:095261     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.557 seconds
+2021_05_09 08:46:55:021748     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (751, 673) over a duration of 0.557 seconds
+2021_05_09 08:46:55:152184     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 08:55:16:182413     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 501028 ms (501.028) sec
+2021_05_09 08:55:16:519971     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
+2021_05_09 08:55:16:790283     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 226 ms (0.226) sec
+2021_05_09 08:55:17:114915     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image repair_all.png on screen
+2021_05_09 08:55:17:115880     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the repair_all button
+2021_05_09 08:55:17:116933     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1048, 464)
+2021_05_09 08:55:17:117853     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.747 seconds
+2021_05_09 08:55:18:328956     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1048, 464) over a duration of 0.747 seconds
+2021_05_09 08:55:18:460948     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 08:55:18:645023     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 161 ms (0.161) sec
+2021_05_09 08:55:18:645023     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 8 time(s)
+2021_05_09 08:55:18:967950     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 08:55:18:968925     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 08:55:18:969199     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (752, 679)
+2021_05_09 08:55:18:969199     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.59 seconds
+2021_05_09 08:55:20:087589     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (752, 679) over a duration of 0.59 seconds
+2021_05_09 08:55:20:208303     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 09:03:41:966255     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 501746 ms (501.746) sec
+2021_05_09 09:03:42:349204     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
+2021_05_09 09:03:42:654402     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 254 ms (0.254) sec
+2021_05_09 09:03:43:038447     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image repair_all.png on screen
+2021_05_09 09:03:43:040329     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the repair_all button
+2021_05_09 09:03:43:040760     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1036, 459)
+2021_05_09 09:03:43:041245     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.57 seconds
+2021_05_09 09:03:44:109547     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1036, 459) over a duration of 0.57 seconds
+2021_05_09 09:03:44:258873     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 09:03:44:555836     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 290 ms (0.29) sec
+2021_05_09 09:03:44:562635     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 9 time(s)
+2021_05_09 09:03:44:881144     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 09:03:44:898796     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 09:03:44:900285     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (770, 674)
+2021_05_09 09:03:44:900519     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.86 seconds
+2021_05_09 09:03:46:284173     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (770, 674) over a duration of 0.86 seconds
+2021_05_09 09:03:46:433665     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 09:12:07:984599     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 501526 ms (501.526) sec
+2021_05_09 09:12:08:346627     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
+2021_05_09 09:12:08:586759     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 237 ms (0.237) sec
+2021_05_09 09:12:08:917182     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image repair_all.png on screen
+2021_05_09 09:12:08:918129     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the repair_all button
+2021_05_09 09:12:08:918129     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1035, 463)
+2021_05_09 09:12:08:919114     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.85 seconds
+2021_05_09 09:12:10:182449     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1035, 463) over a duration of 0.85 seconds
+2021_05_09 09:12:10:293368     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 09:12:10:495479     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 194 ms (0.194) sec
+2021_05_09 09:12:10:495479     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 10 time(s)
+2021_05_09 09:12:10:825336     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 09:12:10:833151     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 09:12:10:833151     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (779, 679)
+2021_05_09 09:12:10:833151     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.666 seconds
+2021_05_09 09:12:11:963345     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (779, 679) over a duration of 0.666 seconds
+2021_05_09 09:12:12:085206     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 09:20:33:750437     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 501663 ms (501.663) sec
+2021_05_09 09:20:34:109976     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
+2021_05_09 09:20:34:434883     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 287 ms (0.287) sec
+2021_05_09 09:20:34:792163     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image repair_all.png on screen
+2021_05_09 09:20:34:793303     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the repair_all button
+2021_05_09 09:20:34:793303     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1044, 462)
+2021_05_09 09:20:34:793303     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.889 seconds
+2021_05_09 09:20:36:183063     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1044, 462) over a duration of 0.889 seconds
+2021_05_09 09:20:36:295161     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 09:20:36:552738     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 214 ms (0.214) sec
+2021_05_09 09:20:36:552738     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 11 time(s)
+2021_05_09 09:20:36:837296     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 09:20:36:838726     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 09:20:36:838726     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (745, 679)
+2021_05_09 09:20:36:839722     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.731 seconds
+2021_05_09 09:20:38:072851     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (745, 679) over a duration of 0.731 seconds
+2021_05_09 09:20:38:208255     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 09:28:58:663208     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 500430 ms (500.43) sec
+2021_05_09 09:28:59:078186     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
+2021_05_09 09:28:59:292111     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 189 ms (0.189) sec
+2021_05_09 09:28:59:628043     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image repair_all.png on screen
+2021_05_09 09:28:59:628043     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the repair_all button
+2021_05_09 09:28:59:629618     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1024, 461)
+2021_05_09 09:28:59:629618     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.564 seconds
+2021_05_09 09:29:00:615369     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1024, 461) over a duration of 0.564 seconds
+2021_05_09 09:29:00:721081     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 09:29:00:985926     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 258 ms (0.258) sec
+2021_05_09 09:29:01:013222     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 12 time(s)
+2021_05_09 09:29:01:316373     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 09:29:01:316373     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 09:29:01:342026     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (777, 667)
+2021_05_09 09:29:01:342735     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.693 seconds
+2021_05_09 09:29:02:554978     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (777, 667) over a duration of 0.693 seconds
+2021_05_09 09:29:02:687469     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 09:37:23:608274     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 500900 ms (500.9) sec
+2021_05_09 09:37:23:949907     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
+2021_05_09 09:37:24:221371     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 254 ms (0.254) sec
+2021_05_09 09:37:24:523414     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image repair_all.png on screen
+2021_05_09 09:37:24:524606     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the repair_all button
+2021_05_09 09:37:24:525265     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (998, 463)
+2021_05_09 09:37:24:525265     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.6 seconds
+2021_05_09 09:37:25:572979     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (998, 463) over a duration of 0.6 seconds
+2021_05_09 09:37:25:680297     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 09:37:25:878049     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 156 ms (0.156) sec
+2021_05_09 09:37:25:878049     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 13 time(s)
+2021_05_09 09:37:26:117561     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 09:37:26:129283     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 09:37:26:130235     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (763, 668)
+2021_05_09 09:37:26:130235     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.932 seconds
+2021_05_09 09:37:27:607392     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (763, 668) over a duration of 0.932 seconds
+2021_05_09 09:37:27:737460     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 09:45:48:287984     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 500544 ms (500.544) sec
+2021_05_09 09:45:48:634262     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
+2021_05_09 09:45:48:809322     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 162 ms (0.162) sec
+2021_05_09 09:45:49:167970     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image repair_all.png on screen
+2021_05_09 09:45:49:169151     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the repair_all button
+2021_05_09 09:45:49:170121     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (991, 458)
+2021_05_09 09:45:49:170489     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.933 seconds
+2021_05_09 09:45:50:585369     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (991, 458) over a duration of 0.933 seconds
+2021_05_09 09:45:50:728852     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 09:45:51:011450     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 268 ms (0.268) sec
+2021_05_09 09:45:51:011450     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 14 time(s)
+2021_05_09 09:45:51:237635     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 09:45:51:237635     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 09:45:51:239947     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (778, 671)
+2021_05_09 09:45:51:240731     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.836 seconds
+2021_05_09 09:45:52:523214     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (778, 671) over a duration of 0.836 seconds
+2021_05_09 09:45:52:654433     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 09:54:12:970667     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 500307 ms (500.307) sec
+2021_05_09 09:54:13:342813     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
+2021_05_09 09:54:13:632644     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 264 ms (0.264) sec
+2021_05_09 09:54:13:785011     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image repair_all.png on screen
+2021_05_09 09:54:13:785011     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the repair_all button
+2021_05_09 09:54:13:786985     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1043, 466)
+2021_05_09 09:54:13:786985     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.593 seconds
+2021_05_09 09:54:14:714738     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1043, 466) over a duration of 0.593 seconds
+2021_05_09 09:54:14:851136     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 09:54:15:022540     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 163 ms (0.163) sec
+2021_05_09 09:54:15:023280     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 15 time(s)
+2021_05_09 09:54:15:244538     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 09:54:15:274819     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 09:54:15:274819     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (742, 679)
+2021_05_09 09:54:15:275893     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.911 seconds
+2021_05_09 09:54:16:820248     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (742, 679) over a duration of 0.911 seconds
+2021_05_09 09:54:16:951272     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 10:02:37:328340     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 500349 ms (500.349) sec
+2021_05_09 10:02:37:709019     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
+2021_05_09 10:02:38:014153     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 257 ms (0.257) sec
+2021_05_09 10:02:38:200656     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image repair_all.png on screen
+2021_05_09 10:02:38:219200     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the repair_all button
+2021_05_09 10:02:38:219870     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (999, 457)
+2021_05_09 10:02:38:220464     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.881 seconds
+2021_05_09 10:02:39:604887     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (999, 457) over a duration of 0.881 seconds
+2021_05_09 10:02:39:724534     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 10:02:39:945722     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 210 ms (0.21) sec
+2021_05_09 10:02:39:945722     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 16 time(s)
+2021_05_09 10:02:40:097821     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 10:02:40:120383     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 10:02:40:121296     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (772, 667)
+2021_05_09 10:02:40:121296     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.972 seconds
+2021_05_09 10:02:41:716057     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (772, 667) over a duration of 0.972 seconds
+2021_05_09 10:02:41:831029     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 10:11:02:924638     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 501078 ms (501.078) sec
+2021_05_09 10:11:03:277699     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
+2021_05_09 10:11:03:602119     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 311 ms (0.311) sec
+2021_05_09 10:11:03:791308     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image repair_all.png on screen
+2021_05_09 10:11:03:814405     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the repair_all button
+2021_05_09 10:11:03:814883     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (989, 454)
+2021_05_09 10:11:03:815768     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.618 seconds
+2021_05_09 10:11:04:953310     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (989, 454) over a duration of 0.618 seconds
+2021_05_09 10:11:05:086228     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 10:11:05:367281     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 278 ms (0.278) sec
+2021_05_09 10:11:05:367281     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 17 time(s)
+2021_05_09 10:11:05:720119     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 10:11:05:730853     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 10:11:05:730853     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (759, 678)
+2021_05_09 10:11:05:730853     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.806 seconds
+2021_05_09 10:11:07:130332     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (759, 678) over a duration of 0.806 seconds
+2021_05_09 10:11:07:244391     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 10:19:27:785803     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 500512 ms (500.512) sec
+2021_05_09 10:19:28:129178     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
+2021_05_09 10:19:28:422541     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 281 ms (0.281) sec
+2021_05_09 10:19:28:756006     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image repair_all.png on screen
+2021_05_09 10:19:28:756981     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the repair_all button
+2021_05_09 10:19:28:756981     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1023, 466)
+2021_05_09 10:19:28:756981     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.642 seconds
+2021_05_09 10:19:29:862064     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1023, 466) over a duration of 0.642 seconds
+2021_05_09 10:19:29:988796     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 10:19:30:208549     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 208 ms (0.208) sec
+2021_05_09 10:19:30:209405     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 18 time(s)
+2021_05_09 10:33:38:115797     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 10:33:38:116888     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 10:33:39:131654     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 10:33:40:149875     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 10:33:41:175067     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 10:33:41:365525     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_09 10:33:41:366413     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Crafting panel already toggled
+2021_05_09 10:33:41:551229     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'farming_toggled.png' on screen
+2021_05_09 10:33:41:806724     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming.png on screen
+2021_05_09 10:33:41:809562     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully located farming trade
+2021_05_09 10:33:41:855674     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (102, 64)
+2021_05_09 10:33:41:864618     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.572 seconds
+2021_05_09 10:33:42:830604     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (102, 64) over a duration of 0.572 seconds
+2021_05_09 10:33:42:973963     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 10:33:43:201665     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice_toggled.png on screen
+2021_05_09 10:33:43:203644     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Apprentice tier already toggled
+2021_05_09 10:33:43:515561     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'ingredients_toggled.png' on screen
+2021_05_09 10:33:43:755588     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'ingredients.png' on screen
+2021_05_09 10:33:43:756369     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find ingredients tier
+2021_05_09 10:33:44:082198     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'cup_of_spring_barley_flour.png' on screen
+2021_05_09 10:33:44:083127     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the recipe, cup_of_spring_barley_flour
+2021_05_09 10:33:44:305333     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'make_all.png' on screen
+2021_05_09 10:33:44:305333     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the button, make_all
+2021_05_09 10:34:07:263559     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 10:34:07:263776     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 10:34:08:308303     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 10:34:09:315305     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 10:34:10:354662     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 10:34:10:641663     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_09 10:34:10:642323     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Crafting panel already toggled
+2021_05_09 10:34:10:933879     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'cooking_toggled.png' on screen
+2021_05_09 10:34:11:253128     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'cooking.png' on screen
+2021_05_09 10:34:11:254496     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find cooking trade
+2021_05_09 10:34:11:456765     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'apprentice_toggled.png' on screen
+2021_05_09 10:34:11:666055     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice.png on screen
+2021_05_09 10:34:11:668023     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully located apprentice tier
+2021_05_09 10:34:11:668023     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (26, 111)
+2021_05_09 10:34:11:668023     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.609 seconds
+2021_05_09 10:34:12:766867     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (26, 111) over a duration of 0.609 seconds
+2021_05_09 10:34:12:905353     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 10:34:13:379400     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'ingredients_toggled.png' on screen
+2021_05_09 10:34:13:774122     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'ingredients.png' on screen
+2021_05_09 10:34:13:782495     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find ingredients tier
+2021_05_09 10:34:14:142232     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'cup_of_spring_barley_flour.png' on screen
+2021_05_09 10:34:14:143671     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the recipe, cup_of_spring_barley_flour
+2021_05_09 10:34:14:425615     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'make_all.png' on screen
+2021_05_09 10:34:14:439400     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the button, make_all
+2021_05_09 10:34:20:576549     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 10:34:20:576549     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 10:34:21:577661     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 10:34:22:618263     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 10:34:23:646971     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 10:34:23:906141     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_09 10:34:23:908081     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Crafting panel already toggled
+2021_05_09 10:34:24:067437     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'cooking_toggled.png' on screen
+2021_05_09 10:34:24:259437     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'cooking.png' on screen
+2021_05_09 10:34:24:259437     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find cooking trade
+2021_05_09 10:34:24:478604     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice_toggled.png on screen
+2021_05_09 10:34:24:478604     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Apprentice tier already toggled
+2021_05_09 10:34:24:667529     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'ingredients_toggled.png' on screen
+2021_05_09 10:34:24:890022     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'ingredients.png' on screen
+2021_05_09 10:34:24:894927     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find ingredients tier
+2021_05_09 10:34:25:116849     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'cup_of_spring_barley_flour.png' on screen
+2021_05_09 10:34:25:117816     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the recipe, cup_of_spring_barley_flour
+2021_05_09 10:34:25:413416     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'make_all.png' on screen
+2021_05_09 10:34:25:413416     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the button, make_all
+2021_05_09 10:36:30:777418     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 10:36:30:777968     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 10:36:31:807499     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 10:36:32:823561     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 10:36:33:827712     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 10:36:34:161290     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_09 10:36:34:161290     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Crafting panel already toggled
+2021_05_09 10:36:34:521156     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'cooking_toggled.png' on screen
+2021_05_09 10:36:34:803300     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image cooking.png on screen
+2021_05_09 10:36:34:807826     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully located cooking trade
+2021_05_09 10:36:34:825058     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (259, 33)
+2021_05_09 10:36:34:826213     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.74 seconds
+2021_05_09 10:36:36:053702     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (259, 33) over a duration of 0.74 seconds
+2021_05_09 10:36:36:212094     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 10:36:36:540658     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice_toggled.png on screen
+2021_05_09 10:36:36:541630     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Apprentice tier already toggled
+2021_05_09 10:36:36:749799     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'ingredients_toggled.png' on screen
+2021_05_09 10:36:36:936921     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'ingredients.png' on screen
+2021_05_09 10:36:36:938886     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find ingredients tier
+2021_05_09 10:36:37:232239     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image cup_of_spring_barley_flour.png on screen
+2021_05_09 10:36:37:232963     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the cup_of_spring_barley_flour recipe
+2021_05_09 10:36:37:233976     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (69, 163)
+2021_05_09 10:36:37:233976     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.557 seconds
+2021_05_09 10:36:38:289139     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (69, 163) over a duration of 0.557 seconds
+2021_05_09 10:36:38:399172     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 10:36:38:665215     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'make_all.png' on screen
+2021_05_09 10:36:38:665215     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the button, make_all
+2021_05_09 10:36:56:222434     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 10:36:56:224079     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 10:36:57:238341     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 10:36:58:260823     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 10:36:59:287384     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 10:36:59:483940     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_09 10:36:59:485563     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Crafting panel already toggled
+2021_05_09 10:36:59:703956     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'cooking_toggled.png' on screen
+2021_05_09 10:36:59:847379     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image cooking.png on screen
+2021_05_09 10:36:59:856151     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully located cooking trade
+2021_05_09 10:36:59:857774     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (187, 37)
+2021_05_09 10:36:59:858077     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.685 seconds
+2021_05_09 10:37:01:010893     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (187, 37) over a duration of 0.685 seconds
+2021_05_09 10:37:01:167024     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 10:37:01:354395     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice_toggled.png on screen
+2021_05_09 10:37:01:356909     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Apprentice tier already toggled
+2021_05_09 10:37:01:603126     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'ingredients_toggled.png' on screen
+2021_05_09 10:37:01:802459     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'ingredients.png' on screen
+2021_05_09 10:37:01:803419     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find ingredients tier
+2021_05_09 10:37:02:089471     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'cup_of_spring_barley_flour.png' on screen
+2021_05_09 10:37:02:090658     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the recipe, cup_of_spring_barley_flour
+2021_05_09 10:37:02:390606     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 10:37:02:390606     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 10:37:02:392266     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (760, 529)
+2021_05_09 10:37:02:392266     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.584 seconds
+2021_05_09 10:37:03:412461     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (760, 529) over a duration of 0.584 seconds
+2021_05_09 10:37:03:557671     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 10:42:04:152193     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 300565 ms (300.565) sec
+2021_05_09 10:42:04:479204     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
+2021_05_09 10:42:04:676985     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 173 ms (0.173) sec
+2021_05_09 10:42:04:921696     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image repair_all.png on screen
+2021_05_09 10:42:04:921696     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the repair_all button
+2021_05_09 10:42:04:922817     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (1018, 463)
+2021_05_09 10:42:04:922817     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.571 seconds
+2021_05_09 10:42:06:005981     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (1018, 463) over a duration of 0.571 seconds
+2021_05_09 10:42:06:155452     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 10:42:06:500193     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 341 ms (0.341) sec
+2021_05_09 10:42:06:500193     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 1 time(s)
+2021_05_09 10:42:06:851689     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make_all.png on screen
+2021_05_09 10:42:06:851689     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make_all button
+2021_05_09 10:42:06:852521     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (757, 536)
+2021_05_09 10:42:06:853098     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.612 seconds
+2021_05_09 10:42:07:900869     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (757, 536) over a duration of 0.612 seconds
+2021_05_09 10:42:08:013410     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
