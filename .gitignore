@@ -1,5 +1,5 @@
 # Machine learning things. Too heavy to push to git
-.ml_data/screenshots
+.ml_data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -138,3 +138,4 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+/ml_data/screenshots/
