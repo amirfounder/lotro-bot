@@ -17,9 +17,9 @@ gen_bot = GeneratorBot()
 config_bot.generate_config_py()
 
 reset_bot.count_down(3)
-# reset_bot.reset_camera_position()
-# reset_bot.reset_camera_scroll()
-# crafter_bot.plant_and_harvest_field('apprentice', 'grains', 'spring_barley_field', 50)
+reset_bot.reset_camera_position()
+reset_bot.reset_camera_scroll()
+crafter_bot.plant_and_harvest_fields('expert', 'vegetables', 'green_onion_field', 1)
 # crafter_bot.process_crops('apprentice', 'grains', 'bundle_of_spring_barley', 1792, 100)
 
 config_bot.destroy_config_py()
