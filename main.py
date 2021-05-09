@@ -20,6 +20,6 @@ reset_bot.count_down(3)
 # reset_bot.reset_camera_position()
 # reset_bot.reset_camera_scroll()
 # crafter_bot.plant_and_harvest_field('apprentice', 'grains', 'spring_barley_field', 50)
-crafter_bot.cook_food('apprentice', 'ingredients', 'cup_of_spring_barley_flour', 3782, 100)
+# crafter_bot.cook_food('apprentice', 'ingredients', 'cup_of_spring_barley_flour', 3782, 100)
 
 config_bot.destroy_config_py()
