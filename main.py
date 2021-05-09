@@ -11,7 +11,6 @@ crafter_bot = CrafterBot()
 
 reset_bot.count_down(5)
 
-# BOT RESET. Remove this comment and happy scripting...
+# Write your code here!
 
 config_bot.destroy_config_py()
-config_bot.regenerate_main_py()
