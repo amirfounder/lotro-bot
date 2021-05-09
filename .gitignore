@@ -1,3 +1,6 @@
+# Machine learning things. Too heavy to push to git
+.ml_data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
