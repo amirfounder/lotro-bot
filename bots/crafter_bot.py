@@ -125,9 +125,10 @@ class CrafterBot:
         for i in range(count):
             self.click_button('make')
             self.gen_bot.generate_delay()
+            self.int_bot.press('t')
+            self.gen_bot.generate_delay()
             self.int_bot.screenshot(
                 f'{config.ML_DATA_DIRECTORY_PATH}\\screenshots\\{self.gen_bot.generate_date_time("", "", "_", ms=False)}.png')
-            self.int_bot.press('t')
             self.gen_bot.generate_delay(3000, 500)
             self.harvest_field('spring_barley_field')
             self.int_bot.screenshot(

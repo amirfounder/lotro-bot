@@ -61,8 +61,8 @@ class GeneratorBot:
         return
 
     def generate_coords(self, left, top, width, height, x_padding, y_padding):
-        ran_x = random.randint(left + x_padding, (left + width) - x_padding)
-        ran_y = random.randint(top + y_padding, (top + height) - y_padding)
+        ran_x = random.randint(int(left + x_padding), int((left + width) - x_padding))
+        ran_y = random.randint(int(top + y_padding), int((top + height) - y_padding))
         xy = (ran_x, ran_y)
         self.generated_coords.append(xy)
         self.log_bot.log_generator('success', f'successfully generated coords ({ran_x}, {ran_y})')

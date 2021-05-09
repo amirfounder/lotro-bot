@@ -2551,3 +2551,729 @@
 2021_05_09 02:09:19:446066     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amir sharapov\code\bots\lotro-bot\ml_data\screenshots\20210509_020918.png
 2021_05_09 02:09:19:711441     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 264 ms (0.264) sec
 2021_05_09 02:09:20:013946     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 03:54:00:800681     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Successfully reset project directory to 'C:\Users\Amirf\code\lotro-bot'
+2021_05_09 03:54:00:832045     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 03:54:00:848594     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 03:54:01:951176     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 03:54:02:964119     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 03:54:04:004739     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 03:54:04:015968     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1152, 864)
+2021_05_09 03:55:11:424274     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Successfully reset project directory to 'C:\Users\Amirf\code\lotro-bot'
+2021_05_09 03:55:11:441546     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 03:55:11:459570     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 03:55:12:509501     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 03:55:13:545874     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 03:55:14:581147     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 03:55:14:650215     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1152, 864)
+2021_05_09 03:56:06:944338     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Successfully reset project directory to 'C:\Users\Amirf\code\lotro-bot'
+2021_05_09 03:56:07:017780     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 03:56:07:042208     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 03:56:08:122143     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 03:56:09:161860     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 03:56:10:180954     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 03:56:10:204559     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1152, 864)
+2021_05_09 03:57:09:096739     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Successfully reset project directory to 'C:\Users\Amirf\code\lotro-bot'
+2021_05_09 03:57:09:127251     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 03:57:09:136041     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 03:57:10:182824     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 03:57:11:209444     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 03:57:12:234950     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 03:57:12:249894     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1152, 864)
+2021_05_09 03:59:54:164597     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Successfully reset project directory to 'C:\Users\Amirf\code\lotro-bot'
+2021_05_09 03:59:54:177172     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 03:59:54:225785     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 03:59:55:286346     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 03:59:56:366881     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 03:59:57:453810     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 03:59:57:491567     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1152, 864)
+2021_05_09 04:01:05:321754     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 04:01:05:358629     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 04:01:06:383320     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 04:01:07:426137     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 04:01:08:500542     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 04:01:10:982016     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_09 04:01:11:661062     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 5 scroll-clicks
+2021_05_09 04:01:11:950168     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'crafting_panel_header.png' on screen
+2021_05_09 04:01:12:359949     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:01:12:614662     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'crafting_panel_header.png' on screen
+2021_05_09 04:01:12:643956     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:There was a problem opening the crafting panel
+2021_05_09 04:01:12:709035     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled the crafting panel
+2021_05_09 04:01:12:956744     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'farming_toggled.png' on screen
+2021_05_09 04:01:13:208720     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'farming.png' on screen
+2021_05_09 04:01:13:217462     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find farming trade
+2021_05_09 04:01:13:424335     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'apprentice_toggled.png' on screen
+2021_05_09 04:01:13:734182     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'apprentice.png' on screen
+2021_05_09 04:01:13:780051     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find apprentice tier
+2021_05_09 04:01:14:059686     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'grains_toggled.png' on screen
+2021_05_09 04:01:14:323436     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'grains.png' on screen
+2021_05_09 04:01:14:395823     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find grains tier
+2021_05_09 04:01:14:719907     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'spring_barley_field.png' on screen
+2021_05_09 04:01:14:767276     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the recipe, spring_barley_field
+2021_05_09 04:01:14:985878     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'make.png' on screen
+2021_05_09 04:01:15:015263     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the button, make
+2021_05_09 04:01:15:323706     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 272 ms (0.272) sec
+2021_05_09 04:01:15:347738     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:01:15:399205     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:01:15:412016     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:01:15:487673     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:01:48:759828     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 04:01:48:768237     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 04:01:49:806869     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 04:01:50:831487     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 04:01:51:858004     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 04:01:54:388083     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_09 04:01:55:015370     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 5 scroll-clicks
+2021_05_09 04:01:55:332828     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'crafting_panel_header.png' on screen
+2021_05_09 04:01:55:741173     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:01:55:962148     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_09 04:01:55:979992     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled the crafting panel
+2021_05_09 04:01:56:322171     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'farming_toggled.png' on screen
+2021_05_09 04:01:56:627753     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming.png on screen
+2021_05_09 04:01:56:635559     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully located farming trade
+2021_05_09 04:01:56:646463     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (166, 206)
+2021_05_09 04:01:56:657040     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.601 seconds
+2021_05_09 04:01:57:734955     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (166, 206) over a duration of 0.601 seconds
+2021_05_09 04:01:57:895173     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:01:58:127444     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'apprentice_toggled.png' on screen
+2021_05_09 04:01:58:352486     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice.png on screen
+2021_05_09 04:01:58:364437     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully located apprentice tier
+2021_05_09 04:01:58:375153     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (61, 254)
+2021_05_09 04:01:58:385992     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.572 seconds
+2021_05_09 04:01:59:330362     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (61, 254) over a duration of 0.572 seconds
+2021_05_09 04:01:59:549341     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:01:59:840000     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'grains_toggled.png' on screen
+2021_05_09 04:02:00:058982     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image grains.png on screen
+2021_05_09 04:02:00:072945     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully located grains tier
+2021_05_09 04:02:00:084840     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (31, 266)
+2021_05_09 04:02:00:146998     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.826 seconds
+2021_05_09 04:02:01:417198     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (31, 266) over a duration of 0.826 seconds
+2021_05_09 04:02:01:570179     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:02:01:992307     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'spring_barley_field.png' on screen
+2021_05_09 04:02:02:008887     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the recipe, spring_barley_field
+2021_05_09 04:02:02:440401     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'make.png' on screen
+2021_05_09 04:02:02:457096     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the button, make
+2021_05_09 04:02:02:749825     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 249 ms (0.249) sec
+2021_05_09 04:02:02:763102     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:02:02:832747     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:02:02:846797     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:02:02:923361     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:02:03:568137     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_040202.png
+2021_05_09 04:02:03:957665     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:02:07:216341     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3240 ms (3.24) sec
+2021_05_09 04:02:07:616414     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 04:02:07:941514     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 04:02:08:360474     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 04:02:08:743107     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 04:02:31:423245     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 04:02:31:434013     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 04:02:32:462341     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 04:02:33:503994     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 04:02:34:528020     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 04:02:34:539881     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1152, 864)
+2021_05_09 04:12:07:406824     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 04:12:07:435317     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 04:12:08:478543     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 04:12:09:527321     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 04:12:10:556969     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 04:12:10:619399     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1152, 864)
+2021_05_09 04:12:54:942205     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 04:12:55:037984     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 04:12:56:066401     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 04:12:57:094360     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 04:12:58:113962     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 04:12:58:128234     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1152, 864)
+2021_05_09 04:12:58:142355     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (648, 404)
+2021_05_09 04:12:58:151084     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.751 seconds
+2021_05_09 04:12:59:301229     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (648, 404) over a duration of 0.751 seconds
+2021_05_09 04:12:59:470820     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 04:13:00:595380     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 1086 ms (1.086) sec
+2021_05_09 04:13:00:751907     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_09 04:13:06:063522     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 04:13:06:125075     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 04:13:07:148734     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 04:13:08:269669     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 04:13:09:287122     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 04:13:09:296918     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1152, 864)
+2021_05_09 04:13:09:306559     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (687, 511)
+2021_05_09 04:13:09:315123     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.701 seconds
+2021_05_09 04:13:10:427926     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (687, 511) over a duration of 0.701 seconds
+2021_05_09 04:13:10:610018     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 04:13:11:603103     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 965 ms (0.965) sec
+2021_05_09 04:13:11:724811     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_09 04:13:11:867653     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (687, 1199) over a duration of 0 seconds
+2021_05_09 04:13:11:998899     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_09 04:13:12:008383     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.622 seconds
+2021_05_09 04:13:13:031743     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (725, 13) over a duration of 0.622 seconds
+2021_05_09 04:13:13:154538     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_09 04:13:13:278973     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (725, 813) over a duration of 0 seconds
+2021_05_09 04:13:13:390391     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_09 04:13:15:932507     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_09 04:13:16:576795     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 5 scroll-clicks
+2021_05_09 04:13:16:829695     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'crafting_panel_header.png' on screen
+2021_05_09 04:13:17:199046     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:13:17:649860     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_09 04:13:17:661144     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled the crafting panel
+2021_05_09 04:13:18:119361     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_09 04:13:18:154415     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_09 04:13:18:496570     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice_toggled.png on screen
+2021_05_09 04:13:18:534584     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Apprentice tier already toggled
+2021_05_09 04:13:18:835580     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image grains_toggled.png on screen
+2021_05_09 04:13:18:910697     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Grains tier already toggled
+2021_05_09 04:13:19:241320     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image spring_barley_field.png on screen
+2021_05_09 04:13:19:261936     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the spring_barley_field recipe
+2021_05_09 04:13:19:330416     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (69, 299)
+2021_05_09 04:13:19:367347     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.667 seconds
+2021_05_09 04:13:20:572621     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (69, 299) over a duration of 0.667 seconds
+2021_05_09 04:13:20:894274     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:13:21:269450     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 04:13:21:314397     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 04:13:21:349502     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (698, 669)
+2021_05_09 04:13:21:388666     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.53 seconds
+2021_05_09 04:13:22:336635     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (698, 669) over a duration of 0.53 seconds
+2021_05_09 04:13:22:491013     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:13:22:805862     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 247 ms (0.247) sec
+2021_05_09 04:13:22:845073     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:13:22:854097     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:13:22:860535     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:13:22:948982     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:13:23:771910     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_041322.png
+2021_05_09 04:13:24:137212     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:13:27:206947     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3044 ms (3.044) sec
+2021_05_09 04:13:27:662549     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 04:13:28:202175     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 04:13:28:589134     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 04:13:28:811851     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 04:15:41:896842     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 04:15:41:906127     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 04:15:42:936934     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 04:15:43:971895     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 04:15:45:008771     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 04:15:45:021480     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1152, 864)
+2021_05_09 04:15:45:035602     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (460, 418)
+2021_05_09 04:15:45:047390     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.86 seconds
+2021_05_09 04:15:46:380066     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (460, 418) over a duration of 0.86 seconds
+2021_05_09 04:15:46:513560     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 04:15:47:586716     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 1049 ms (1.049) sec
+2021_05_09 04:15:47:720588     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_09 04:15:47:853514     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (460, 1139) over a duration of 0 seconds
+2021_05_09 04:15:47:965899     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_09 04:15:47:976617     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.906 seconds
+2021_05_09 04:15:49:446729     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (493, -336) over a duration of 0.906 seconds
+2021_05_09 04:15:49:562983     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_09 04:15:49:725447     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (493, 342) over a duration of 0 seconds
+2021_05_09 04:15:49:854481     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_09 04:15:52:385128     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_09 04:15:53:035240     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 5 scroll-clicks
+2021_05_09 04:15:53:276566     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'crafting_panel_header.png' on screen
+2021_05_09 04:15:53:714018     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:15:54:096703     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_09 04:15:54:134833     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled the crafting panel
+2021_05_09 04:15:54:387487     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_09 04:15:54:402089     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_09 04:15:54:735839     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice_toggled.png on screen
+2021_05_09 04:15:54:744647     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Apprentice tier already toggled
+2021_05_09 04:15:55:112147     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image grains_toggled.png on screen
+2021_05_09 04:15:55:154646     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Grains tier already toggled
+2021_05_09 04:15:55:407092     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image spring_barley_field.png on screen
+2021_05_09 04:15:55:458002     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the spring_barley_field recipe
+2021_05_09 04:15:55:539460     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (123, 300)
+2021_05_09 04:15:55:585904     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.677 seconds
+2021_05_09 04:15:56:728767     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (123, 300) over a duration of 0.677 seconds
+2021_05_09 04:15:56:877354     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:15:57:098140     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 04:15:57:113919     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 04:15:57:160934     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (697, 676)
+2021_05_09 04:15:57:199270     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.729 seconds
+2021_05_09 04:15:58:397840     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (697, 676) over a duration of 0.729 seconds
+2021_05_09 04:15:58:554153     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:15:58:762295     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 171 ms (0.171) sec
+2021_05_09 04:15:58:770911     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:15:58:796455     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:15:58:804285     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:15:58:857055     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:15:59:559574     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_041558.png
+2021_05_09 04:15:59:897491     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:16:02:922414     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2994 ms (2.994) sec
+2021_05_09 04:16:03:367579     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 04:16:03:683214     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 04:16:03:867893     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 04:16:04:080062     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 04:16:27:241954     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 04:16:27:249596     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 04:16:28:272602     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 04:16:29:294887     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 04:16:30:335114     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 04:16:30:358448     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1152, 864)
+2021_05_09 04:16:30:372266     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (528, 448)
+2021_05_09 04:16:30:382021     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.762 seconds
+2021_05_09 04:16:31:639195     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (528, 448) over a duration of 0.762 seconds
+2021_05_09 04:16:31:827446     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 04:16:32:821350     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 978 ms (0.978) sec
+2021_05_09 04:16:32:963003     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_09 04:16:33:126155     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (528, 1217) over a duration of 0 seconds
+2021_05_09 04:16:33:245483     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_09 04:16:33:257411     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.995 seconds
+2021_05_09 04:16:34:790431     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (505, -79) over a duration of 0.995 seconds
+2021_05_09 04:16:34:921807     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_09 04:16:35:070314     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (505, 705) over a duration of 0 seconds
+2021_05_09 04:16:35:226626     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_09 04:16:37:775335     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_09 04:16:38:394790     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 5 scroll-clicks
+2021_05_09 04:16:38:692420     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'crafting_panel_header.png' on screen
+2021_05_09 04:16:39:057072     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:16:39:272550     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_09 04:16:39:306266     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled the crafting panel
+2021_05_09 04:16:39:621889     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_09 04:16:39:653196     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_09 04:16:39:906194     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice_toggled.png on screen
+2021_05_09 04:16:39:934582     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Apprentice tier already toggled
+2021_05_09 04:16:40:243833     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image grains_toggled.png on screen
+2021_05_09 04:16:40:280543     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Grains tier already toggled
+2021_05_09 04:16:40:502372     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image spring_barley_field.png on screen
+2021_05_09 04:16:40:544332     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the spring_barley_field recipe
+2021_05_09 04:16:40:589279     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (44, 306)
+2021_05_09 04:16:40:632396     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.984 seconds
+2021_05_09 04:16:42:267306     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (44, 306) over a duration of 0.984 seconds
+2021_05_09 04:16:42:439319     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:16:42:796058     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 04:16:42:830876     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 04:16:42:955297     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (661, 670)
+2021_05_09 04:16:42:988139     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.636 seconds
+2021_05_09 04:16:44:115998     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (661, 670) over a duration of 0.636 seconds
+2021_05_09 04:16:44:283136     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:16:44:638846     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 332 ms (0.332) sec
+2021_05_09 04:16:44:675248     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:16:44:682753     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:16:44:725305     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:16:44:857520     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:16:45:757788     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_041644.png
+2021_05_09 04:16:46:137117     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:16:49:381176     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3214 ms (3.214) sec
+2021_05_09 04:16:49:618073     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 04:16:49:881552     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 04:16:50:275738     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 04:16:50:552044     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 04:17:49:425489     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 04:17:49:433313     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 04:17:50:484986     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 04:17:51:495521     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 04:17:52:506464     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 04:17:52:514885     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1152, 864)
+2021_05_09 04:17:52:520750     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (564, 478)
+2021_05_09 04:17:52:583319     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.71 seconds
+2021_05_09 04:17:53:805951     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (564, 478) over a duration of 0.71 seconds
+2021_05_09 04:17:53:953499     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 04:17:55:009299     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 1023 ms (1.023) sec
+2021_05_09 04:17:55:159722     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_09 04:17:55:300145     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (564, 1254) over a duration of 0 seconds
+2021_05_09 04:17:55:451481     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_09 04:17:55:482648     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.995 seconds
+2021_05_09 04:17:57:060508     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (598, -229) over a duration of 0.995 seconds
+2021_05_09 04:17:57:173240     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_09 04:17:57:336436     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (598, 527) over a duration of 0 seconds
+2021_05_09 04:17:57:453014     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_09 04:17:59:976917     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_09 04:18:00:595469     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 5 scroll-clicks
+2021_05_09 04:18:00:822727     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'crafting_panel_header.png' on screen
+2021_05_09 04:18:01:227006     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:18:01:689489     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_09 04:18:01:749102     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled the crafting panel
+2021_05_09 04:18:02:039108     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_09 04:18:02:068458     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_09 04:18:02:297099     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice_toggled.png on screen
+2021_05_09 04:18:02:343999     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Apprentice tier already toggled
+2021_05_09 04:18:02:810132     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image grains_toggled.png on screen
+2021_05_09 04:18:02:845067     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Grains tier already toggled
+2021_05_09 04:18:03:152825     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image spring_barley_field.png on screen
+2021_05_09 04:18:03:224175     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the spring_barley_field recipe
+2021_05_09 04:18:03:262578     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (88, 304)
+2021_05_09 04:18:03:273437     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.552 seconds
+2021_05_09 04:18:04:308431     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (88, 304) over a duration of 0.552 seconds
+2021_05_09 04:18:04:498516     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:18:04:909424     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 04:18:05:016323     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 04:18:05:082803     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (691, 673)
+2021_05_09 04:18:05:121465     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.875 seconds
+2021_05_09 04:18:06:613704     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (691, 673) over a duration of 0.875 seconds
+2021_05_09 04:18:06:818856     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:18:07:131099     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 268 ms (0.268) sec
+2021_05_09 04:18:07:506392     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:18:07:771617     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 200 ms (0.2) sec
+2021_05_09 04:18:07:815949     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:18:07:823035     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:18:07:900357     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:18:08:029183     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:18:09:023062     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_041807.png
+2021_05_09 04:18:11:892327     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2827 ms (2.827) sec
+2021_05_09 04:18:12:268141     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 04:18:12:542711     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 04:18:13:041096     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 04:18:13:277446     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 04:18:52:786214     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 04:18:52:796974     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 04:18:53:808045     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 04:18:54:828618     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 04:18:55:901876     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 04:18:55:912359     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully returned the size of the current screen (1152, 864)
+2021_05_09 04:18:55:938171     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (656, 359)
+2021_05_09 04:18:55:949133     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.771 seconds
+2021_05_09 04:18:57:366967     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (656, 359) over a duration of 0.771 seconds
+2021_05_09 04:18:57:560645     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 04:18:58:690416     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 1095 ms (1.095) sec
+2021_05_09 04:18:58:882552     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_09 04:18:59:018783     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (656, 969) over a duration of 0 seconds
+2021_05_09 04:18:59:163464     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_09 04:18:59:174291     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.577 seconds
+2021_05_09 04:19:00:145516     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (676, -83) over a duration of 0.577 seconds
+2021_05_09 04:19:00:295896     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse down operation
+2021_05_09 04:19:00:451801     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (676, 581) over a duration of 0 seconds
+2021_05_09 04:19:00:611318     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully performed the mouse up operation
+2021_05_09 04:19:03:009156     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled out 21 scroll-clicks
+2021_05_09 04:19:03:626897     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully scrolled in 5 scroll-clicks
+2021_05_09 04:19:04:041085     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'crafting_panel_header.png' on screen
+2021_05_09 04:19:04:436415     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:19:04:620235     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image crafting_panel_header.png on screen
+2021_05_09 04:19:04:631839     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled the crafting panel
+2021_05_09 04:19:04:966131     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_09 04:19:04:997358     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_09 04:19:05:260653     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image apprentice_toggled.png on screen
+2021_05_09 04:19:05:267494     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Apprentice tier already toggled
+2021_05_09 04:19:05:561024     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image grains_toggled.png on screen
+2021_05_09 04:19:05:569390     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Grains tier already toggled
+2021_05_09 04:19:06:010111     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image spring_barley_field.png on screen
+2021_05_09 04:19:06:034680     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the spring_barley_field recipe
+2021_05_09 04:19:06:043306     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (85, 302)
+2021_05_09 04:19:06:085307     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.967 seconds
+2021_05_09 04:19:07:697797     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (85, 302) over a duration of 0.967 seconds
+2021_05_09 04:19:07:853730     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:19:08:230994     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 04:19:08:238432     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 04:19:08:269222     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (673, 672)
+2021_05_09 04:19:08:306234     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.694 seconds
+2021_05_09 04:19:09:526203     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (673, 672) over a duration of 0.694 seconds
+2021_05_09 04:19:09:725522     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:19:09:995371     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 244 ms (0.244) sec
+2021_05_09 04:19:10:407786     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:19:10:704934     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 271 ms (0.271) sec
+2021_05_09 04:19:10:735919     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:19:10:773930     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:19:10:781117     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:19:10:863212     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:19:11:894634     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_041910.png
+2021_05_09 04:19:15:151375     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3201 ms (3.201) sec
+2021_05_09 04:19:15:659759     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 04:19:16:269475     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 04:19:16:553815     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 04:19:16:787394     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 04:19:17:156718     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 04:19:17:164568     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (560, 325)
+2021_05_09 04:19:17:172373     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.821 seconds
+2021_05_09 04:19:18:531115     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (560, 325) over a duration of 0.821 seconds
+2021_05_09 04:19:18:716896     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 04:19:18:723777     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:19:18:758281     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:19:18:798892     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:19:18:937127     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:19:19:618731     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_041918.png
+2021_05_09 04:19:19:859068     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 184 ms (0.184) sec
+2021_05_09 04:19:20:243071     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:19:27:711197     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7417 ms (7.417) sec
+2021_05_09 04:19:28:024529     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 04:19:28:063824     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 04:19:28:070575     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (659, 677)
+2021_05_09 04:19:28:105887     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.523 seconds
+2021_05_09 04:19:29:021176     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (659, 677) over a duration of 0.523 seconds
+2021_05_09 04:19:29:243216     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:19:29:651694     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 347 ms (0.347) sec
+2021_05_09 04:19:30:067050     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:19:30:404873     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 320 ms (0.32) sec
+2021_05_09 04:19:30:411700     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:19:30:428996     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:19:30:448824     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:19:30:516145     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:19:31:354775     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_041930.png
+2021_05_09 04:19:34:503909     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3122 ms (3.122) sec
+2021_05_09 04:19:34:720657     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 04:19:35:026517     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 04:19:35:403659     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 04:19:35:608615     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 04:19:36:012373     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 04:19:36:027004     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (651, 318)
+2021_05_09 04:19:36:070514     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.537 seconds
+2021_05_09 04:19:36:932038     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (651, 318) over a duration of 0.537 seconds
+2021_05_09 04:19:37:057934     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 04:19:37:065818     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:19:37:073574     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:19:37:087273     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:19:37:133348     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:19:37:820171     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_041937.png
+2021_05_09 04:19:38:205745     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 347 ms (0.347) sec
+2021_05_09 04:19:38:625612     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:19:45:570825     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6923 ms (6.923) sec
+2021_05_09 04:19:46:034259     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 04:19:46:068187     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 04:19:46:112436     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (703, 672)
+2021_05_09 04:19:46:124538     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.771 seconds
+2021_05_09 04:19:47:490824     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (703, 672) over a duration of 0.771 seconds
+2021_05_09 04:19:47:647138     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:19:47:886502     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 171 ms (0.171) sec
+2021_05_09 04:19:48:262319     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:19:48:525415     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 225 ms (0.225) sec
+2021_05_09 04:19:48:555679     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:19:48:594006     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:19:48:643061     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:19:48:743772     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:19:49:434930     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_041948.png
+2021_05_09 04:19:52:690968     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3199 ms (3.199) sec
+2021_05_09 04:19:53:185059     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 04:19:53:665877     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 04:19:54:058329     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 04:19:54:371587     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 04:19:54:909514     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 04:19:54:921363     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (643, 318)
+2021_05_09 04:19:54:948093     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.514 seconds
+2021_05_09 04:19:55:896805     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (643, 318) over a duration of 0.514 seconds
+2021_05_09 04:19:56:022780     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 04:19:56:034631     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:19:56:041845     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:19:56:053140     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:19:56:172612     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:19:56:997139     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_041956.png
+2021_05_09 04:19:57:191624     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 167 ms (0.167) sec
+2021_05_09 04:19:57:532199     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:20:04:190615     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6603 ms (6.603) sec
+2021_05_09 04:20:04:661334     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 04:20:04:819614     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 04:20:04:855792     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (697, 674)
+2021_05_09 04:20:04:890982     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.981 seconds
+2021_05_09 04:20:06:520521     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (697, 674) over a duration of 0.981 seconds
+2021_05_09 04:20:06:677308     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:20:06:999694     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 271 ms (0.271) sec
+2021_05_09 04:20:07:424865     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:20:07:813580     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 295 ms (0.295) sec
+2021_05_09 04:20:07:824294     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:20:07:842904     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:20:07:849730     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:20:07:925946     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:20:09:057562     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_042007.png
+2021_05_09 04:20:12:317113     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3218 ms (3.218) sec
+2021_05_09 04:20:12:597436     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 04:20:13:109661     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 04:20:13:522901     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 04:20:13:939330     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 04:20:14:545563     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 04:20:14:656822     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (612, 316)
+2021_05_09 04:20:14:668082     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.771 seconds
+2021_05_09 04:20:16:065766     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (612, 316) over a duration of 0.771 seconds
+2021_05_09 04:20:16:208551     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 04:20:16:218127     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:20:16:225013     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:20:16:233107     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:20:16:329113     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:20:17:162197     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_042016.png
+2021_05_09 04:20:17:358494     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 162 ms (0.162) sec
+2021_05_09 04:20:17:741633     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:20:24:702560     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6912 ms (6.912) sec
+2021_05_09 04:20:24:938804     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 04:20:24:960505     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 04:20:24:972124     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (699, 669)
+2021_05_09 04:20:24:981843     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.71 seconds
+2021_05_09 04:20:26:184104     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (699, 669) over a duration of 0.71 seconds
+2021_05_09 04:20:26:315313     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:20:26:596628     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 237 ms (0.237) sec
+2021_05_09 04:20:26:954906     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:20:27:309309     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 316 ms (0.316) sec
+2021_05_09 04:20:27:326036     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:20:27:333840     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:20:27:343479     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:20:27:413705     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:20:28:078929     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_042027.png
+2021_05_09 04:20:31:009015     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2905 ms (2.905) sec
+2021_05_09 04:20:31:323316     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 04:20:31:585416     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 04:20:31:819293     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 04:20:32:187781     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 04:20:32:505359     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 04:20:32:553227     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (586, 318)
+2021_05_09 04:20:32:560519     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.828 seconds
+2021_05_09 04:20:33:870192     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (586, 318) over a duration of 0.828 seconds
+2021_05_09 04:20:33:997409     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 04:20:34:010425     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (584, 334)
+2021_05_09 04:20:34:051056     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.516 seconds
+2021_05_09 04:20:34:967505     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (584, 334) over a duration of 0.516 seconds
+2021_05_09 04:20:35:108375     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 04:20:35:189879     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:20:35:224205     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:20:35:262898     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:20:35:449921     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:20:36:258354     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_042035.png
+2021_05_09 04:20:36:605210     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 321 ms (0.321) sec
+2021_05_09 04:20:36:985458     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:20:43:977094     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6950 ms (6.95) sec
+2021_05_09 04:20:44:378765     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 04:20:44:415864     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 04:20:44:422710     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (691, 672)
+2021_05_09 04:20:44:466658     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.868 seconds
+2021_05_09 04:20:45:938650     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (691, 672) over a duration of 0.868 seconds
+2021_05_09 04:20:46:123918     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:20:46:379852     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 241 ms (0.241) sec
+2021_05_09 04:20:46:756839     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:20:47:038257     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 231 ms (0.231) sec
+2021_05_09 04:20:47:090065     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:20:47:129049     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:20:47:176943     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:20:47:333912     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:20:48:259965     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_042047.png
+2021_05_09 04:20:51:041268     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2753 ms (2.753) sec
+2021_05_09 04:20:51:600968     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 04:20:52:162321     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 04:20:52:623851     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 04:20:53:090466     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 04:20:53:480318     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 04:20:53:526252     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (559, 320)
+2021_05_09 04:20:53:571219     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.762 seconds
+2021_05_09 04:20:54:914252     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (559, 320) over a duration of 0.762 seconds
+2021_05_09 04:20:55:064425     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 04:20:55:073073     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (579, 327)
+2021_05_09 04:20:55:085833     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.907 seconds
+2021_05_09 04:20:56:533934     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (579, 327) over a duration of 0.907 seconds
+2021_05_09 04:20:56:686070     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 04:20:56:709006     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:20:56:747546     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:20:56:757463     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:20:56:841523     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:20:57:628669     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_042056.png
+2021_05_09 04:20:57:953640     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 310 ms (0.31) sec
+2021_05_09 04:20:58:352381     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:21:05:130792     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6742 ms (6.742) sec
+2021_05_09 04:21:05:415025     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 04:21:05:544861     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 04:21:05:566100     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (669, 679)
+2021_05_09 04:21:05:572998     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.818 seconds
+2021_05_09 04:21:06:859470     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (669, 679) over a duration of 0.818 seconds
+2021_05_09 04:21:07:037094     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:21:07:323694     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 224 ms (0.224) sec
+2021_05_09 04:21:07:724560     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:21:08:087346     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 318 ms (0.318) sec
+2021_05_09 04:21:08:112827     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:21:08:151402     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:21:08:192067     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:21:08:315119     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:21:09:119348     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_042108.png
+2021_05_09 04:21:12:143505     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2979 ms (2.979) sec
+2021_05_09 04:21:12:541857     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 04:21:12:878374     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 04:21:13:296383     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 04:21:13:519965     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 04:21:13:797400     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 04:21:13:824771     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (524, 332)
+2021_05_09 04:21:13:848805     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.559 seconds
+2021_05_09 04:21:14:813122     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (524, 332) over a duration of 0.559 seconds
+2021_05_09 04:21:14:931411     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 04:21:15:017661     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:21:15:025684     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:21:15:078642     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:21:15:217200     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:21:16:248267     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_042115.png
+2021_05_09 04:21:16:626087     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 337 ms (0.337) sec
+2021_05_09 04:21:16:980656     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:21:24:268864     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 7272 ms (7.272) sec
+2021_05_09 04:21:24:648897     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 04:21:24:680803     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 04:21:24:689714     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (689, 671)
+2021_05_09 04:21:24:725937     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.501 seconds
+2021_05_09 04:21:25:676027     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (689, 671) over a duration of 0.501 seconds
+2021_05_09 04:21:25:849259     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:21:26:183435     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 289 ms (0.289) sec
+2021_05_09 04:21:26:553364     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:21:26:813470     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 235 ms (0.235) sec
+2021_05_09 04:21:26:822147     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:21:26:833347     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:21:26:890004     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:21:26:932962     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:21:27:767046     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_042126.png
+2021_05_09 04:21:30:698201     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2897 ms (2.897) sec
+2021_05_09 04:21:31:098906     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 04:21:31:432088     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 04:21:32:030718     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 04:21:32:391342     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 04:21:32:646308     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 04:21:32:654146     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (608, 333)
+2021_05_09 04:21:32:671803     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.531 seconds
+2021_05_09 04:21:33:603881     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (608, 333) over a duration of 0.531 seconds
+2021_05_09 04:21:33:761052     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 04:21:33:848623     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:21:33:879559     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:21:33:924497     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:21:34:044896     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:21:35:101306     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_042133.png
+2021_05_09 04:21:35:380410     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 253 ms (0.253) sec
+2021_05_09 04:21:35:737799     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:21:42:792255     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6996 ms (6.996) sec
+2021_05_09 04:21:43:060891     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 04:21:43:101118     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 04:21:43:115876     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (651, 668)
+2021_05_09 04:21:43:186096     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.803 seconds
+2021_05_09 04:21:44:540973     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (651, 668) over a duration of 0.803 seconds
+2021_05_09 04:21:44:657047     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:21:45:023125     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 325 ms (0.325) sec
+2021_05_09 04:21:45:473424     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:21:45:794982     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 301 ms (0.301) sec
+2021_05_09 04:21:45:825104     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:21:45:839839     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:21:45:866957     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:21:45:996187     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:21:46:597079     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_042145.png
+2021_05_09 04:21:49:721603     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 3112 ms (3.112) sec
+2021_05_09 04:21:50:019661     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 04:21:50:325579     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 04:21:50:700008     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 04:21:50:877391     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 04:21:51:080346     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 04:21:51:094584     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (604, 316)
+2021_05_09 04:21:51:102773     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.749 seconds
+2021_05_09 04:21:52:319977     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (604, 316) over a duration of 0.749 seconds
+2021_05_09 04:21:52:456725     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 04:21:52:468054     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (547, 317)
+2021_05_09 04:21:52:476050     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.655 seconds
+2021_05_09 04:21:53:646940     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (547, 317) over a duration of 0.655 seconds
+2021_05_09 04:21:53:812848     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 04:21:53:847773     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:21:53:857824     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:21:53:904281     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:21:54:012513     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:21:54:921050     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_042153.png
+2021_05_09 04:21:55:156737     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 207 ms (0.207) sec
+2021_05_09 04:21:55:536309     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:22:02:437266     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 6865 ms (6.865) sec
+2021_05_09 04:22:02:790041     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image make.png on screen
+2021_05_09 04:22:02:828797     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Clicked the make button
+2021_05_09 04:22:02:845377     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (666, 668)
+2021_05_09 04:22:02:892346     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.508 seconds
+2021_05_09 04:22:03:889915     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (666, 668) over a duration of 0.508 seconds
+2021_05_09 04:22:04:041906     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully left-clicked
+2021_05_09 04:22:04:281768     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 171 ms (0.171) sec
+2021_05_09 04:22:04:654025     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
+2021_05_09 04:22:04:946033     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 258 ms (0.258) sec
+2021_05_09 04:22:04:984297     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:22:04:993864     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:22:05:027280     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:22:05:115754     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:22:06:292154     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_042204.png
+2021_05_09 04:22:09:241695     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2891 ms (2.891) sec
+2021_05_09 04:22:09:629604     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 04:22:10:119402     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 04:22:10:560745     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 04:22:10:839689     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 04:22:11:391148     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image img_4.png on screen
+2021_05_09 04:22:11:418161     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (556, 324)
+2021_05_09 04:22:11:459192     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.607 seconds
+2021_05_09 04:22:12:626951     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully moved mouse to (556, 324) over a duration of 0.607 seconds
+2021_05_09 04:22:12:772550     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 04:22:12:780176     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date
+2021_05_09 04:22:12:794034     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current time
+2021_05_09 04:22:12:831173     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated current date_time
+2021_05_09 04:22:12:980710     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully captured a screenshot
+2021_05_09 04:22:14:082220     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully saved the screenshot to c:\users\amirf\code\lotro-bot\ml_data\screenshots\20210509_042212.png
+2021_05_09 04:22:14:315856     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 192 ms (0.192) sec
+2021_05_09 04:22:14:676605     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the t character on the keyboard
