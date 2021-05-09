@@ -1,6 +1,8 @@
+import math
 import random
 
 import config
+from bots.Interactor import InteractorBot
 from bots.generator_bot import GeneratorBot
 from bots.image_bot import ImageBot
 from bots.interceptor_bot import InterceptorBot
@@ -12,6 +14,7 @@ class CrafterBot:
     image_bot = ImageBot()
     int_bot = InterceptorBot()
     log_bot = LoggerBot()
+    interact = InteractorBot()
 
     def __init__(self, name="CrafterBot"):
         self.name = name
@@ -30,17 +33,6 @@ class CrafterBot:
             self.log_bot.log_crafter('error', f'there was a problem opening the crafting panel')
         self.log_bot.log_crafter('success', f'successfully toggled the crafting panel')
 
-    def move_click(self, box, button='left'):
-        coords = self.gen_bot.generate_coords(box[0], box[1], box[2], box[3], 3, 3)
-        self.int_bot.move_to(coords, self.gen_bot.generate_duration())
-        if button == 'left':
-            self.int_bot.click()
-        elif button == 'right':
-            self.int_bot.right_click()
-        else:
-            self.log_bot.log_crafter('error',
-                                     f'invalid button parameter {button}. please use values, \'left\' or \'right\'')
-
     def toggle(self, path, target, t_type, image_confidence):
         filename = f'{target}.png'
         filename_toggled = f'{target}_toggled.png'
@@ -55,7 +47,7 @@ class CrafterBot:
             return
 
         self.log_bot.log_crafter('success', f'successfully located {target} {t_type}')
-        self.move_click(box)
+        self.interact.move_click(box)
 
     def toggle_trade(self, trade):
         self.toggle(
@@ -90,18 +82,7 @@ class CrafterBot:
             self.log_bot.log_crafter('error', f'unable to find the recipe, {recipe}')
             return
         self.log_bot.log_crafter('success', f'clicked the {recipe} recipe')
-        self.move_click(box)
-
-    def click_button(self, button):
-        path = f'{config.IMAGES_DIRECTORY_PATH}\\interaction_panels\\buttons'
-        filename = f'{button}.png'
-
-        box = self.int_bot.find_image(path, filename, 0.95)
-        if box is None:
-            self.log_bot.log_crafter('error', f'unable to find the button, {button}')
-            return
-        self.log_bot.log_crafter('success', f'clicked the {button} button')
-        self.move_click(box)
+        self.interact.move_click(box)
 
     def navigate_to_recipe(self, tier, category, recipe):
         # TODO make a call to a database with just a recipe and it should return trade, tier, and category
@@ -118,12 +99,12 @@ class CrafterBot:
             grayscale=False
         )
         for i in range(random.randint(1, 2)):
-            self.move_click(box, button='right')
+            self.interact.move_click(box, button='right')
 
     def plant_and_harvest_field(self, tier, category, recipe, count):
         self.navigate_to_recipe(tier, category, recipe)
         for i in range(count):
-            self.click_button('make')
+            self.interact.click_button('make')
             self.gen_bot.generate_delay()
             self.int_bot.screenshot(
                 f'{config.ML_DATA_DIRECTORY_PATH}\\screenshots\\{self.gen_bot.generate_date_time("", "", "_", ms=False)}.png')
@@ -135,3 +116,13 @@ class CrafterBot:
             self.gen_bot.generate_delay()
             self.int_bot.press('t')
             self.gen_bot.generate_delay(7000, 1000)
+
+    def process_crops(self, tier, category, recipe, total, batch_count):
+        self.navigate_to_recipe(tier, category, recipe)
+        for i in range(math.ceil(total / batch_count)):
+            self.interact.click_button('make_all')
+            self.gen_bot.generate_delay(3000 * batch_count + 1000, 1500)
+            self.int_bot.press('space')
+            self.gen_bot.generate_delay()
+            self.interact.click_button('repair_all')
+            self.gen_bot.generate_delay()

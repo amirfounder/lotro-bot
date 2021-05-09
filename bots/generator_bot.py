@@ -50,14 +50,14 @@ class GeneratorBot:
         self.log_bot.log_generator('success', 'successfully generated current date_time')
         return g_date_time
 
-    def generate_delay(self, gen_delay=default_delay, gen_range=default_delay_range):
-        delay = random.randint(
-            gen_delay - int(gen_range / 2),
-            gen_delay + int(gen_range / 2)
+    def generate_delay(self, delay=default_delay, delay_range=default_delay_range):
+        ran_delay = random.randint(
+            delay - int(delay_range / 2),
+            delay + int(delay_range / 2)
         )
-        time.sleep(delay / 1000)
-        self.generated_delays.append(delay)
-        self.log_bot.log_generator('success', f'successfully generated delay, {delay} ms ({delay / 1000}) sec')
+        time.sleep(ran_delay / 1000)
+        self.generated_delays.append(ran_delay)
+        self.log_bot.log_generator('success', f'successfully generated delay, {ran_delay} ms ({ran_delay / 1000}) sec')
         return
 
     def generate_coords(self, left, top, width, height, x_padding, y_padding):
