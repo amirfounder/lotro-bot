@@ -3,15 +3,11 @@ from bots.config_bot import ConfigBot
 config_bot = ConfigBot()
 config_bot.generate_config_py()
 
-from bots.crafter_bot import CrafterBot
-from bots.generator_bot import GeneratorBot
-from bots.interceptor_bot import InterceptorBot
 from bots.reset_bot import ResetBot
+from bots.crafter_bot import CrafterBot
 
 reset_bot = ResetBot()
 crafter_bot = CrafterBot()
-int_bot = InterceptorBot()
-gen_bot = GeneratorBot()
 
 reset_bot.count_down(3)
 # reset_bot.reset_camera_position()

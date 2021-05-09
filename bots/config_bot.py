@@ -40,5 +40,5 @@ class ConfigBot:
 
     def destroy_config_py(self):
         f = open(f'{self.get_project_pathname()}\\config.py', 'w')
-        f.write(f'"""\nProcess finished.\nThe \'config.py\' has undergone self-destruction.\n3...\n2...\n1...\nBOOM!\n"""')
+        f.write(f'# DO NOT REMOVE THIS FILE!\n')
         f.close()

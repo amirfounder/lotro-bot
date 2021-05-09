@@ -1,8 +1,1 @@
-"""
-Process finished.
-The 'config.py' has undergone self-destruction.
-3...
-2...
-1...
-BOOM!
-"""
+# DO NOT REMOVE THIS FILE!
