@@ -30,7 +30,7 @@ class InteractorBot():
         path = f'{config.IMAGES_DIRECTORY_PATH}\\interaction_panels\\buttons'
         filename = f'{button}.png'
 
-        box = self.int_bot.find_image(path, filename, 0.95)
+        box = self.int_bot.find_image(path, filename, 0.9)
         if box is None:
             self.log_bot.log_crafter('error', f'unable to find the button, {button}')
             return
