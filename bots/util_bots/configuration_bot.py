@@ -1,7 +1,7 @@
 import os
 
 
-class ConfigBot:
+class ConfigurationBot:
     def __init__(self):
         print('CONFIGURATION_BOT built and deployed...')
 
@@ -45,21 +45,23 @@ class ConfigBot:
     def destroy_main_py(self):
         f = open(f'{self.get_project_pathname()}\\main.py', 'w')
         f.write('# Run \'main.py\' to restore this file\n'
-                'from bots.util_bots.config_bot import ConfigBot\n'
-                'b = ConfigBot()\n'
+                'from bots.util_bots.configuration_bot import ConfigurationBot\n'
+                'b = ConfigurationBot()\n'
                 'b.restore_default_main_py()\n'
                 )
         f.close()
 
     def restore_default_main_py(self):
         f = open(f'{self.get_project_pathname()}\\main.py', 'w')
-        f.write("from bots.util_bots.config_bot import ConfigBot\n\n"
-                "config = ConfigBot()\n"
+        f.write("from bots.util_bots.configuration_bot import ConfigurationBot\n\n"
+                "config = ConfigurationBot()\n"
                 "config.generate_config_py()\n\n"
-                "from bots.reset_bot import ResetBot\n\n"
-                "reset = ResetBot()\n\n"
+                "from bots.reset_bot import ResetBot\n"
+                "from bots.game_bots.boss_bots.hobbiton_boss_one import HobbitonBossBot\n\n"
+                "reset = ResetBot()\n"
+                "boss = HobbitonBossBot()\n\n"
                 "reset.count_down(5)\n\n"
-                "# Remove this comment and start scripting\n\n"
+                "# boss.do_something_here()\n\n"
                 "config.destroy_config_py()\n"
                 "# config.destroy_main_py()\n"
                 )
