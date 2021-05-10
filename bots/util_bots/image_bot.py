@@ -18,5 +18,4 @@ class ImageBot:
                 grayscale=grayscale
             )
             if image is not None:
-                break
-        return image
+                return image

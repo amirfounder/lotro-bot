@@ -2,6 +2,7 @@ import os
 
 import config
 from bots.util_bots.generator_bot import GeneratorBot
+from bots.util_bots.image_bot import ImageBot
 from bots.util_bots.interceptor_bot import InterceptorBot
 from bots.util_bots.logger_bot import LoggerBot
 
@@ -11,6 +12,7 @@ class InteractionBot:
     int_bot = InterceptorBot()
     log_bot = LoggerBot()
     gen_bot = GeneratorBot()
+    img_bot = ImageBot()
 
     def __init__(self):
         print(f'started the InteractionBot in directory: {os.getcwd()}')
@@ -52,3 +54,37 @@ class InteractionBot:
 
         self.log_bot.log_crafter('success', f'successfully located {target} {t_type}')
         self.move_click(box)
+
+    def interact_with_npc(self, location, npc_name):
+        pathname = f'{config.IMAGES_DIRECTORY_PATH}\\world\\npc_nameplates\\{location}\\{npc_name}'
+        box = self.img_bot.find_images_from_directory(pathname, 0.5,)
+        self.move_click(box, 'right')
+
+    def repair_tools(self, location, npc_name):
+        """
+        Must be at NPC, 'olo_proudfoot', and face east.
+        :return:
+        """
+        self.interact_with_npc(location, npc_name)
+        box = self.int_bot.find_image(
+            f'{config.IMAGES_DIRECTORY_PATH}\\interaction_panels\\headers',
+            'shop.png'
+        )
+        if box is None:
+            box = self.int_bot.find_image(
+                f'{config.IMAGES_DIRECTORY_PATH}\\interaction_panels\\npc_interactions',
+                'browse_the_shop.png'
+            )
+            self.move_click(box)
+        self.gen_bot.generate_delay(500)
+        self.toggle(
+            f'{config.IMAGES_DIRECTORY_PATH}\\interaction_panels\\tabs',
+            'repair',
+            'tab',
+            0.7
+        )
+        self.gen_bot.generate_delay()
+        self.click_button('repair_all')
+        self.gen_bot.generate_delay()
+        self.int_bot.press('esc')
+        self.int_bot.press('esc')

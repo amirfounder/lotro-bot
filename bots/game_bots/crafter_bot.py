@@ -21,8 +21,8 @@ class CrafterBot:
         self.log_bot.log_crafter('initialized', 'crafter_bot built and deployed...')
 
     def toggle_crafting_panel(self):
-        path = f'{config.IMAGES_DIRECTORY_PATH}\\interaction_panels\\crafting_panel'
-        filename = 'crafting_panel_header.png'
+        path = f'{config.IMAGES_DIRECTORY_PATH}\\interaction_panels\\headers'
+        filename = 'yeoman.png'
         box = self.int_bot.find_image(path, filename)
 
         if box is not None:
