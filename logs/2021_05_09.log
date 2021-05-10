@@ -18886,3 +18886,12 @@
 2021_05_09 21:04:05:638720     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 54 time(s)
 2021_05_09 21:04:05:805347     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'make_all.png' on screen
 2021_05_09 21:04:05:836662     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the button, make_all
+2021_05_09 21:06:36:356680     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 150498 ms (150.498) sec
+2021_05_09 21:06:36:691799     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully pressed the space character on the keyboard
+2021_05_09 21:06:37:045906     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 340 ms (0.34) sec
+2021_05_09 21:06:37:251304     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'repair_all.png' on screen
+2021_05_09 21:06:37:253190     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the button, repair_all
+2021_05_09 21:06:37:427853     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 161 ms (0.161) sec
+2021_05_09 21:06:37:430042     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Planted and harvest 55 time(s)
+2021_05_09 21:06:37:678723     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'make_all.png' on screen
+2021_05_09 21:06:37:681807     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the button, make_all

@@ -1,7 +1,7 @@
 import pyautogui
 import pydirectinput
 
-from bots.logger_bot import LoggerBot
+from bots.util_bots.logger_bot import LoggerBot
 
 
 # noinspection PyBroadException
@@ -170,9 +170,23 @@ class InterceptorBot:
             )
             return box
 
-    def press(self, character):
-        pydirectinput.press(character)
+    def press(self, key):
+        pydirectinput.press(key)
         self.log_bot.log_interceptor(
             'success',
-            f'successfully pressed the {character} character on the keyboard'
+            f'successfully pressed the {key} character on the keyboard'
+        )
+
+    def key_down(self, key):
+        pydirectinput.keyDown(key)
+        self.log_bot.log_interceptor(
+            'success',
+            f'pressed the {key} key down'
+        )
+
+    def key_up(self, key):
+        pydirectinput.keyUp(key)
+        self.log_bot.log_interceptor(
+            'success',
+            f'released the {key} key'
         )

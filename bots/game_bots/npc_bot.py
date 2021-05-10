@@ -1,10 +1,10 @@
 import config
-from bots.Interactor import InteractorBot
+from bots.game_bots.interaction_bot import InteractionBot
 
 
 class NpcBot:
 
-    interact = InteractorBot()
+    interact = InteractionBot()
 
     def __init__(self, name="NpcBot"):
         self.name = name

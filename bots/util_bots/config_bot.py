@@ -40,5 +40,28 @@ class ConfigBot:
 
     def destroy_config_py(self):
         f = open(f'{self.get_project_pathname()}\\config.py', 'w')
-        f.write(f'# DO NOT REMOVE THIS FILE!\n')
+        f.write('')
+        f.close()
+
+    def destroy_main_py(self):
+        f = open(f'{self.get_project_pathname()}\\main.py', 'w')
+        f.write('# Run \'main.py\' to restore this file\n'
+                'from bots.util_bots.config_bot import ConfigBot\n'
+                'b = ConfigBot()\n'
+                'b.restore_default_main_py()\n'
+                )
+        f.close()
+
+    def restore_default_main_py(self):
+        f = open(f'{self.get_project_pathname()}\\main.py', 'w')
+        f.write("from bots.util_bots.config_bot import ConfigBot\n\n"
+                "config = ConfigBot()\n"
+                "config.generate_config_py()\n\n"
+                "from bots.reset_bot import ResetBot\n\n"
+                "reset = ResetBot()\n\n"
+                "reset.count_down(5)\n\n"
+                "# Remove this comment and start scripting\n\n"
+                "config.destroy_config_py()\n"
+                "# config.destroy_main_py()\n"
+                )
         f.close()

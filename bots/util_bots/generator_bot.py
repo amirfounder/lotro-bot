@@ -2,7 +2,7 @@ import datetime
 import random
 import time
 
-from bots.logger_bot import LoggerBot
+from bots.util_bots.logger_bot import LoggerBot
 
 
 class GeneratorBot:
