@@ -1,0 +1,65 @@
+2021_05_09 23:04:26:081221     LEVEL:CRAFTER_BOT       TYPE:INITIALIZED  MESSAGE:Crafter_bot built and deployed...
+2021_05_09 23:04:26:082183     LEVEL:MOVEMENT_BOT      TYPE:INITIALIZED  MESSAGE:Movement_bot built and deployed...
+2021_05_09 23:04:26:083169     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 23:04:26:083169     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_09 23:04:27:084186     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_09 23:04:28:085137     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 23:04:29:085480     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 23:09:22:146771     LEVEL:CRAFTER_BOT       TYPE:INITIALIZED  MESSAGE:Crafter_bot built and deployed...
+2021_05_09 23:09:22:147736     LEVEL:MOVEMENT_BOT      TYPE:INITIALIZED  MESSAGE:Movement_bot built and deployed...
+2021_05_09 23:09:22:148716     LEVEL:RESET_BOT         TYPE:INITIALIZE   MESSAGE:Initialized countdown...
+2021_05_09 23:09:22:148716     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 5
+2021_05_09 23:09:23:148808     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 4
+2021_05_09 23:09:24:149477     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 3
+2021_05_09 23:09:25:149621     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 2
+2021_05_09 23:09:26:150457     LEVEL:RESET_BOT         TYPE:PROGRESS     MESSAGE:Counting down: 1
+2021_05_09 23:09:27:151783     LEVEL:RESET_BOT         TYPE:SUCCESS      MESSAGE:Success! Bots deployed!
+2021_05_09 23:09:27:151783     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Returned the size of the current screen (1920, 1080)
+2021_05_09 23:09:27:151783     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated coords (986, 460)
+2021_05_09 23:09:27:151783     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.79 seconds
+2021_05_09 23:09:28:109350     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Moved mouse to (986, 460) over a duration of 0.79 seconds
+2021_05_09 23:09:28:218052     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully right-clicked
+2021_05_09 23:09:29:193248     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 975 ms (0.975) sec
+2021_05_09 23:09:29:301971     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Performed the mouse down operation
+2021_05_09 23:09:29:402408     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Moved mouse to (986, 1234) over a duration of 0 seconds
+2021_05_09 23:09:29:504225     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Performed the mouse up operation
+2021_05_09 23:09:29:504225     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated a duration of 0.719 seconds
+2021_05_09 23:09:30:393344     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Moved mouse to (948, 246) over a duration of 0.719 seconds
+2021_05_09 23:09:30:494878     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Performed the mouse down operation
+2021_05_09 23:09:30:595627     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Moved mouse to (948, 989) over a duration of 0 seconds
+2021_05_09 23:09:30:696909     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Performed the mouse up operation
+2021_05_09 23:09:32:808901     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Scrolled out 21 scroll-clicks
+2021_05_09 23:09:33:311627     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Scrolled in 5 scroll-clicks
+2021_05_09 23:09:33:411805     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Pressed the 'g' key down
+2021_05_09 23:09:35:432678     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2019 ms (2.019) sec
+2021_05_09 23:09:35:534302     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Released the g key
+2021_05_09 23:09:35:715344     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'yeoman.png' on screen
+2021_05_09 23:09:36:018139     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Pressed the 't' character on the keyboard
+2021_05_09 23:09:36:205343     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image yeoman.png on screen
+2021_05_09 23:09:36:205343     LEVEL:CRAFTER_BOT       TYPE:SUCCESS      MESSAGE:Successfully toggled the crafting panel on
+2021_05_09 23:09:36:388465     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image farming_toggled.png on screen
+2021_05_09 23:09:36:389443     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Farming trade already toggled
+2021_05_09 23:09:36:600246     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image journeyman_toggled.png on screen
+2021_05_09 23:09:36:601223     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Journeyman tier already toggled
+2021_05_09 23:09:36:798949     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Successfully located the image vegetables_toggled.png on screen
+2021_05_09 23:09:36:799925     LEVEL:CRAFTER_BOT       TYPE:INFO         MESSAGE:Vegetables tier already toggled
+2021_05_09 23:09:36:987680     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'blueberry_field.png' on screen
+2021_05_09 23:09:36:987680     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the recipe, blueberry_field
+2021_05_09 23:09:37:189497     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'make.png' on screen
+2021_05_09 23:09:37:189497     LEVEL:CRAFTER_BOT       TYPE:ERROR        MESSAGE:Unable to find the button, make
+2021_05_09 23:09:37:386668     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 197 ms (0.197) sec
+2021_05_09 23:09:37:688529     LEVEL:INTERCEPTOR_BOT   TYPE:SUCCESS      MESSAGE:Pressed the 't' character on the keyboard
+2021_05_09 23:09:37:937742     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 248 ms (0.248) sec
+2021_05_09 23:09:40:862816     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 2925 ms (2.925) sec
+2021_05_09 23:09:41:049692     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img.png' on screen
+2021_05_09 23:09:41:340191     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 290 ms (0.29) sec
+2021_05_09 23:09:41:536497     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_1.png' on screen
+2021_05_09 23:09:41:865641     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 328 ms (0.328) sec
+2021_05_09 23:09:42:039718     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_2.png' on screen
+2021_05_09 23:09:42:236879     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 196 ms (0.196) sec
+2021_05_09 23:09:42:402944     LEVEL:INTERCEPTOR_BOT   TYPE:ERROR        MESSAGE:Could not find 'img_3.png' on screen
+2021_05_09 23:09:42:744966     LEVEL:GENERATOR_BOT     TYPE:SUCCESS      MESSAGE:Successfully generated delay, 342 ms (0.342) sec
+2021_05_09 23:30:26:949199     LEVEL:CRAFTER_BOT       TYPE:INITIALIZED  MESSAGE:Crafter_bot built and deployed...
+2021_05_09 23:30:26:951153     LEVEL:RESET_BOT         TYPE:INITIALIZED  MESSAGE:Reset_bot built and deployed...
+2021_05_09 23:30:26:951153     LEVEL:MOVEMENT_BOT      TYPE:INITIALIZED  MESSAGE:Movement_bot built and deployed...
+2021_05_09 23:30:26:951153     LEVEL:RESET_BOT         TYPE:INITIALIZED  MESSAGE:Reset_bot built and deployed...

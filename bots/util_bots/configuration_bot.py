@@ -2,9 +2,8 @@ import os
 
 
 class ConfigBot:
-
     def __init__(self):
-        print('config bot started')
+        print('CONFIGURATION_BOT built and deployed...')
 
     @staticmethod
     def get_project_pathname():

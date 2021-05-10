@@ -1,26 +1,25 @@
-from bots.util_bots.generator_bot import GeneratorBot
-from bots.util_bots.interceptor_bot import InterceptorBot
-from bots.util_bots.logger_bot import LoggerBot
+from bots.util_bots.generation_bot import GenerationBot
+from bots.util_bots.interception_bot import InterceptionBot
+from bots.util_bots.logging_bot import LoggingBot
 
 
 class MovementBot:
-
-    log_bot = LoggerBot()
-    int_bot = InterceptorBot()
-    gen_bot = GeneratorBot()
+    log = LoggingBot()
+    intercept = InterceptionBot()
+    generate = GenerationBot()
 
     def __init__(self):
-        self.log_bot.log_movement('initialized', 'movement_bot built and deployed...')
+        self.log.log_movement('initialized', 'MOVEMENT_BOT built and deployed...')
 
     def move(self, direction, duration):
-        self.int_bot.key_down(direction)
-        self.gen_bot.generate_delay(duration, 50)
-        self.int_bot.key_up(direction)
+        self.intercept.key_down(direction)
+        self.generate.generate_delay(duration, 50)
+        self.intercept.key_up(direction)
 
     def rotate(self, direction, deg):
-        self.int_bot.key_down(direction)
-        self.gen_bot.generate_delay(int(deg * 6.21), 50)
-        self.int_bot.key_up(direction)
+        self.intercept.key_down(direction)
+        self.generate.generate_delay(int(deg * 6.21), 50)
+        self.intercept.key_up(direction)
 
     def move_forward(self, duration):
         self.move('e', duration)
@@ -41,4 +40,4 @@ class MovementBot:
         self.rotate('f', deg)
 
     def jump(self):
-        self.int_bot.press('space')
+        self.intercept.press('space')
