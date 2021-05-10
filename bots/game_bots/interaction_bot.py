@@ -1,12 +1,12 @@
 import os
 
 import config
-from bots.generator_bot import GeneratorBot
-from bots.interceptor_bot import InterceptorBot
-from bots.logger_bot import LoggerBot
+from bots.util_bots.generator_bot import GeneratorBot
+from bots.util_bots.interceptor_bot import InterceptorBot
+from bots.util_bots.logger_bot import LoggerBot
 
 
-class InteractorBot():
+class InteractionBot:
 
     int_bot = InterceptorBot()
     log_bot = LoggerBot()

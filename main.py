@@ -1,16 +1,15 @@
-from bots.config_bot import ConfigBot
+from bots.util_bots.config_bot import ConfigBot
 
-config_bot = ConfigBot()
-config_bot.generate_config_py()
+config = ConfigBot()
+config.generate_config_py()
 
 from bots.reset_bot import ResetBot
-from bots.crafter_bot import CrafterBot
 
-reset_bot = ResetBot()
-crafter_bot = CrafterBot()
+reset = ResetBot()
 
-reset_bot.count_down(5)
+reset.count_down(5)
 
-# Write your code here!
+# Remove this comment and start scripting
 
-config_bot.destroy_config_py()
+config.destroy_config_py()
+# config.destroy_main_py()

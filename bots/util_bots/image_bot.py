@@ -1,6 +1,6 @@
 import os
 
-from bots.interceptor_bot import InterceptorBot
+from bots.util_bots.interceptor_bot import InterceptorBot
 
 
 class ImageBot:

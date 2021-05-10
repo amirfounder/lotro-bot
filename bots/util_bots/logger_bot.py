@@ -63,13 +63,6 @@ class LoggerBot:
             l_message
         )
 
-    def log_crafter(self, l_type, l_message):
-        self.log_message(
-            'crafting_bot',
-            l_type,
-            l_message
-        )
-
     def log_reset(self, l_type, l_message):
         self.log_message(
             'reset_bot',
@@ -81,6 +74,13 @@ class LoggerBot:
     def log_crafter(self, l_type, l_message):
         self.log_message(
             'crafter_bot',
+            l_type,
+            l_message
+        )
+
+    def log_movement(self, l_type, l_message):
+        self.log_message(
+            'movement_bot',
             l_type,
             l_message
         )
