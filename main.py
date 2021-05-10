@@ -13,7 +13,7 @@ boss_bot = HobbitonBossBot()
 
 reset.count_down(5)
 
-boss_bot.run()
+# boss_bot.run()
 
-# config.destroy_config_py()
+config.destroy_config_py()
 # config.destroy_main_py()
