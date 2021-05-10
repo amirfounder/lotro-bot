@@ -1,3 +1,4 @@
+from bots.game_bots.crafting_bots.cooking_bot import CookingBot
 from bots.game_bots.crafting_bots.farming_bot import FarmingBot
 from bots.game_bots.interaction_bot import InteractionBot
 from bots.game_bots.movement_bot import MovementBot
@@ -13,21 +14,32 @@ class HobbitonBossBot:
     interact = InteractionBot()
     generate = GenerationBot()
     handle_npc = NpcHandlingBot()
+    cook = CookingBot()
 
     def __init__(self):
         print('level 1 boss bot appeared at hobbiton...')
 
-    def run(self):
+    def bulk_farm(self):
         self.reset.reset_camera_position()
         self.reset.reset_camera_scroll()
-        self.move.strafe_right(2000)
         self.farm.plant_and_harvest_fields_bulk(
             'journeyman',
             'vegetables',
             'blueberry_field',
-            10,
-            7
+            160,
+            45,
+            'hobbiton',
+            'porto_brownlock'
         )
-        self.move.strafe_left(2000)
-        self.generate.generate_delay(1000)
-        self.handle_npc.interact_and_repair_all('hobbiton', 'porto_brownlock')
+
+    def bulk_process(self):
+        self.farm.process_crops(
+            'journeyman',
+            'vegetables',
+            'bunch_of_blueberries',
+            480,
+            80
+        )
+
+    def bulk_cook(self):
+        self.cook.cook_food('journeyman', 'ingredients', 'blueberry_pie_filling', 210, 70)

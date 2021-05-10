@@ -1,3 +1,5 @@
+import random
+
 import config
 from bots.util_bots.generation_bot import GenerationBot
 from bots.util_bots.imaging_bot import ImagingBot
@@ -14,6 +16,9 @@ class InteractionBot:
     def __init__(self):
         self.log.log_interaction('initialized', 'INTERACTION_BOT built and deployed...')
 
+    def move_mouse_over(self):
+        self.intercept.move(random.randint(200, 300), random.randint(-20, 20), self.generate.generate_duration())
+
     def move_mouse_and_click(self, box, button='left', x_padding=3, y_padding=3):
         coords = self.generate.generate_coords(box[0], box[1], box[2], box[3], x_padding, y_padding)
         self.intercept.move_to(coords, self.generate.generate_duration())
@@ -25,14 +30,14 @@ class InteractionBot:
             self.log.log_crafting('error',
                                   f'invalid button parameter {button}. please use values, \'left\' or \'right\'')
 
-    def click_button(self, button):
+    def click_button(self, filename):
         path = f'{config.IMAGES_DIRECTORY_PATH}\\interaction_panels\\buttons'
-        filename = f'{button}.png'
+        filename = f'{filename}.png'
         box = self.intercept.find_image(path, filename, 0.9)
         if box is None:
-            self.log.log_crafting('error', f'unable to find the button, {button}')
+            self.log.log_crafting('error', f'unable to find the button, {filename}')
             return
-        self.log.log_crafting('success', f'clicked the {button} button')
+        self.log.log_crafting('success', f'clicked the {filename} button')
         self.move_mouse_and_click(box)
 
     def toggle(self, path, target, t_type, image_confidence):
@@ -48,3 +53,5 @@ class InteractionBot:
             return
         self.log.log_crafting('success', f'successfully located {target} {t_type}')
         self.move_mouse_and_click(box)
+        self.generate.generate_delay()
+        self.move_mouse_over()

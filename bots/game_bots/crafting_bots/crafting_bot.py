@@ -1,4 +1,5 @@
 import math
+import random
 
 import config
 from bots.game_bots.interaction_bot import InteractionBot
@@ -68,7 +69,8 @@ class CraftingBot:
             self.interact.click_button('make_all')
             self.generate.generate_delay(induction_speed * batch_count + 1000, 1500)
             self.intercept.press('space')
-            self.generate.generate_delay()
-            self.interact.move_mouse_and_click('repair_all')
+            self.generate.generate_delay(1000, 1000)
+            self.handle_npc.toggle_repair_tab()
+            self.interact.click_button('repair_all')
             self.generate.generate_delay()
             self.log.log_crafting('success', f'planted and harvest {i + 1} time(s)')

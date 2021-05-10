@@ -31,8 +31,8 @@ class NpcHandlingBot:
         self.interact_with_npc(location, npc_name)
         box = self.intercept.find_image(f'{config.IMAGES_DIRECTORY_PATH}\\interaction_panels\\headers', 'shop.png')
         if box is None:
-            box = self.intercept.find_image(f'{config.IMAGES_DIRECTORY_PATH}\\interaction_panels\\npc_interactions',
-                                            'browse_the_shop.png')
+            box = self.intercept.find_image(
+                f'{config.IMAGES_DIRECTORY_PATH}\\interaction_panels\\npc_interaction_options', 'browse_the_shop.png')
             self.interact.move_mouse_and_click(box, x_padding=5, y_padding=5)
         self.generate.generate_delay(500)
         self.toggle_repair_tab()

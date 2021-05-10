@@ -11,7 +11,7 @@ boss_bot = HobbitonBossBot()
 
 reset.count_down(5)
 
-boss_bot.run()
+boss_bot.bulk_cook()
 
 config.destroy_config_py()
 # config.destroy_main_py()

@@ -141,3 +141,4 @@ dmypy.json
 cython_debug/
 /ml_data/
 /ml_data/screenshots/
+/logs/2021_05_10_test.log
