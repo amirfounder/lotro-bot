@@ -23,23 +23,23 @@ class HobbitonBossBot:
         self.reset.reset_camera_position()
         self.reset.reset_camera_scroll()
         self.farm.plant_and_harvest_fields_bulk(
-            'journeyman',
+            'minas_ithil',
             'vegetables',
-            'blueberry_field',
-            160,
-            45,
+            'minas_ithil_field',
+            100,
+            3,
             'hobbiton',
             'porto_brownlock'
         )
 
     def bulk_process(self):
         self.farm.process_crops(
-            'journeyman',
+            'minas_ithil',
             'vegetables',
-            'bunch_of_blueberries',
-            480,
-            80
+            'vegetable_treble',
+            887,
+            150
         )
 
     def bulk_cook(self):
-        self.cook.cook_food('journeyman', 'ingredients', 'blueberry_pie_filling', 210, 70)
+        self.cook.cook_food('minas_ithil', 'ingredients', 'bunch_of_par_cooked_vegetables', 7000, 200)

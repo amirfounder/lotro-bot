@@ -50,27 +50,27 @@ class InterceptionBot:
     def click(self, coords=None):
         message = f'Performed left-click'
         if coords is None:
-            pyautogui.click()
+            pydirectinput.click()
         else:
-            pyautogui.click(coords[0], coords[1])
+            pydirectinput.click(coords[0], coords[1])
             message += f' on ({coords[0]}, {coords[1]})'
         self.log.log_interception('success', message)
 
     def right_click(self, coords=None):
         message = f'Performed right-click'
         if coords is None:
-            pyautogui.click(button='right')
+            pydirectinput.click(button='right')
         else:
-            pyautogui.click(coords[0], coords[1], button='right')
+            pydirectinput.click(coords[0], coords[1], button='right')
             message += f'on ({coords[0]}, {coords[1]})'
         self.log.log_interception('success', message)
 
     def mouse_down(self):
-        pyautogui.mouseDown()
+        pydirectinput.mouseDown()
         self.log.log_interception('success', 'Pressed the mouse down')
 
     def mouse_up(self):
-        pyautogui.mouseUp()
+        pydirectinput.mouseUp()
         self.log.log_interception('success', 'Released the mouse')
 
     def scroll(self, direction_param, count=1):

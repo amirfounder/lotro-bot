@@ -40,7 +40,7 @@ class FarmingBot:
             self.generate.generate_delay()
             self.generate.generate_delay(3000, 500)
             self.harvest_field(recipe)
-            self.generate.generate_delay(7000, 1000)
+            self.generate.generate_delay(5000, 1000)
             self.generate.generate_delay()
             self.intercept.press('t')
             self.generate.generate_delay()
@@ -48,18 +48,22 @@ class FarmingBot:
     def plant_and_harvest_fields_bulk(self, tier, category, recipe, seed_count, batch_count, location, npc_name):
         last_batch = seed_count % batch_count
         for i in range(math.floor(seed_count / batch_count)):
-            self.move.strafe_left(3000)
+            self.move.rotate_left(180)
+            self.move.move_forward(3500)
             self.plant_and_harvest_fields(tier, category, recipe, batch_count)
             self.log.log_farming('success', f'Planted {batch_count} crops')
             self.intercept.press('t')
-            self.move.strafe_right(3000)
+            self.move.rotate_right(180)
+            self.move.move_forward(3500)
             self.handle_npc.interact_and_repair_all(location, npc_name)
         if last_batch != 0:
-            self.move.strafe_left(3000)
+            self.move.rotate_left(180)
+            self.move.move_forward(3500)
             self.plant_and_harvest_fields(tier, category, recipe, last_batch)
             self.log.log_farming('success', f'Planted the last {last_batch} crop(s)')
             self.intercept.press('t')
-            self.move.strafe_right(3000)
+            self.move.rotate_right(180)
+            self.move.move_forward(3500)
             self.handle_npc.interact_and_repair_all(location, npc_name)
 
     def process_crops(self, tier, category, recipe, total, batch_count):
