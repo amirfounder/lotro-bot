@@ -11,7 +11,7 @@ boss = HobbitonBossBot()
 
 reset.count_down(5)
 
-boss_bot.bulk_farm()
+boss.bulk_farm()
 # boss.do_something_here()
 
 config.destroy_config_py()
